@@ -1,0 +1,299 @@
+aircraft_type,model_name,manufacturer,entry_year,source
+B738,Boeing 737-800,,1997,wikidata:P606
+A320,Airbus A320,,,
+A20N,Airbus A320neo,,2014,wikidata:P606
+A21N,Airbus A321neo,,2016,wikidata:P606
+B38M,Boeing 737 MAX 8,,2016,wikidata:P606
+A321,Airbus A321,,1993,wikidata:P606
+C172,Cessna 172 Skyhawk,,1955,wikidata:P606
+A319,Airbus A319,,1995,wikidata:P606
+B789,Boeing 787-9,,,
+B77W,Boeing 777-300ER,,2003,wikidata:P606
+P28A,Piper PA-28 Archer,,,
+B737,Boeing 737,,1967,wikidata:P606
+C208,Cessna 208 Caravan,,1982,wikidata:P606
+A359,Airbus A350-900,,2013,wikidata:P606
+A333,Airbus A330-300,,,
+AT76,ATR 72-600,,,
+E75L,Embraer 175,,2003,wikidata:P606
+B763,Boeing 767-300,,1986,wikidata:P606
+C130,Lockheed C-130 Hercules,,1954,wikidata:P606
+TEX2,Beechcraft T-6 Texan II,,2000,wikidata:P606
+PC12,Pilatus PC-12,,1991,wikidata:P606
+T38,Northrop T-38 Talon,,1959,wikidata:P606
+B739,Boeing 737-900,,2000,wikidata:P606
+B752,Boeing 757-200,,1982,wikidata:P606
+DH8D,Bombardier Dash 8 Q400,,,
+A332,Airbus A330-200,,1987,wikipedia:lead
+E190,Embraer 190,,2004,wikidata:P606
+C30J,Lockheed C-130J Super Hercules,,1996,wikidata:P606
+K35R,Boeing KC-135R Stratotanker,,,
+BCS3,Bombardier CS300,,2015,wikidata:P606
+CRJ9,Bombardier CRJ-900,,2001,wikidata:P606
+B788,Boeing 787-8,,,
+EC35,Eurocopter EC135,,1994,wikidata:P606
+A139,AgustaWestland AW139,,2001,wikidata:P606
+CRJ2,Bombardier CRJ-200,,1991,wikidata:P606
+E55P,Embraer Phenom 300,,2008,wikidata:P606
+C56X,Cessna Citation XLS,,1996,wikidata:P606
+AS50,Eurocopter AS350 Écureuil,,1974,wikidata:P606
+C182,Cessna 182 Skylane,,1956,wikidata:P606
+B77L,Boeing 777-200LR,,1990,wikipedia:lead
+EC45,Eurocopter EC145,,1999,wikidata:P606
+B190,Beechcraft 1900,,1982,wikidata:P606
+E145,Embraer ERJ-145,,1995,wikidata:P606
+DHC6,de Havilland Canada DHC-6 Twin Otter,,1965,wikidata:P606
+BE40,Beechcraft Premier I,,,
+CRJ7,Bombardier CRJ-700,,1999,wikidata:P606
+C68A,Cessna Citation Latitude,,2014,wikidata:P606
+B39M,Boeing 737 MAX 9,,,
+SR20,Cirrus SR20,,1995,wikidata:P606
+BE20,Beechcraft King Air 200,,,
+B772,Boeing 777-200,,1994,wikidata:P606
+H60,Sikorsky UH-60 Black Hawk,,1974,wikidata:P606
+B350,Beechcraft King Air 350,,,
+CL35,Bombardier Challenger 350,,,
+C17,Boeing C-17 Globemaster III,,1991,wikidata:P606
+B733,Boeing 737-300,,1984,wikidata:P606
+B734,Boeing 737-400,,,
+CL60,Bombardier Challenger 600 series,,,
+AT75,ATR 72-500,,,
+A339,Airbus A330-900neo,,2017,wikidata:P606
+DA40,Diamond DA40,,1997,wikidata:P606
+B744,Boeing 747-400,,1988,wikidata:P606
+A388,Airbus A380-800,,,
+PC21,Pilatus PC-21,,2002,wikidata:P606
+PA44,Piper PA-44 Seminole,,,
+GLEX,Bombardier Global Express,,1996,wikidata:P606
+S92,Sikorsky S-92,,1998,wikidata:P606
+DA42,Diamond DA42,,2002,wikidata:P606
+A306,Airbus A300-600,,1994,wikidata:P606
+E75S,Embraer 175,,2003,wikidata:P606
+SF34,Saab 340,,1983,wikidata:P606
+AJ27,COMAC ARJ21-700,,,
+E195,Embraer 195,,,
+SU95,Sukhoi Superjet 100,,2008,wikidata:P606
+PC24,Pilatus PC-24,,2007,wikipedia:lead
+C25B,Cessna Citation CJ3,,,
+GLF4,Gulfstream IV,,1985,wikidata:P606
+B762,Boeing 767-200,,1978,wikipedia:lead
+LJ35,Learjet 35,,1973,wikidata:P606
+E295,Embraer E195-E2,,,
+DH8C,De Havilland Canada Dash 8-300,,,
+DH8A,De Havilland Canada Dash 8-100,,,
+SW4,Swearingen Metroliner,,1969,wikidata:P606
+E170,Embraer 170,,2002,wikidata:P606
+EUFI,Eurofighter Typhoon,,1994,wikidata:P606
+AS65,Eurocopter AS365 Dauphin,,1975,wikidata:P606
+C295,Airbus C295,,1997,wikidata:P606
+NH90,NHIndustries NH90,,1995,wikidata:P606
+H25B,Hawker 800,,1983,wikidata:P606
+B78X,Boeing 787-10,,2017,wikidata:P606
+B748,Boeing 747-8,,2010,wikidata:P606
+C750,Cessna Citation X,,1993,wikidata:P606
+HAWK,BAE Hawk,,1974,wikidata:P606
+CL30,Bombardier Challenger 300,,,
+GLF6,Gulfstream G650/G650ER,,,
+A400,Airbus A400M Atlas,,2009,wikidata:P606
+IL76,Ilyushin Il-76,,1971,wikidata:P606
+H47,Boeing CH-47 Chinook,,1961,wikidata:P606
+B407,Bell 407,,1995,wikidata:P606
+E35L,Embraer Legacy 600/650,,2001,wikidata:P606
+C680,Cessna Citation Sovereign,,2002,wikidata:P606
+LJ60,Learjet 60,,1990,wikidata:P606
+BE99,Beechcraft 99 Airliner,,1966,wikidata:P606
+GA6C,Gulfstream G650,,2009,wikidata:P606
+B735,Boeing 737-500,,1989,wikidata:P606
+GLF5,Gulfstream V,,1995,wikidata:P606
+AN32,Antonov An-32,,1976,wikidata:P606
+TEST,Test / Unknown,,,
+LJ45,Learjet 45,,1995,wikidata:P606
+A35K,Airbus A350-1000,,2016,wikidata:P606
+C402,Cessna 402,,1965,wikidata:P606
+H64,Boeing AH-64 Apache,,,
+E135,Embraer ERJ-135,,,
+A109,AgustaWestland AW109,,1971,wikidata:P606
+D228,Dornier 228,,1981,wikidata:P606
+DV20,Diamond DA20 Katana,,1991,wikidata:P606
+C25A,Cessna Citation CJ2,,2000,wikidata:P729
+C700,Gulfstream G700,,2020,wikidata:P606
+B712,Boeing 717-200,,1998,wikidata:P606
+C152,Cessna 152,,,
+AT46,ATR 42-600,,,
+GA5C,Gulfstream G500,,1995,wikidata:P606
+GA7C,Gulfstream G700,,2020,wikidata:P606
+P208,Tecnam P2008,,2009,wikipedia:lead
+EH10,AgustaWestland EH101 Merlin,,1987,wikidata:P606
+E545,Embraer Legacy 450,,2008,wikipedia:lead
+F15,McDonnell Douglas F-15 Eagle,,1972,wikidata:P606
+F100,Fokker 100,,1986,wikidata:P606
+LYNX,Westland Lynx,,1971,wikidata:P606
+UH1,Bell UH-1 Iroquois,,1956,wikidata:P606
+A169,AgustaWestland AW169,,2012,wikidata:P606
+TOR,Panavia Tornado,,1974,wikidata:P606
+BCS1,Airbus A220-100 (Bombardier CS100),,,
+B412,Bell 412,,1979,wikidata:P606
+B52,Boeing B-52 Stratofortress,,1952,wikidata:P606
+MD11,McDonnell Douglas MD-11,,1990,wikidata:P606
+E314,Embraer ERJ-145,,1995,wikidata:P606
+F16,General Dynamics F-16 Fighting Falcon,,1974,wikidata:P606
+E120,Embraer EMB 120 Brasilia,,1983,wikidata:P606
+PA31,Piper PA-31 Navajo,,1964,wikidata:P606
+F2TH,Dassault Falcon 2000,,,
+C560,Cessna Citation V,,1987,wikidata:P606
+FA20,Dassault Falcon 20,,2001,wikidata:P606
+GL5T,Gulfstream G500,,1995,wikidata:P606
+E550,Embraer Legacy 500,,2013,wikidata:P606
+BE9L,Beechcraft King Air 90,,1963,wikidata:P606
+S76,Sikorsky S-76,,1977,wikidata:P606
+DC10,McDonnell Douglas DC-10,,1970,wikidata:P606
+AT45,ATR 42-500,,,
+C27J,Alenia C-27J Spartan,,1999,wikidata:P606
+MD83,McDonnell Douglas MD-83,,1984,wikidata:P606
+C525,Cessna Citation CJ4,,,
+E45X,Embraer Legacy 450,,2008,wikipedia:lead
+A343,Airbus A340-300,,1991,wikidata:P606
+BN2P,Britten-Norman BN-2 Islander,,1965,wikidata:P606
+P3,Lockheed P-3 Orion,,1959,wikidata:P606
+SR22,Cirrus SR22,,2000,wikidata:P606
+B212,Bell 212,,1965,wikidata:P606
+A748,Antonov An-74,,1983,wikidata:P606
+C510,Cessna Citation Mustang,,2005,wikidata:P606
+B429,Bell 429,,2007,wikidata:P606
+P180,Piaggio P.180 Avanti,,,
+GLID,Glider (generic),,,
+AT43,ATR 42-300,,,
+FA7X,Dassault Falcon 7X,,2005,wikidata:P606
+BE58,Beechcraft Baron 58,,,
+EC25,Eurocopter EC225 Super Puma,,2000,wikidata:P606
+C5M,Lockheed C-5M Super Galaxy,,2002,wikidata:P606
+GA8C,GippsAero GA8 Airvan,,,
+SH36,Shorts SD.360,,,
+A10,Fairchild Republic A-10 Thunderbolt II,,1972,wikidata:P606
+G12T,Gulfstream G120,,,
+DH8B,De Havilland Canada Dash 8-200,,,
+E50P,Embraer Phenom 100,,2007,wikidata:P606
+B753,Boeing 757-300,,1998,wikidata:P606
+E110,Embraer EMB 110 Bandeirante,,1968,wikidata:P606
+P28R,Piper PA-28R Arrow,,,
+T206,Cessna T206 Stationair,,,
+A19N,Airbus A319neo,,2017,wikidata:P606
+TUCA,Emb-312 Tucano,,1980,wikidata:P606
+AT72,ATR 72-500,,,
+B505,Bell 505 Jet Ranger X,,2014,wikidata:P606
+SIRA,Unknown / SIRA,,,
+AT8T,ATR 42-600,,,
+EC75,Eurocopter EC175,,2009,wikidata:P606
+E3TF,Boeing E-3 Sentry,,1972,wikidata:P606
+D328,Dornier 328,,1991,wikidata:P606
+GALX,Gulfstream G200,,1997,wikidata:P606
+GL7T,Gulfstream G700,,2020,wikidata:P606
+MD82,McDonnell Douglas MD-82,,1981,wikidata:P606
+L410,Let L-410 Turbolet,,1969,wikidata:P606
+P212,Partenavia P.212,,,
+PC7,Pilatus PC-7,,1966,wikidata:P606
+B773,Boeing 777-300,,1990,wikipedia:lead
+C25M,Cessna Citation CJ3,,,
+F50,Fokker 50,,1985,wikidata:P606
+JS32,British Aerospace Jetstream 32,,,
+A189,AgustaWestland AW189,,2011,wikidata:P606
+MI8,Mil Mi-8,,1961,wikidata:P606
+AS32,Eurocopter AS332 Super Puma,,1978,wikidata:P606
+PA18,Piper PA-18 Super Cub,,1949,wikidata:P606
+PA34,Piper PA-34 Seneca,,1967,wikidata:P606
+EC20,Eurocopter EC120 Colibri,,1995,wikidata:P606
+AC90,Aero Commander 900,,,
+RJ1H,Avro RJ100,,1988,wikidata:P729
+C206,Cessna 206 Stationair,,1998,wikidata:P729
+AN12,Antonov An-12,,1957,wikidata:P606
+M339,Aermacchi MB-339,,1976,wikidata:P606
+AC50,Aero Commander 500,,,
+R44,Robinson R44,,1990,wikidata:P606
+E290,Embraer E190-E2,,,
+R135,Boeing RC-135,,1965,wikidata:P606
+C82S,Cessna 182S Skylane,,,
+C55B,Cessna Citation Bravo,,1977,wikidata:P606
+M346,Alenia Aermacchi M-346,,2004,wikidata:P606
+AT73,ATR 72-200,,,
+LJ40,Learjet 40,,2002,wikidata:P606
+EC55,Eurocopter EC155,,1997,wikidata:P606
+G115,Grob G115,,1988,wikidata:P729
+B722,Boeing 727-200,,1967,wikidata:P606
+A148,Antonov An-148,,2004,wikidata:P606
+C150,Cessna 150,,1957,wikidata:P606
+TOBA,Unknown / TOBA,,,
+BN2T,Britten-Norman BN-2 Islander,,1965,wikidata:P606
+DA62,Diamond DA62,,2012,wikipedia:lead
+JS41,British Aerospace Jetstream 41,,1991,wikidata:P606
+SF50,Cirrus Vision SF50,,,
+B1,Rockwell B-1B Lancer,,,
+RJ85,Avro RJ85,,1982,wikidata:P606
+L188,Lockheed L-188 Electra,,1957,wikidata:P606
+BE4W,Beechcraft Beechjet 400A,,,
+C207,Cessna 207,,1968,wikidata:P606
+Z42,Zenair / Z42 (ultralight),,,
+F70,Fokker 70,,1993,wikidata:P606
+GLF3,Gulfstream III,,1979,wikidata:P606
+PRM1,Raytheon Sentinel,,2004,wikidata:P606
+FA8X,Dassault Falcon 8X,,2015,wikidata:P606
+GA8,GippsAero GA8 Airvan,,,
+DRON,Drone / Unmanned,,,
+PZ3T,PZL TS-11 Iskra,,1960,wikidata:P606
+YK42,Yakovlev Yak-42,,1975,wikidata:P606
+C650,Cessna Citation III,,1979,wikidata:P606
+P8,Boeing P-8 Poseidon,,2009,wikidata:P606
+PC9,Pilatus PC-9,,1984,wikidata:P606
+YK40,Yakovlev Yak-40,,1966,wikidata:P606
+SNGY,Experimental / SNGY,,,
+EXPL,Experimental / Unknown,,,
+B703,Boeing 707,,1957,wikidata:P606
+DC3,Douglas DC-3,,1935,wikidata:P606
+V10,Vickers VC10,,1962,wikidata:P606
+AN26,Antonov An-26,,1969,wikidata:P606
+CL2P,Bombardier CL-415,,1993,wikidata:P606
+BTB2,Beriev Be-200,,1998,wikidata:P606
+CRUZ,Unknown / CRUZ,,,
+AS55,Eurocopter AS355 Écureuil 2,,1979,wikidata:P606
+Q4,Bombardier Dash 8 Q400,,,
+B462,BAe 146-200,,1982,wikidata:P606
+C310,Cessna 310,,,
+G2CA,Gulfstream G200,,1997,wikidata:P606
+DHC2,de Havilland Canada DHC-2 Beaver,,1947,wikidata:P606
+B463,BAe 146-300,,1988,wikidata:P729
+G150,Gulfstream G150,,,
+E390,Embraer C-390 Millennium,,2015,wikidata:P606
+IL18,Ilyushin Il-18,,1957,wikidata:P606
+CH7A,Zenair CH 701,,2008,wikipedia:lead
+AMX,Aermacchi AMX,,,
+PA38,Piper PA-38 Tomahawk,,1977,wikidata:P729
+DC4,Douglas DC-4,,1942,wikidata:P606
+BE36,Beechcraft Bonanza,,1945,wikidata:P606
+BE65,Beechcraft Queen Air,,1958,wikidata:P606
+BE80,Beechcraft 1900,,1982,wikidata:P606
+FA10,Dassault Falcon 10,,1970,wikidata:P606
+BE76,Beechcraft Duchess,,1974,wikidata:P606
+PIVI,Piaggio P.180 Avanti,,,
+L39,Aero L-39 Albatros,,1968,wikidata:P606
+F35,Lockheed Martin F-35 Lightning II,,2006,wikidata:P606
+F18H,Boeing F/A-18 Super Hornet,,1995,wikidata:P606
+EN48,Embraer EMB-120 Brasilia,,1983,wikidata:P606
+C135,Boeing C-135 Stratolifter,,1956,wikidata:P606
+R66,Robinson R66,,2007,wikidata:P606
+WW24,Ikarus C42,,1996,wikidata:P606
+E300,Embraer EMB 120 Brasilia,,1983,wikidata:P606
+R22,Robinson R22,,1975,wikidata:P606
+C46,Curtiss C-46 Commando,,1940,wikidata:P606
+P28T,Piper PA-28 Turbo,,,
+AJET,Dassault-Dornier Alpha Jet,,1973,wikidata:P606
+BLCF,Boeing 747 LCF Dreamlifter,,2006,wikidata:P606
+AN24,Antonov An-24,,1959,wikidata:P606
+E3CF,Boeing E-3 Sentry,,1972,wikidata:P606
+F18,Boeing F/A-18 Hornet,,,
+T34T,Beechcraft T-34 Mentor,,1948,wikidata:P606
+C141,Lockheed C-141 Starlifter,,1963,wikidata:P606
+PA46,Piper PA-46 Malibu,,1979,wikidata:P606
+MI26,Mil Mi-26,,1977,wikidata:P606
+P3C,Lockheed P-3C Orion,,,
+T6,Beechcraft T-6 Texan II,,2000,wikidata:P606
+FA6X,Dassault Falcon 6X,,2013,wikipedia:lead
+C177,Cessna 177 Cardinal,,1966,wikidata:P606

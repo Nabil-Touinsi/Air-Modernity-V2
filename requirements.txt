@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+requests
+lxml
+scikit-learn
+matplotlib
+streamlit
+plotly

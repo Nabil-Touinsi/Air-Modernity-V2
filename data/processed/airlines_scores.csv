@@ -1,0 +1,905 @@
+airline_name,country,region,avg_entry_year,modern_count_2015,modern_count_2010,diversity_score,fleet_size,pct_modern_2015,pct_modern_2010,modernity_index
+2Excel Aviation,Territoire britannique de l'océan Indien,Asia,1978.8333333333333,0,3,7,18,0.0,16.666666666666664,0.0
+9 Air,Taïwan,Asia,2000.5185185185185,5,5,2,27,18.51851851851852,18.51851851851852,0.1851851851851852
+ABX Air,Porto Rico,North America,1982.3636363636365,0,0,2,11,0.0,0.0,0.0
+AIRPAC Airlines,Porto Rico,North America,1979.75,0,0,2,8,0.0,0.0,0.0
+AJet,Turquie,Europe,2004.355555555556,22,38,5,90,24.444444444444443,42.22222222222222,0.2444444444444444
+AMC Aviation,Pologne,Europe,2000.3333333333333,0,0,6,9,0.0,0.0,0.0
+ARM Aviacion,Guatemala,North America,1972.142857142857,0,0,3,7,0.0,0.0,0.0
+ASG Business Aviation,Azerbaïdjan,Asia,1991.6,0,0,3,5,0.0,0.0,0.0
+ASKY Airlines,Éthiopie,Africa,1993.75,2,2,3,16,12.5,12.5,0.125
+ASL Airlines,Îles Cocos,Oceania,1993.0961538461536,0,0,6,52,0.0,0.0,0.0
+ATA Airlines,Iran,Asia,1986.3076923076924,0,0,4,13,0.0,0.0,0.0
+ATI Jet,Porto Rico,North America,1989.15,0,0,2,20,0.0,0.0,0.0
+Abakan Air,Russie,Europe,1971.6,0,0,2,5,0.0,0.0,0.0
+Abu Dhabi Aviation,Émirats arabes unis,Asia,1998.4,0,2,4,10,0.0,20.0,0.0
+Advanced Air,Porto Rico,North America,1993.7142857142856,0,0,4,7,0.0,0.0,0.0
+Aegean Airlines,Grèce,Europe,2012.65,15,36,3,40,37.5,90.0,0.375
+Aer Lingus,Irlande,Europe,2011.190476190476,11,18,3,21,52.38095238095239,85.71428571428571,0.5238095238095238
+Aero,Territoire britannique de l'océan Indien,Asia,1993.0,0,0,2,6,0.0,0.0,0.0
+Aero Asahi,Japon,Asia,1978.9615384615383,0,0,11,26,0.0,0.0,0.0
+Aero Charter,Porto Rico,North America,1996.6666666666667,0,0,4,9,0.0,0.0,0.0
+AeroGuard Flight Training Center,Porto Rico,North America,1955.0,0,0,1,22,0.0,0.0,0.0
+AeroLogic,Allemagne,Europe,1990.0,0,0,1,14,0.0,0.0,0.0
+Aeroclub Barcelona-Sabadell,Espagne,Europe,1959.625,0,0,3,8,0.0,0.0,0.0
+Aerodynamics Academy,Espagne,Europe,2002.25,0,0,2,16,0.0,0.0,0.0
+Aeroflot,Russie,Europe,1999.377358490566,3,15,6,106,2.8301886792452837,14.150943396226417,0.0283018867924528
+Aeroitalia,Malte,Europe,1998.1818181818185,0,0,3,11,0.0,0.0,0.0
+Aerolineas Argentinas,Argentine,South America,1997.904761904762,12,12,5,84,14.285714285714285,14.285714285714285,0.1428571428571428
+Aerolineas Ejecutivas,Mexique,North America,2006.25,0,6,3,8,0.0,75.0,0.0
+Aeromexico,Irlande,Europe,2007.5,42,42,2,76,55.26315789473685,55.26315789473685,0.5526315789473685
+Aeromexico Connect,Mexique,North America,2004.0,0,0,1,36,0.0,0.0,0.0
+Aeronaves TSM,Mexique,North America,1983.1724137931035,0,1,7,58,0.0,1.7241379310344829,0.0
+Aeropartner,République tchèque,Europe,2000.7142857142856,0,0,3,7,0.0,0.0,0.0
+Aeroservicios de la Costa,Mexique,North America,1969.0,0,0,1,5,0.0,0.0,0.0
+Aerotec,Espagne,Europe,1956.5,0,0,2,8,0.0,0.0,0.0
+Aerovias DAP,Chili,South America,1984.7777777777776,0,0,4,9,0.0,0.0,0.0
+Aeroways,Allemagne,Europe,2000.4,0,0,2,5,0.0,0.0,0.0
+Aerowest,Allemagne,Europe,2000.8,0,3,4,10,0.0,30.0,0.0
+Aerus,Mexique,North America,1982.0,0,0,1,7,0.0,0.0,0.0
+Africa World Airlines,Ghana,Africa,1995.0,0,0,1,8,0.0,0.0,0.0
+Air Adelphi,Saint-Vincent-et-les-Grenadines,North America,1965.0,0,0,1,5,0.0,0.0,0.0
+Air Algerie,Algérie,Africa,1991.9166666666667,0,0,4,36,0.0,0.0,0.0
+Air Alliance,Allemagne,Europe,2002.4285714285716,0,1,5,7,0.0,14.285714285714285,0.0
+Air Arabia,Émirats arabes unis,Asia,2008.3333333333333,6,6,2,9,66.66666666666666,66.66666666666666,0.6666666666666665
+Air Astana,Irlande,Europe,2010.5151515151515,16,27,4,33,48.48484848484848,81.81818181818183,0.4848484848484848
+Air Austral,Polynésie française,Oceania,2009.0,3,3,2,6,50.0,50.0,0.5
+Air Baltic,Lettonie,Europe,2015.0,50,50,1,50,100.0,100.0,1.0
+Air Borealis,Canada,North America,1965.0,0,0,1,9,0.0,0.0,0.0
+Air Busan,Corée du Sud,Asia,2004.5,8,8,2,16,50.0,50.0,0.5
+Air Cairo,Égypte,Africa,2012.571428571429,0,18,2,21,0.0,85.71428571428571,0.0
+Air Canada,Canada,North America,2005.788944723618,84,84,9,199,42.21105527638191,42.21105527638191,0.422110552763819
+Air Canada Rouge,Canada,North America,1994.125,0,0,2,32,0.0,0.0,0.0
+Air Caraibes,France,Europe,2014.7142857142856,4,7,2,7,57.14285714285714,100.0,0.5714285714285714
+Air Central,Taïwan,Asia,1990.6153846153843,0,0,3,13,0.0,0.0,0.0
+Air Changan,Taïwan,Asia,1997.0,0,0,1,14,0.0,0.0,0.0
+Air Charter Scotland,Territoire britannique de l'océan Indien,Asia,2003.2222222222224,0,3,5,9,0.0,33.33333333333333,0.0
+Air Chathams,Nouvelle-Zélande,Oceania,1979.2727272727277,0,0,3,11,0.0,0.0,0.0
+Air China,Taïwan,Asia,2001.3178294573645,58,144,13,387,14.987080103359174,37.2093023255814,0.1498708010335917
+Air China Cargo,Taïwan,Asia,1987.88,0,0,4,25,0.0,0.0,0.0
+Air China Inner Mongolia,Taïwan,Asia,1993.6666666666667,0,0,2,9,0.0,0.0,0.0
+Air Corporate,Italie,Europe,1992.6,0,1,7,10,0.0,10.0,0.0
+Air CÃ´te d'Ivoire,Côte d'Ivoire,Africa,1998.1666666666667,0,1,2,6,0.0,16.666666666666664,0.0
+Air Do,Japon,Asia,1974.3076923076924,0,0,2,13,0.0,0.0,0.0
+Air Dolomiti,Italie,Europe,2004.0,0,0,1,9,0.0,0.0,0.0
+Air Europa,Espagne,Europe,1997.703703703704,1,1,2,27,3.7037037037037033,3.7037037037037033,0.037037037037037
+Air Flamenco,Porto Rico,North America,1965.0,0,0,1,8,0.0,0.0,0.0
+Air France,France,Europe,2004.1681415929204,44,83,10,226,19.469026548672566,36.72566371681416,0.1946902654867256
+Air Greenland,Îles Féroé,Europe,1985.076923076923,0,0,3,13,0.0,0.0,0.0
+Air Incheon,Corée du Sud,Asia,1994.0,0,0,2,6,0.0,0.0,0.0
+Air India,Inde,Asia,2009.496732026144,11,111,7,153,7.18954248366013,72.54901960784314,0.0718954248366013
+Air India Express,Inde,Asia,2010.2444444444443,52,64,4,90,57.77777777777777,71.11111111111111,0.5777777777777777
+Air Inuit,Canada,North America,1975.4545454545453,0,0,3,11,0.0,0.0,0.0
+Air Liaison,Canada,North America,1979.75,0,0,2,8,0.0,0.0,0.0
+Air Libya,Libye,Africa,1987.75,0,0,5,8,0.0,0.0,0.0
+Air Macau,Macao,Asia,2004.0,4,8,3,16,25.0,50.0,0.25
+Air Mauritius,Maurice,Africa,2007.5,2,6,3,8,25.0,75.0,0.25
+Air Methods,Porto Rico,North America,1992.9473684210527,0,0,6,19,0.0,0.0,0.0
+Air New Zealand,Nouvelle-Zélande,Oceania,2011.103448275862,13,19,3,29,44.82758620689656,65.51724137931035,0.4482758620689655
+Air Niugini,Papouasie-Nouvelle-Guinée,Oceania,1990.1666666666667,0,0,4,18,0.0,0.0,0.0
+Air North,Canada,North America,1991.6666666666667,0,0,2,6,0.0,0.0,0.0
+Air Nunavut,Canada,North America,1976.888888888889,0,0,2,9,0.0,0.0,0.0
+Air Panama,Panama,North America,1981.0,0,0,2,5,0.0,0.0,0.0
+Air Peace,Nigeria,Africa,1988.4615384615383,0,0,6,13,0.0,0.0,0.0
+Air Senegal,Sénégal,Africa,2003.571428571429,3,3,4,7,42.85714285714285,42.85714285714285,0.4285714285714285
+Air Seoul,Corée du Sud,Asia,1993.0,0,0,1,6,0.0,0.0,0.0
+Air Seychelles,Seychelles,Africa,1979.0,0,2,2,7,0.0,28.57142857142857,0.0
+Air Spray,Canada,North America,1965.315789473684,0,0,3,19,0.0,0.0,0.0
+Air Sunshine,Porto Rico,North America,1973.75,0,0,3,8,0.0,0.0,0.0
+Air Tanzania,Tanzanie,Africa,2009.2,4,4,2,5,80.0,80.0,0.8
+Air Tetiaroa,Territoire britannique de l'océan Indien,Asia,1972.571428571429,0,0,4,7,0.0,0.0,0.0
+Air Transat,Canada,North America,2001.6097560975609,19,19,3,41,46.34146341463415,46.34146341463415,0.4634146341463415
+Air Transport Europe,Slovaquie,Europe,1992.9,0,0,4,10,0.0,0.0,0.0
+Air Transport International,Porto Rico,North America,1981.2,0,0,3,10,0.0,0.0,0.0
+Air Travel,Taïwan,Asia,2006.7272727272727,0,7,3,11,0.0,63.63636363636363,0.0
+Air-Glaciers,Suisse,Europe,1978.6875,0,0,3,16,0.0,0.0,0.0
+AirAsia,Malaisie,Asia,2014.5454545454545,15,55,2,55,27.27272727272727,100.0,0.2727272727272727
+AirExplore,Slovaquie,Europe,1997.0,0,0,1,8,0.0,0.0,0.0
+AirNet,Porto Rico,North America,1973.0,0,0,1,13,0.0,0.0,0.0
+AirSERBIA,Serbie,Europe,1992.7142857142856,0,0,2,14,0.0,0.0,0.0
+AirSF Flight Services,Porto Rico,North America,1991.0,0,0,1,9,0.0,0.0,0.0
+AirSmart,Porto Rico,North America,1993.0,0,0,2,8,0.0,0.0,0.0
+AirSprint,Canada,North America,2006.7272727272727,0,4,3,22,0.0,18.181818181818183,0.0
+AirX,Malte,Europe,1995.2631578947369,0,0,5,19,0.0,0.0,0.0
+Airbus,Allemagne,Europe,2013.681242807825,447,822,13,869,51.43843498273878,94.59148446490218,0.5143843498273878
+Aircraft Management Group,Porto Rico,North America,1993.857142857143,0,1,4,7,0.0,14.285714285714285,0.0
+Airest,Estonie,Europe,1983.0,0,0,1,5,0.0,0.0,0.0
+Airfast Indonesia,Timor oriental,Asia,1980.4,2,2,5,10,20.0,20.0,0.2
+Airlift,Svalbard et ile Jan Mayen,Europe,1985.8,0,3,3,10,0.0,30.0,0.0
+Airlink,Autriche,Europe,1998.558139534884,0,0,9,43,0.0,0.0,0.0
+Airnorth,Îles Cocos,Oceania,1995.4615384615383,0,0,3,13,0.0,0.0,0.0
+Airshare,Porto Rico,North America,2000.8163265306123,0,1,17,49,0.0,2.0408163265306123,0.0
+Aitheras Aviation Group,Porto Rico,North America,1990.4285714285716,0,0,3,7,0.0,0.0,0.0
+Akasa Air,Inde,Asia,2016.0,30,30,1,30,100.0,100.0,1.0
+Alaska Airlines,Porto Rico,North America,1999.0198412698408,8,8,5,252,3.1746031746031744,3.1746031746031744,0.0317460317460317
+Alaska Central Express,Porto Rico,North America,1982.0,0,0,1,19,0.0,0.0,0.0
+AlbaStar,Espagne,Europe,1997.0,0,0,1,5,0.0,0.0,0.0
+Alidaunia,Italie,Europe,2002.75,0,5,4,8,0.0,62.5,0.0
+Aliserio,Italie,Europe,1985.6,0,0,3,5,0.0,0.0,0.0
+Alkan Air,Canada,North America,1970.571428571429,0,0,6,14,0.0,0.0,0.0
+All Nippon Airways,Japon,Asia,2000.8296296296296,30,41,10,135,22.22222222222222,30.37037037037037,0.2222222222222222
+Allegiant Air,Porto Rico,North America,2001.255319148936,14,14,2,47,29.78723404255319,29.78723404255319,0.2978723404255319
+Alliance Airlines,Îles Cocos,Oceania,1992.6888888888889,0,0,3,45,0.0,0.0,0.0
+Aloha Air Cargo,Porto Rico,North America,1984.571428571429,0,0,2,7,0.0,0.0,0.0
+Alpha Aviation,République tchèque,Europe,1990.2857142857144,0,0,4,14,0.0,0.0,0.0
+Alpine Air Express,Porto Rico,North America,1978.8,0,0,2,75,0.0,0.0,0.0
+Alrosa,Russie,Europe,1985.0,0,0,2,5,0.0,0.0,0.0
+Amelia,France,Europe,1996.2857142857144,0,0,4,14,0.0,0.0,0.0
+American Airlines,Porto Rico,North America,1999.571043771044,162,162,14,1485,10.909090909090908,10.909090909090908,0.109090909090909
+American Jet International,Porto Rico,North America,1996.4285714285716,0,0,4,7,0.0,0.0,0.0
+Ameriflight,Porto Rico,North America,1971.2272727272727,0,0,6,132,0.0,0.0,0.0
+Amerijet International,Porto Rico,North America,1985.0,0,0,2,12,0.0,0.0,0.0
+Ameristar,Porto Rico,North America,2001.0,0,0,1,7,0.0,0.0,0.0
+Anap Jets,Nigeria,Africa,2003.5,0,0,3,6,0.0,0.0,0.0
+Arab Wings,Saint-Marin,Europe,1991.2,0,0,4,5,0.0,0.0,0.0
+Arajet,République dominicaine,North America,2016.0,10,10,1,10,100.0,100.0,1.0
+Arcus Air,Allemagne,Europe,2003.0,0,0,4,9,0.0,0.0,0.0
+Argentina - Air Force,Turquie,Europe,1954.6666666666667,0,0,2,9,0.0,0.0,0.0
+Arik Air,Nigeria,Africa,1993.4,0,0,3,5,0.0,0.0,0.0
+Asia Pacific Airlines,Porto Rico,North America,1982.0,0,0,1,5,0.0,0.0,0.0
+Asiana Airlines,Corée du Sud,Asia,2002.15,13,28,6,60,21.666666666666668,46.66666666666666,0.2166666666666666
+Aspen Helicopters,Porto Rico,North America,1985.8,0,0,3,5,0.0,0.0,0.0
+Astonfly,France,Europe,1974.3529411764705,0,0,2,17,0.0,0.0,0.0
+Astonjet,France,Europe,2007.25,0,2,2,8,0.0,25.0,0.0
+Atlantic Flight Training Academy,Irlande,Europe,1967.368421052632,0,0,2,19,0.0,0.0,0.0
+Atlas Air,Porto Rico,North America,1991.5942028985507,0,12,5,69,0.0,17.391304347826086,0.0
+Atlas Air Service,Allemagne,Europe,1999.0,0,0,4,5,0.0,0.0,0.0
+Atmospherica Aviation,République tchèque,Europe,2009.1666666666667,0,2,3,6,0.0,33.33333333333333,0.0
+Atsa Airlines,Pérou,South America,1984.4,0,0,4,5,0.0,0.0,0.0
+Auric Air,Tanzanie,Africa,1982.375,0,0,2,24,0.0,0.0,0.0
+Aurora,Russie,Europe,1986.8181818181815,0,0,2,11,0.0,0.0,0.0
+Australia - Royal Australian Air Force,Tonga,Oceania,1993.6136363636365,1,1,7,132,0.7575757575757576,0.7575757575757576,0.0075757575757575
+Austrian Airlines,Autriche,Europe,1997.5,0,5,4,20,0.0,25.0,0.0
+Avalair Aircraft Management,Porto Rico,North America,1996.2857142857144,0,0,3,7,0.0,0.0,0.0
+Avcon Jet,Malte,Europe,1996.8,0,0,4,5,0.0,0.0,0.0
+Avelo Airlines,Porto Rico,North America,1984.368421052632,0,0,2,19,0.0,0.0,0.0
+Aviacon Zitotrans,Russie,Europe,1971.0,0,0,1,5,0.0,0.0,0.0
+Avianca,Colombie,South America,2010.946428571429,0,47,2,56,0.0,83.92857142857143,0.0
+Avianca Cargo,Porto Rico,North America,1987.0,0,0,1,6,0.0,0.0,0.0
+Aviastar-TU,Russie,Europe,1982.0,0,0,1,5,0.0,0.0,0.0
+Aviation Adventures,Porto Rico,North America,1960.6410256410256,0,0,7,39,0.0,0.0,0.0
+Aviation Advisor,Porto Rico,North America,1996.8333333333333,0,0,3,6,0.0,0.0,0.0
+Aviation DÃ©fense Service,France,Europe,1997.0,0,0,2,5,0.0,0.0,0.0
+Aviator College,Porto Rico,North America,1971.888888888889,0,0,2,9,0.0,0.0,0.0
+Aviator Zone Academy,Porto Rico,North America,1970.0,0,0,4,14,0.0,0.0,0.0
+Avincis,Espagne,Europe,1994.655555555556,0,13,9,90,0.0,14.444444444444445,0.0
+Avionord,Italie,Europe,1999.6666666666667,0,0,2,6,0.0,0.0,0.0
+Azerbaijan Airlines,Azerbaïdjan,Asia,1999.684210526316,0,3,5,19,0.0,15.789473684210526,0.0
+Azimuth,Russie,Europe,2008.0,0,0,1,20,0.0,0.0,0.0
+Azman Air,Nigeria,Africa,1988.0,0,0,2,5,0.0,0.0,0.0
+Azores Airlines,Portugal,Europe,2015.4285714285716,5,7,2,7,71.42857142857143,100.0,0.7142857142857143
+Aztec Airways,Porto Rico,North America,1965.8,0,0,2,10,0.0,0.0,0.0
+Azul,Brésil,South America,2004.1237113402065,13,64,7,97,13.402061855670103,65.97938144329896,0.134020618556701
+Azur Air,Russie,Europe,1985.2,0,0,4,20,0.0,0.0,0.0
+BAA Training,Lituanie,Europe,1955.0,0,0,1,6,0.0,0.0,0.0
+Babcock,Mozambique,Africa,1993.8823529411768,0,0,4,51,0.0,0.0,0.0
+Badr Airlines,Gambie,Africa,1990.375,0,0,3,8,0.0,0.0,0.0
+Baker Aviation,Porto Rico,North America,1993.0,0,0,1,18,0.0,0.0,0.0
+Bamboo Airways,Vietnam,Asia,1997.2,0,1,2,5,0.0,20.0,0.0
+Bangkok Airways,Thaïlande,Asia,1995.0,0,0,1,11,0.0,0.0,0.0
+Bartolini Air,Pologne,Europe,2009.0,0,0,1,13,0.0,0.0,0.0
+Batik Air,Timor oriental,Asia,2002.549019607843,14,15,3,51,27.450980392156865,29.411764705882355,0.2745098039215686
+Beijing Airlines,Taïwan,Asia,1990.6,0,0,3,5,0.0,0.0,0.0
+Bel Air Aviation,Îles Féroé,Europe,2006.0,0,3,2,6,0.0,50.0,0.0
+Belavia,Biélorussie,Europe,1995.9,1,1,5,10,10.0,10.0,0.1
+Belgium - Air Force,Îles Salomon,Oceania,1999.3333333333333,0,0,4,12,0.0,0.0,0.0
+Bell Helicopter,Canada,North America,2002.923076923077,0,31,4,91,0.0,34.065934065934066,0.0
+BellAir,Porto Rico,North America,1989.3333333333333,0,0,4,9,0.0,0.0,0.0
+Bemidji Aviation,Porto Rico,North America,1967.9024390243903,0,0,6,41,0.0,0.0,0.0
+Bering Air,Porto Rico,North America,1979.4814814814813,0,0,5,27,0.0,0.0,0.0
+Berry Aviation,Porto Rico,North America,1977.2666666666669,0,0,4,15,0.0,0.0,0.0
+Bestfly Aruba,Angola,Africa,1994.0,0,0,8,11,0.0,0.0,0.0
+Bighorn Airways,Porto Rico,North America,1971.3333333333333,0,0,3,6,0.0,0.0,0.0
+Biman Bangladesh Airlines,Bangladesh,Asia,1999.4,0,0,2,10,0.0,0.0,0.0
+Blue Dart Aviation,Inde,Asia,1982.0,0,0,1,5,0.0,0.0,0.0
+Boeing,Porto Rico,North America,2012.7333333333331,132,135,7,150,88.0,90.0,0.88
+Boliviana de Aviacion,Bolivie,South America,1986.692307692308,0,0,6,26,0.0,0.0,0.0
+Boutique Air,Porto Rico,North America,1991.0,0,0,1,14,0.0,0.0,0.0
+Brazil - Air Force,France,Europe,1983.7212389380527,8,12,20,226,3.5398230088495577,5.3097345132743365,0.0353982300884955
+Brazil - Navy,Porto Rico,North America,1993.1666666666667,0,0,3,6,0.0,0.0,0.0
+Breeze Airways,Porto Rico,North America,2012.9245283018868,43,43,2,53,81.13207547169812,81.13207547169812,0.8113207547169812
+Bristow Helicopters,Nigeria,Africa,1996.7657657657655,0,3,6,111,0.0,2.702702702702702,0.0
+Bristow Nigeria,Nigeria,Africa,1994.1666666666667,0,0,2,6,0.0,0.0,0.0
+British Airways,Territoire britannique de l'océan Indien,Asia,2004.4489795918369,48,79,9,196,24.489795918367346,40.30612244897959,0.2448979591836734
+Brussels Airlines,Belgique,Europe,1999.75,0,5,2,20,0.0,25.0,0.0
+Buffalo Airways,Canada,North America,1955.6052631578948,0,0,9,38,0.0,0.0,0.0
+Bul Air,Bulgarie,Europe,1985.375,0,0,2,8,0.0,0.0,0.0
+Bulgaria Air,Bulgarie,Europe,2008.6,5,5,3,10,50.0,50.0,0.5
+Buzz,Pologne,Europe,2016.0,12,12,1,12,100.0,100.0,1.0
+CAE,Allemagne,Europe,1972.8135593220336,0,0,8,59,0.0,0.0,0.0
+CB SkyShare,Porto Rico,North America,1995.3,0,0,4,10,0.0,0.0,0.0
+CHC Helicopter,Territoire britannique de l'océan Indien,Asia,1997.2444444444443,0,3,7,90,0.0,3.333333333333333,0.0
+CITIC Offshore Helicopter,Taïwan,Asia,1998.967741935484,0,0,5,31,0.0,0.0,0.0
+CMA CGM Air Cargo,France,Europe,1989.4,0,0,2,5,0.0,0.0,0.0
+Caicos Express Airways,Îles Turques-et-Caïques,North America,1973.5,0,0,2,6,0.0,0.0,0.0
+Calstar,Porto Rico,North America,1991.7777777777776,0,0,2,9,0.0,0.0,0.0
+CanWest Air,Canada,North America,1985.2,0,0,2,10,0.0,0.0,0.0
+Canada - Coast Guard,Canada,North America,1993.0,0,0,3,26,0.0,0.0,0.0
+Canada - Department of Transport,Canada,North America,1970.0,0,0,3,14,0.0,0.0,0.0
+Canada - Ontario Ministry of Natural Resources,Canada,North America,1966.2857142857144,0,0,2,7,0.0,0.0,0.0
+Canada - Royal Canadian Air Force,Guernesey,Europe,1997.0,0,0,1,15,0.0,0.0,0.0
+Canadian North,Japon,Asia,1975.7333333333331,0,0,3,15,0.0,0.0,0.0
+Canavia,Espagne,Europe,2002.5,0,0,2,8,0.0,0.0,0.0
+Canlink Aviation,Canada,North America,1987.16,0,0,3,50,0.0,0.0,0.0
+Cape Air,Porto Rico,North America,1965.0,0,0,3,73,0.0,0.0,0.0
+Capital Airlines,Taïwan,Asia,1997.085106382979,3,10,6,47,6.382978723404255,21.27659574468085,0.0638297872340425
+Cargo Air,Bulgarie,Europe,1991.4285714285716,0,0,2,7,0.0,0.0,0.0
+Cargojet Airways,Canada,North America,1983.7,0,0,3,40,0.0,0.0,0.0
+Cargolux,Luxembourg,Europe,1998.2666666666669,0,14,2,30,0.0,46.66666666666666,0.0
+Caribbean Airlines,Trinité-et-Tobago,North America,2014.1,9,9,2,10,90.0,90.0,0.9
+Carson Air,Canada,North America,1973.9,0,0,3,10,0.0,0.0,0.0
+Caspian Airlines,Iran,Asia,1985.875,0,0,2,8,0.0,0.0,0.0
+Castle Aviation,Porto Rico,North America,1982.3846153846157,0,0,2,13,0.0,0.0,0.0
+Cathay Pacific,Hong Kong,Asia,2006.889705882353,34,78,7,136,25.0,57.35294117647059,0.25
+Cavok Air,Ukraine,Europe,1957.0,0,0,1,5,0.0,0.0,0.0
+Cayman Airways,Îles Caïmans,North America,1991.6666666666667,4,4,3,9,44.44444444444444,44.44444444444444,0.4444444444444444
+CemAir,Afrique du Sud,Africa,1991.4166666666667,0,0,3,12,0.0,0.0,0.0
+Central Airlines,Taïwan,Asia,1990.4444444444443,0,0,3,9,0.0,0.0,0.0
+Central Mountain Air,Canada,North America,1983.6875,0,0,2,16,0.0,0.0,0.0
+Centreline,Territoire britannique de l'océan Indien,Asia,2007.0,1,4,4,10,10.0,40.0,0.1
+Chabahar Airlines,Iran,Asia,1982.0,0,0,2,6,0.0,0.0,0.0
+Chalair Aviation,France,Europe,1982.0,0,0,1,5,0.0,0.0,0.0
+Challenge Airlines BE,Autriche,Europe,1987.142857142857,0,0,2,7,0.0,0.0,0.0
+Charter Airlines,Porto Rico,North America,1993.0,0,0,1,9,0.0,0.0,0.0
+Chartright Air,Canada,North America,1991.5833333333333,0,0,6,12,0.0,0.0,0.0
+Chengdu Airlines,Taïwan,Asia,2010.857142857143,5,17,3,21,23.809523809523807,80.95238095238095,0.238095238095238
+Chevron USA,Porto Rico,North America,1999.8,0,0,2,10,0.0,0.0,0.0
+China - Civil Aviation Administration,Taïwan,Asia,1996.35,0,0,3,20,0.0,0.0,0.0
+China Airlines,Taïwan,Asia,2003.9710144927533,17,32,6,69,24.637681159420293,46.3768115942029,0.2463768115942029
+China Cargo Airlines,Taïwan,Asia,1990.0,0,0,1,17,0.0,0.0,0.0
+China Eastern Airlines,Taïwan,Asia,1999.545054945055,22,162,10,455,4.835164835164836,35.604395604395606,0.0483516483516483
+China Express Airlines,Taïwan,Asia,2005.642857142857,0,20,2,56,0.0,35.714285714285715,0.0
+China Postal Airlines,Taïwan,Asia,1991.6129032258063,0,0,4,31,0.0,0.0,0.0
+China Southern Airlines,Taïwan,Asia,2003.2292089249493,129,209,12,493,26.16632860040568,42.393509127789045,0.2616632860040568
+China Southern Airlines General Aviation,Taïwan,Asia,2000.6666666666667,0,1,2,6,0.0,16.666666666666664,0.0
+China Southern Cargo,Taïwan,Asia,1990.0,0,0,1,11,0.0,0.0,0.0
+China United Airlines,Taïwan,Asia,1994.457627118644,0,0,2,59,0.0,0.0,0.0
+Chodang University,Corée du Sud,Asia,1997.0,0,0,1,13,0.0,0.0,0.0
+Chongqing Airlines,Taïwan,Asia,2006.7,3,12,3,20,15.0,60.0,0.15
+Chrono Aviation,Canada,North America,1989.0,0,0,2,9,0.0,0.0,0.0
+Citilink,Timor oriental,Asia,2011.7272727272727,0,10,2,11,0.0,90.9090909090909,0.0
+Civil Air Patrol,Porto Rico,North America,1956.4436090225563,0,0,3,532,0.0,0.0,0.0
+Civil Aviation Flight University of China,Taïwan,Asia,1994.4117647058824,0,0,3,68,0.0,0.0,0.0
+Coastal Aviation,Tanzanie,Africa,1984.0,0,0,2,9,0.0,0.0,0.0
+Colombia - Air Force,France,Europe,1967.9625,0,0,12,80,0.0,0.0,0.0
+Colorful Guizhou Airlines,Taïwan,Asia,2009.5,0,11,2,20,0.0,55.00000000000001,0.0
+Compass Air Cargo,Bulgarie,Europe,1993.142857142857,0,0,2,7,0.0,0.0,0.0
+Conair,Canada,North America,1984.5882352941176,0,0,3,17,0.0,0.0,0.0
+Condor,Allemagne,Europe,2006.7142857142856,24,27,6,49,48.97959183673469,55.10204081632652,0.4897959183673469
+Contour Aviation,Porto Rico,North America,1992.2727272727277,0,0,6,22,0.0,0.0,0.0
+Conviasa,Venezuela,South America,2002.055555555556,0,0,3,18,0.0,0.0,0.0
+Copa Airlines,Panama,North America,1994.891891891892,6,6,3,74,8.108108108108109,8.108108108108109,0.081081081081081
+Copenhagen Airtaxi,Îles Féroé,Europe,1980.6,0,0,2,5,0.0,0.0,0.0
+Corendon Airlines,Turquie,Europe,2001.071428571429,6,6,2,28,21.428571428571427,21.428571428571427,0.2142857142857142
+Corsair,France,Europe,2017.0,9,9,1,9,100.0,100.0,1.0
+Coulson Aviation,Porto Rico,North America,1962.692307692308,0,0,3,13,0.0,0.0,0.0
+Croatia Airlines,Croatie,Europe,2006.111111111111,5,5,2,9,55.55555555555556,55.55555555555556,0.5555555555555556
+Cygnus Air,Espagne,Europe,1982.0,0,0,1,5,0.0,0.0,0.0
+DHL Air,Allemagne,Europe,1988.571428571429,0,3,12,196,0.0,1.530612244897959,0.0
+DRF Luftrettung,Allemagne,Europe,1996.0,0,0,5,54,0.0,0.0,0.0
+Dalian Airlines,Taïwan,Asia,1997.0,0,0,1,13,0.0,0.0,0.0
+Dana Air,Nigeria,Africa,1985.142857142857,0,0,4,7,0.0,0.0,0.0
+Dassault Falcon Service,France,Europe,2011.0,3,3,2,5,60.0,60.0,0.6
+Deer Jet,Taïwan,Asia,1997.6666666666667,0,0,5,12,0.0,0.0,0.0
+Deer Jet Beijing,Malte,Europe,1998.6666666666667,1,1,4,6,16.666666666666664,16.666666666666664,0.1666666666666666
+Delta Air Lines,Porto Rico,North America,1999.6395147313688,148,186,18,1154,12.824956672443674,16.11785095320624,0.1282495667244367
+Delta State University Aviation,Porto Rico,North America,1975.2105263157891,0,0,4,19,0.0,0.0,0.0
+Dexter Air Taxi,Russie,Europe,2001.0,0,0,1,5,0.0,0.0,0.0
+Divi Divi Air,Corée du Nord,Asia,1965.0,0,0,2,5,0.0,0.0,0.0
+Donghai Airlines,Taïwan,Asia,1998.5833333333333,2,2,2,24,8.333333333333332,8.333333333333332,0.0833333333333333
+Draken Europe,Territoire britannique de l'océan Indien,Asia,1990.1304347826087,0,0,3,23,0.0,0.0,0.0
+Dreamline Aviation,Porto Rico,North America,1993.4,0,0,3,5,0.0,0.0,0.0
+E+S Air,Italie,Europe,1974.0,0,0,1,12,0.0,0.0,0.0
+EAS Barcelona,Espagne,Europe,2009.0,0,0,1,6,0.0,0.0,0.0
+EIS Aircraft,Allemagne,Europe,1988.6666666666667,0,1,3,12,0.0,8.333333333333332,0.0
+EJM Europe,Portugal,Europe,2000.75,1,1,6,8,12.5,12.5,0.125
+ENAC Ecole Aviation Civile,France,Europe,1996.4,0,0,3,15,0.0,0.0,0.0
+EVA Air,Taïwan,Asia,2000.7432432432436,12,12,5,74,16.216216216216218,16.216216216216218,0.1621621621621621
+EagleMed,Porto Rico,North America,1963.0,0,0,1,12,0.0,0.0,0.0
+East Coast Jets,Porto Rico,North America,1979.0,0,0,2,5,0.0,0.0,0.0
+Eastar Jet,Corée du Sud,Asia,2003.3333333333333,5,5,2,15,33.33333333333333,33.33333333333333,0.3333333333333332
+Eastern Air Express,Porto Rico,North America,1985.3,0,0,2,10,0.0,0.0,0.0
+Eastern Airways,Territoire britannique de l'océan Indien,Asia,1995.9333333333332,0,0,3,15,0.0,0.0,0.0
+Ecuador - Air Force,France,Europe,1992.25,0,0,5,12,0.0,0.0,0.0
+Edelweiss Air,Suisse,Europe,1997.2857142857144,0,2,2,7,0.0,28.57142857142857,0.0
+Egypt - Air Force,Égypte,Africa,1980.8846153846157,0,0,7,52,0.0,0.0,0.0
+Egyptair,Égypte,Africa,2001.5272727272727,7,15,5,55,12.727272727272728,27.27272727272727,0.1272727272727272
+Egyptair Cargo,Égypte,Africa,1990.4,0,0,3,5,0.0,0.0,0.0
+Elifriulia,Italie,Europe,1992.1176470588236,0,0,3,17,0.0,0.0,0.0
+Elilombarda,Italie,Europe,1974.2,0,0,2,5,0.0,0.0,0.0
+Eliossola,Italie,Europe,1974.0,0,0,1,6,0.0,0.0,0.0
+Elitaliana,Italie,Europe,1977.4545454545453,0,1,3,11,0.0,9.090909090909092,0.0
+Elite Air,Porto Rico,North America,1996.2857142857144,0,0,5,7,0.0,0.0,0.0
+Elitellina,Italie,Europe,1974.0,0,0,1,5,0.0,0.0,0.0
+Embraer,Brésil,South America,2007.275,5,7,8,40,12.5,17.5,0.125
+Embry-Riddle Aeronautical University,Porto Rico,North America,1962.2136752136755,0,0,5,234,0.0,0.0,0.0
+Emirates,Émirats arabes unis,Asia,2001.695945945946,0,8,3,148,0.0,5.405405405405405,0.0
+Emirates Flight Training Academy,Émirats arabes unis,Asia,2001.3666666666663,0,0,3,30,0.0,0.0,0.0
+Encore Air Cargo,Porto Rico,North America,1968.3846153846157,0,0,2,13,0.0,0.0,0.0
+Enter Air,Pologne,Europe,2001.8857142857144,9,9,2,35,25.71428571428571,25.71428571428571,0.2571428571428571
+Epic Flight Academy,Porto Rico,North America,1955.0,0,0,1,44,0.0,0.0,0.0
+Era Helicopters,Porto Rico,North America,1988.1176470588236,0,4,8,51,0.0,7.84313725490196,0.0
+Ethiopian Airlines,Éthiopie,Africa,2004.2325581395348,27,47,8,86,31.3953488372093,54.65116279069767,0.313953488372093
+Etihad Airways,Émirats arabes unis,Asia,2006.304347826087,22,23,7,46,47.82608695652174,50.0,0.4782608695652174
+Euro-Asia Air,Kazakhstan,Asia,2001.0,0,0,2,5,0.0,0.0,0.0
+EuroAtlantic Airways,Portugal,Europe,1990.8,0,0,2,5,0.0,0.0,0.0
+Eurocopter Deutschland,Allemagne,Europe,1996.84,0,0,2,125,0.0,0.0,0.0
+European Aircraft Private Club,Belgique,Europe,1994.2,0,0,2,10,0.0,0.0,0.0
+European Flight Academy,Allemagne,Europe,1999.7083333333333,0,0,2,24,0.0,0.0,0.0
+European Flyers,Espagne,Europe,1962.8333333333333,0,0,2,12,0.0,0.0,0.0
+Eurowings,Malte,Europe,1999.4655172413795,5,13,5,58,8.620689655172415,22.41379310344828,0.0862068965517241
+Everts Air Alaska,Porto Rico,North America,1976.75,0,0,7,20,0.0,0.0,0.0
+Excellent Air,Allemagne,Europe,2000.0,0,0,1,6,0.0,0.0,0.0
+Executive Fliteways,Porto Rico,North America,1997.1818181818185,0,1,8,11,0.0,9.090909090909092,0.0
+Executive Jet Management,Porto Rico,North America,1997.127659574468,1,5,15,47,2.127659574468085,10.638297872340424,0.0212765957446808
+FAI rent-a-jet,Allemagne,Europe,1993.055555555556,0,0,4,18,0.0,0.0,0.0
+FFL Flugschule,Allemagne,Europe,1980.4,0,0,3,5,0.0,0.0,0.0
+Falcon Aviation Services,Émirats arabes unis,Asia,2001.8461538461536,0,7,5,13,0.0,53.84615384615385,0.0
+Fastjet,Zimbabwe,Africa,1995.0,0,0,1,5,0.0,0.0,0.0
+FedEx,Porto Rico,North America,1985.4088669950736,0,0,7,609,0.0,0.0,0.0
+Federal Airlines,Afrique du Sud,Africa,1984.4545454545453,0,0,2,11,0.0,0.0,0.0
+Fiji Airways,Fidji,Oceania,1997.058823529412,5,9,5,17,29.411764705882355,52.94117647058824,0.2941176470588235
+Finland - Air Force,Chili,South America,1989.551724137931,0,0,3,29,0.0,0.0,0.0
+Finnair,Finlande,Europe,2003.04,0,18,4,50,0.0,36.0,0.0
+Firefly,Malaisie,Asia,1997.0,0,0,1,5,0.0,0.0,0.0
+Flair Airlines,Canada,North America,2014.1,18,18,2,20,90.0,90.0,0.9
+Flexjet,Territoire britannique de l'océan Indien,Asia,2003.5544041450776,1,27,11,193,0.5181347150259068,13.989637305699482,0.005181347150259
+Flight Calibration Services,Territoire britannique de l'océan Indien,Asia,2005.2,0,7,3,10,0.0,70.0,0.0
+Flight Training Europe,Espagne,Europe,2002.0,0,0,1,9,0.0,0.0,0.0
+Flightline,Espagne,Europe,1969.0,0,0,1,5,0.0,0.0,0.0
+Flightpath Charter Airways,Canada,North America,2001.7777777777776,0,1,7,9,0.0,11.11111111111111,0.0
+Florida Air Cargo,Porto Rico,North America,1953.8,0,0,2,5,0.0,0.0,0.0
+Florida Flyers Flight Academy,Porto Rico,North America,1955.0,0,0,1,9,0.0,0.0,0.0
+Fltplan,Porto Rico,North America,1989.909090909091,0,0,6,11,0.0,0.0,0.0
+Fly 7,Finlande,Europe,1991.0,0,0,1,20,0.0,0.0,0.0
+Fly Across,Mexique,North America,2006.8,0,5,7,15,0.0,33.33333333333333,0.0
+Fly Alliance,Porto Rico,North America,1990.6,0,0,4,15,0.0,0.0,0.0
+Fly Baghdad,Irak,Asia,1992.2857142857144,0,0,4,7,0.0,0.0,0.0
+Fly Jet.kz,Kazakhstan,Asia,1994.8333333333333,0,0,4,6,0.0,0.0,0.0
+Fly-Coop Air Service,Hongrie,Europe,1981.888888888889,0,0,6,9,0.0,0.0,0.0
+FlyArystan,Irlande,Europe,2014.0,0,12,1,12,0.0,100.0,0.0
+FlyBy,Espagne,Europe,2001.2857142857144,0,0,2,7,0.0,0.0,0.0
+FlyOne,Cambodge,Asia,1994.857142857143,0,1,3,7,0.0,14.285714285714285,0.0
+FlySafair,Afrique du Sud,Africa,1997.0,0,0,1,33,0.0,0.0,0.0
+Flybondi,Argentine,South America,1997.0,0,0,1,14,0.0,0.0,0.0
+France - Air Force,France,Europe,2000.125,0,0,2,8,0.0,0.0,0.0
+France - Securite Civile,France,Europe,1999.0,0,0,1,5,0.0,0.0,0.0
+Freedom Airline Express,Kenya,Africa,1985.0,0,0,3,5,0.0,0.0,0.0
+Freight Runners Express,Porto Rico,North America,1970.6666666666667,0,0,3,15,0.0,0.0,0.0
+French bee,France,Europe,2014.0,2,6,2,6,33.33333333333333,100.0,0.3333333333333332
+Frontier Airlines,Porto Rico,North America,2011.9050632911392,55,137,3,158,34.810126582278485,86.70886075949366,0.3481012658227848
+Fuji Dream Airlines,Japon,Asia,2002.8125,0,0,2,16,0.0,0.0,0.0
+Fuzhou Airlines,Taïwan,Asia,1999.375,2,2,2,16,12.5,12.5,0.125
+GOL Linhas Aereas,Brésil,South America,2002.784,57,57,3,125,45.6,45.6,0.456
+GTA Air,Porto Rico,North America,1951.6666666666667,0,0,2,9,0.0,0.0,0.0
+GX Airlines,Taïwan,Asia,2009.0,0,6,2,12,0.0,50.0,0.0
+Gama Aviation,Territoire britannique de l'océan Indien,Asia,1990.5,0,0,7,8,0.0,0.0,0.0
+Garuda Indonesia,Timor oriental,Asia,1999.1333333333332,5,5,4,60,8.333333333333332,8.333333333333332,0.0833333333333333
+Gazpromavia,Russie,Europe,1993.548387096774,3,6,9,31,9.67741935483871,19.35483870967742,0.0967741935483871
+Georgian Airlines,Géorgie,Asia,1990.4,0,0,2,5,0.0,0.0,0.0
+Georgian Airways,Géorgie,Asia,1986.5,0,0,6,10,0.0,0.0,0.0
+German Airways,Allemagne,Europe,2002.555555555556,0,0,2,9,0.0,0.0,0.0
+Germany - Air Ambulance,Allemagne,Europe,1995.6470588235293,0,0,3,68,0.0,0.0,0.0
+Germany - Army,Allemagne,Europe,1994.0,0,0,1,8,0.0,0.0,0.0
+Germany - DLR Flugbetriebe,Allemagne,Europe,1989.2857142857144,0,0,6,7,0.0,0.0,0.0
+Gesellschaft Fur Flugzieldarstellung,Allemagne,Europe,1973.0,0,0,1,15,0.0,0.0,0.0
+Gestair,Espagne,Europe,1998.1538461538464,0,1,8,13,0.0,7.6923076923076925,0.0
+Getjet Airlines,Lituanie,Europe,1996.4285714285716,0,0,2,7,0.0,0.0,0.0
+Global Aviation,Burkina Faso,Africa,1987.857142857143,0,0,3,7,0.0,0.0,0.0
+Global Jet Luxembourg,Luxembourg,Europe,2002.9,3,3,6,10,30.0,30.0,0.3
+GlobalX,Porto Rico,North America,1993.0,0,0,1,6,0.0,0.0,0.0
+GlobeAir,Autriche,Europe,2005.0,0,0,1,20,0.0,0.0,0.0
+Grand Canyon Airlines,Porto Rico,North America,1970.1,0,0,2,10,0.0,0.0,0.0
+Grant Aviation,Porto Rico,North America,1967.090909090909,0,0,3,11,0.0,0.0,0.0
+Greater Bay Airlines,Hong Kong,Asia,1997.0,0,0,1,7,0.0,0.0,0.0
+Greece - Air Force,Guernesey,Europe,1993.888888888889,0,0,4,9,0.0,0.0,0.0
+Gulf Air,Bahreïn,Asia,2011.76,14,21,3,25,56.00000000000001,84.0,0.56
+Gulfstream Aerospace,Porto Rico,North America,2007.6570247933885,71,71,4,242,29.338842975206614,29.338842975206614,0.2933884297520661
+Gum Air,Suriname,South America,1980.75,0,0,4,8,0.0,0.0,0.0
+Guna Airlines,Népal,Asia,1988.4285714285716,0,0,2,7,0.0,0.0,0.0
+HK express,Hong Kong,Asia,2006.8857142857144,12,22,3,35,34.285714285714285,62.85714285714285,0.3428571428571428
+HTM Helicopter Travel Munich,Allemagne,Europe,1996.4,0,0,3,15,0.0,0.0,0.0
+Hainan Airlines,Taïwan,Asia,1999.6036585365853,19,27,5,164,11.585365853658535,16.463414634146343,0.1158536585365853
+Hanseo University Flight Education Center,Corée du Sud,Asia,1955.0,0,0,1,8,0.0,0.0,0.0
+Hawaiian Airlines,Porto Rico,North America,1998.983606557377,18,18,3,61,29.508196721311474,29.508196721311474,0.2950819672131147
+Hebei Airlines,Taïwan,Asia,1997.0,0,0,1,28,0.0,0.0,0.0
+Heli Holland,Pays-Bas,Europe,1997.0,0,0,4,9,0.0,0.0,0.0
+Heli Service International,Allemagne,Europe,2006.5,0,5,2,10,0.0,50.0,0.0
+Heli-Team,Svalbard et ile Jan Mayen,Europe,1971.0,0,0,2,6,0.0,0.0,0.0
+HeliDubai,Émirats arabes unis,Asia,1974.0,0,0,1,5,0.0,0.0,0.0
+Helicol,Colombie,South America,1981.0,0,0,2,6,0.0,0.0,0.0
+Helijet International,Canada,North America,1977.9285714285716,0,0,3,14,0.0,0.0,0.0
+Heliservicio,Mexique,North America,1981.4444444444443,0,0,2,9,0.0,0.0,0.0
+Helistar,Colombie,South America,1987.5454545454545,0,0,8,22,0.0,0.0,0.0
+Helitrans,Svalbard et ile Jan Mayen,Europe,1975.88,0,0,5,25,0.0,0.0,0.0
+HelloJets,Roumanie,Europe,1991.0,0,0,2,5,0.0,0.0,0.0
+Helvetic Airways,Suisse,Europe,2004.0,0,0,1,6,0.0,0.0,0.0
+Hera Flight,Porto Rico,North America,1991.1818181818185,0,0,4,11,0.0,0.0,0.0
+Heron Aviation,Espagne,Europe,1997.2,0,0,3,5,0.0,0.0,0.0
+Hi Fly,Malte,Europe,1988.6,0,0,2,10,0.0,0.0,0.0
+Hinterland Aviation,Îles Cocos,Oceania,1982.0,0,0,1,13,0.0,0.0,0.0
+Hong Kong Air Cargo,Hong Kong,Asia,1987.0,0,0,1,5,0.0,0.0,0.0
+Hoper,Grèce,Europe,2000.2,0,0,2,5,0.0,0.0,0.0
+HÃ©li-Union,France,Europe,1992.3333333333333,0,0,2,6,0.0,0.0,0.0
+IASCO Flight Training,Porto Rico,North America,1955.0,0,0,1,24,0.0,0.0,0.0
+IBC Airways,Porto Rico,North America,1985.4666666666667,0,0,3,15,0.0,0.0,0.0
+IFA - Instituto de Formacao Aeronautica,Portugal,Europe,1955.0,0,0,1,5,0.0,0.0,0.0
+IFL Group,Porto Rico,North America,1993.6,0,0,3,10,0.0,0.0,0.0
+ITA Airways,Irlande,Europe,2009.9722222222224,31,56,7,72,43.05555555555556,77.77777777777779,0.4305555555555556
+Iberia,Espagne,Europe,2003.8311688311687,4,44,7,77,5.194805194805195,57.14285714285714,0.0519480519480519
+Iberia Express,Espagne,Europe,2016.0,12,12,1,12,100.0,100.0,1.0
+Ibex Airlines,Japon,Asia,1999.0,0,0,1,9,0.0,0.0,0.0
+Ibom Air,Nigeria,Africa,2005.0,2,2,2,7,28.57142857142857,28.57142857142857,0.2857142857142857
+Icelandair,Islande,Europe,2002.2777777777776,21,21,4,36,58.333333333333336,58.333333333333336,0.5833333333333334
+Ikar,Russie,Europe,2000.5,0,0,3,8,0.0,0.0,0.0
+IndiGo,Inde,Asia,2014.5993975903611,142,327,4,332,42.77108433734939,98.49397590361446,0.4277108433734939
+India - Air Force,Taïwan,Asia,1979.9761904761904,0,0,5,42,0.0,0.0,0.0
+Indiana State University Flight Academy,Porto Rico,North America,1993.692307692308,0,0,3,13,0.0,0.0,0.0
+InterCaribbean Airways,Îles Turques-et-Caïques,North America,1986.5333333333333,0,0,7,15,0.0,0.0,0.0
+International Jet Management,Autriche,Europe,2006.1666666666667,0,1,6,6,0.0,16.666666666666664,0.0
+IrAero,Russie,Europe,2004.6666666666667,0,0,3,9,0.0,0.0,0.0
+Iran Air,Iran,Asia,1990.357142857143,0,0,5,14,0.0,0.0,0.0
+Iran Airtour,Iran,Asia,1988.3636363636365,0,0,3,11,0.0,0.0,0.0
+Iran Aseman Airlines,Iran,Asia,1986.5,0,0,2,10,0.0,0.0,0.0
+Iraq Gate Company,Irak,Asia,1991.4,0,0,3,5,0.0,0.0,0.0
+Iraqi Airways,Irak,Asia,2005.1666666666667,11,11,7,24,45.83333333333333,45.83333333333333,0.4583333333333332
+Italfly,Italie,Europe,1995.0,0,0,6,8,0.0,0.0,0.0
+Italy - Air Force,Île de Man,Europe,1990.123287671233,0,0,13,146,0.0,0.0,0.0
+Italy - Army,Île de Man,Europe,1989.4375,0,6,4,32,0.0,18.75,0.0
+Italy - Coast Guard,Île de Man,Europe,2001.0,0,0,1,16,0.0,0.0,0.0
+Italy - Navy,Île de Man,Europe,1994.4545454545453,0,0,4,33,0.0,0.0,0.0
+Izhavia,Russie,Europe,1981.2857142857144,0,0,2,7,0.0,0.0,0.0
+JDL Airlines,Taïwan,Asia,1997.0,0,0,1,10,0.0,0.0,0.0
+JSX,Porto Rico,North America,1995.0,0,0,1,57,0.0,0.0,0.0
+Japan Airlines,Japon,Asia,1998.9056603773583,9,25,5,106,8.49056603773585,23.58490566037736,0.0849056603773585
+Japan Transocean Air,Japon,Asia,1997.0,0,0,1,14,0.0,0.0,0.0
+Jazeera Airways,Koweït,Asia,2014.0,0,11,1,11,0.0,100.0,0.0
+Jeju Air,Corée du Sud,Asia,1999.2093023255811,5,5,2,43,11.627906976744184,11.627906976744184,0.1162790697674418
+Jet Edge,Porto Rico,North America,1995.2,1,1,3,5,20.0,20.0,0.2
+Jet Linx Aviation,Porto Rico,North America,1994.392405063291,0,2,15,79,0.0,2.5316455696202533,0.0
+Jet Logistics,Porto Rico,North America,1981.6,0,0,3,5,0.0,0.0,0.0
+Jet2,Territoire britannique de l'océan Indien,Asia,1998.5343511450385,18,18,5,131,13.740458015267176,13.740458015267176,0.1374045801526717
+JetBlue,Porto Rico,North America,2005.7469879518076,86,86,4,166,51.80722891566265,51.80722891566265,0.5180722891566265
+JetNetherlands,Belgique,Europe,2003.857142857143,0,1,6,7,0.0,14.285714285714285,0.0
+JetRight,Porto Rico,North America,1996.4,0,0,2,5,0.0,0.0,0.0
+JetSMART,Chili,South America,2014.578947368421,11,38,2,38,28.947368421052637,100.0,0.2894736842105263
+JetStream,Hongrie,Europe,1980.888888888889,0,0,2,9,0.0,0.0,0.0
+Jetfly Aviation,Luxembourg,Europe,1997.0,0,0,2,40,0.0,0.0,0.0
+Jetica,Russie,Europe,1990.857142857143,0,0,3,7,0.0,0.0,0.0
+Jetstar,Îles Cocos,Oceania,2011.6470588235293,23,28,3,34,67.64705882352942,82.35294117647058,0.6764705882352942
+Jettime,Îles Féroé,Europe,1994.857142857143,0,0,2,14,0.0,0.0,0.0
+Jiangxi Air,Taïwan,Asia,1997.0,0,0,1,13,0.0,0.0,0.0
+Jiangxi Express Aviation,Taïwan,Asia,1991.0,0,0,1,11,0.0,0.0,0.0
+Jin Air,Corée du Sud,Asia,1999.967741935484,5,5,4,31,16.129032258064516,16.129032258064516,0.1612903225806451
+Jordan - Air Force,Jordanie,Asia,2001.8333333333333,0,0,2,6,0.0,0.0,0.0
+Jordan Aviation,Jordanie,Asia,1981.6,0,0,2,5,0.0,0.0,0.0
+Journey Aviation,Porto Rico,North America,1981.8333333333333,0,0,3,6,0.0,0.0,0.0
+Juneyao Air,Taïwan,Asia,2005.4444444444443,14,36,3,63,22.22222222222222,57.14285714285714,0.2222222222222222
+KLM,Pays-Bas,Europe,2000.3223684210527,21,21,13,152,13.815789473684212,13.815789473684212,0.1381578947368421
+KM Malta Airlines,Malte,Europe,2014.0,0,8,1,8,0.0,100.0,0.0
+KN Helicopters,Îles Féroé,Europe,2001.2222222222224,0,0,3,9,0.0,0.0,0.0
+Kalitta Air,Porto Rico,North America,1991.5806451612905,0,0,3,31,0.0,0.0,0.0
+Kalitta Charters,Porto Rico,North America,1988.0,0,0,3,26,0.0,0.0,0.0
+Kalitta Charters II,Porto Rico,North America,1979.142857142857,0,0,2,7,0.0,0.0,0.0
+Kam Air,Afghanistan,Asia,1987.0,0,0,3,11,0.0,0.0,0.0
+Kamaka Air,Porto Rico,North America,1975.888888888889,0,0,4,9,0.0,0.0,0.0
+Kansas State University Aviation,Porto Rico,North America,1963.4166666666667,0,0,3,24,0.0,0.0,0.0
+Karun Airlines,Iran,Asia,1985.1538461538464,0,0,3,13,0.0,0.0,0.0
+Kenmore Air,Porto Rico,North America,1955.421052631579,0,0,4,19,0.0,0.0,0.0
+Kenn Borek Air,Canada,North America,1957.3870967741937,0,0,3,31,0.0,0.0,0.0
+Kent State University College of Aeronautics,Porto Rico,North America,1955.090909090909,0,0,2,22,0.0,0.0,0.0
+Kenya Airways,Kenya,Africa,1999.5,0,0,3,26,0.0,0.0,0.0
+Key Lime Air,Porto Rico,North America,1975.9411764705883,0,0,4,17,0.0,0.0,0.0
+Kish Air,Iran,Asia,1983.8181818181815,0,0,4,11,0.0,0.0,0.0
+KlasJet,Lituanie,Europe,1992.692307692308,0,0,4,13,0.0,0.0,0.0
+Korea Aerospace University,Corée du Sud,Asia,1957.4736842105265,0,0,2,19,0.0,0.0,0.0
+Korea Aviation College,Corée du Sud,Asia,1955.0,0,0,1,7,0.0,0.0,0.0
+Korea National University of Transportation,Corée du Sud,Asia,1995.0,0,0,1,5,0.0,0.0,0.0
+Korean Air,Corée du Sud,Asia,2005.206611570248,42,56,14,121,34.710743801652896,46.28099173553719,0.3471074380165289
+Krasavia,Russie,Europe,1973.2307692307693,0,0,3,13,0.0,0.0,0.0
+Kunming Airlines,Taïwan,Asia,1989.516129032258,2,2,3,31,6.451612903225806,6.451612903225806,0.064516129032258
+Kuwait Airways,Koweït,Asia,2009.695652173913,4,13,4,23,17.391304347826086,56.52173913043478,0.1739130434782608
+L.J. Aviation,Porto Rico,North America,1999.0,0,1,3,5,0.0,20.0,0.0
+L3Harris Airline Academy,Porto Rico,North America,1979.2028985507247,0,0,4,69,0.0,0.0,0.0
+LATAM Airlines,Chili,South America,2000.6962025316457,15,51,6,158,9.49367088607595,32.278481012658226,0.0949367088607595
+LATAM Cargo,Chili,South America,1986.0,0,0,1,19,0.0,0.0,0.0
+LIFT Academy,Porto Rico,North America,1997.5375,0,0,3,80,0.0,0.0,0.0
+LOT,Pologne,Europe,2007.02,18,18,5,50,36.0,36.0,0.36
+Labcorp,Porto Rico,North America,1991.0,0,0,1,13,0.0,0.0,0.0
+Laser Airlines,Venezuela,South America,1982.2,0,0,2,5,0.0,0.0,0.0
+LeTourneau University Aviation,Porto Rico,North America,1981.578947368421,0,0,4,19,0.0,0.0,0.0
+Legends Airways,Porto Rico,North America,1983.0,0,0,1,7,0.0,0.0,0.0
+Level,Espagne,Europe,1987.0,0,0,1,7,0.0,0.0,0.0
+LifeFlight Australia,Îles Cocos,Oceania,1993.8125,0,0,3,16,0.0,0.0,0.0
+Lion Air,Timor oriental,Asia,2000.8783783783783,7,7,3,74,9.45945945945946,9.45945945945946,0.0945945945945946
+Loganair,Territoire britannique de l'océan Indien,Asia,1986.0,0,0,4,22,0.0,0.0,0.0
+Loong Air,Taïwan,Asia,2013.468085106383,12,45,4,47,25.53191489361702,95.74468085106383,0.2553191489361702
+Lucky Air,Taïwan,Asia,1994.547619047619,5,11,5,42,11.904761904761903,26.190476190476197,0.119047619047619
+Lufthansa,Allemagne,Europe,2002.255319148936,17,98,9,235,7.234042553191489,41.70212765957447,0.0723404255319148
+Lufthansa Cargo,Allemagne,Europe,1990.75,0,0,2,16,0.0,0.0,0.0
+Lufthansa City,Allemagne,Europe,2007.090909090909,0,7,2,11,0.0,63.63636363636363,0.0
+Lufttransport,Svalbard et ile Jan Mayen,Europe,1996.0,0,1,3,6,0.0,16.666666666666664,0.0
+Lunds University School of Aviation,Suède,Europe,1992.0,0,0,3,9,0.0,0.0,0.0
+Luxair,Luxembourg,Europe,1988.8,2,2,3,10,20.0,20.0,0.2
+Luxaviation,Afrique du Sud,Africa,2000.6785714285716,2,4,13,28,7.142857142857142,14.285714285714285,0.0714285714285714
+Luxembourg Air Ambulance,Luxembourg,Europe,1995.0,0,0,1,5,0.0,0.0,0.0
+Luxwing,Malte,Europe,2003.1818181818185,0,0,6,11,0.0,0.0,0.0
+Lynden Air Cargo,Porto Rico,North America,1954.0,0,0,1,13,0.0,0.0,0.0
+MASwings,Malaisie,Asia,1965.0,0,0,1,6,0.0,0.0,0.0
+MEA,Liban,Asia,2008.0666666666664,10,11,3,15,66.66666666666666,73.33333333333333,0.6666666666666665
+MJets Air,Malaisie,Asia,1997.0,0,0,1,5,0.0,0.0,0.0
+MNG Airlines,Turquie,Europe,1992.0,0,0,3,8,0.0,0.0,0.0
+Mack Air,Botswana,Africa,1982.0,0,0,1,21,0.0,0.0,0.0
+Maersk Air Cargo,Territoire britannique de l'océan Indien,Asia,1982.7272727272727,0,0,3,22,0.0,0.0,0.0
+Magnicharters,Mexique,North America,1984.0,0,0,1,6,0.0,0.0,0.0
+Mahan Air,Iran,Asia,1988.1379310344828,0,0,10,29,0.0,0.0,0.0
+Makers Air,Porto Rico,North America,1982.0,0,0,1,8,0.0,0.0,0.0
+Malaysia - Air Force,Île de Man,Europe,1993.5384615384612,0,0,5,13,0.0,0.0,0.0
+Malaysia Airlines,Malaisie,Asia,2001.6575342465756,16,23,5,73,21.91780821917808,31.506849315068493,0.2191780821917808
+Maldivian,Maldives,Asia,1966.8333333333333,0,0,2,12,0.0,0.0,0.0
+Malta Air,Malte,Europe,2016.0,6,6,1,6,100.0,100.0,1.0
+Manta Air,Afrique du Sud,Africa,1965.85,0,0,2,20,0.0,0.0,0.0
+Marabu,Estonie,Europe,2014.0,0,8,1,8,0.0,100.0,0.0
+Marshall University Aviation,Porto Rico,North America,1993.090909090909,0,0,2,11,0.0,0.0,0.0
+Martinaire,Porto Rico,North America,1982.0,0,0,1,25,0.0,0.0,0.0
+Massey University School of Aviation,Nouvelle-Zélande,Oceania,1997.7142857142856,0,0,2,14,0.0,0.0,0.0
+Mauritania Airlines,Mauritanie,Africa,1997.2,1,1,4,5,20.0,20.0,0.2
+Mavi GÃ¶k Airlines,Turquie,Europe,1996.3076923076924,0,0,4,13,0.0,0.0,0.0
+Max Air,Nigeria,Africa,1989.0,0,0,5,6,0.0,0.0,0.0
+Maxair,Porto Rico,North America,2007.8333333333333,0,0,2,6,0.0,0.0,0.0
+Maya Island Air,Belize,North America,1982.0,0,0,1,6,0.0,0.0,0.0
+Med-Trans,Porto Rico,North America,1991.4615384615383,0,0,3,13,0.0,0.0,0.0
+Memorial Hermann Life Flight,Porto Rico,North America,1999.0,0,0,1,8,0.0,0.0,0.0
+Meraj Airlines,Iran,Asia,1994.0,0,0,3,5,0.0,0.0,0.0
+Mesa Airlines,Porto Rico,North America,2001.0,0,0,1,6,0.0,0.0,0.0
+Mexicana,Mexique,North America,1995.857142857143,0,0,2,7,0.0,0.0,0.0
+Mexico - Air Force,Mexique,North America,1994.2,0,0,13,75,0.0,0.0,0.0
+Middle Georgia State University School of Aviation,Porto Rico,North America,1990.8333333333333,0,0,4,6,0.0,0.0,0.0
+Middle Tennessee State University Aerospace,Porto Rico,North America,1994.658536585366,0,0,4,41,0.0,0.0,0.0
+Midwest Aviation Division,Porto Rico,North America,1972.6,0,0,3,5,0.0,0.0,0.0
+Motor Sich Airlines,Ukraine,Europe,1960.4285714285716,0,0,3,7,0.0,0.0,0.0
+Mountain Aviation,Porto Rico,North America,1991.0,0,0,2,8,0.0,0.0,0.0
+Mountain Flyers,Suisse,Europe,1990.7777777777776,0,3,5,9,0.0,33.33333333333333,0.0
+My Freighter,Ouzbékistan,Asia,1985.555555555556,0,0,2,9,0.0,0.0,0.0
+My Indo Airlines,Timor oriental,Asia,1986.1666666666667,0,0,2,6,0.0,0.0,0.0
+Myanmar Airways International,Birmanie,Asia,1997.571428571429,0,0,2,7,0.0,0.0,0.0
+NATO,Luxembourg,Europe,1972.0,0,0,1,12,0.0,0.0,0.0
+NHC Northern Helicopter,Allemagne,Europe,1997.8,0,0,2,10,0.0,0.0,0.0
+Nam Air,Timor oriental,Asia,1989.0,0,0,1,11,0.0,0.0,0.0
+Nanshan Flying,Taïwan,Asia,1955.0,0,0,1,8,0.0,0.0,0.0
+National Airways Corporation,Afrique du Sud,Africa,1990.7142857142856,0,1,4,7,0.0,14.285714285714285,0.0
+National Jet Express,Îles Cocos,Oceania,2002.2222222222224,0,0,2,9,0.0,0.0,0.0
+Nauru Airlines,Îles Cocos,Oceania,1985.2857142857144,0,0,3,7,0.0,0.0,0.0
+Neos,Irlande,Europe,2009.6666666666667,8,8,2,12,66.66666666666666,66.66666666666666,0.6666666666666665
+NetJets,Portugal,Europe,2009.2143950995403,94,338,9,653,14.39509954058193,51.76110260336907,0.1439509954058193
+Netherlands - Coast Guard,Aruba,North America,1987.4,0,1,3,5,0.0,20.0,0.0
+Netherlands - Navy,Porto Rico,North America,1995.0,0,0,1,8,0.0,0.0,0.0
+Netherlands - Royal Air Force,Territoire britannique de l'océan Indien,Asia,1970.34375,0,0,4,32,0.0,0.0,0.0
+New Zealand - Royal New Zealand Air Force,Porto Rico,North America,1990.0833333333333,0,0,7,36,0.0,0.0,0.0
+Nigeria - Air Force,Porto Rico,North America,1980.0,0,0,5,7,0.0,0.0,0.0
+Nippon Cargo Airlines,Japon,Asia,2010.0,0,8,1,8,0.0,100.0,0.0
+Nok Air,Thaïlande,Asia,1997.0,0,0,1,11,0.0,0.0,0.0
+Noordzee Helikopters Vlaanderen,Territoire britannique de l'océan Indien,Asia,2005.4736842105265,0,3,5,19,0.0,15.789473684210526,0.0
+NordStar,Russie,Europe,1995.555555555556,0,0,2,9,0.0,0.0,0.0
+Nordwind Airlines,Russie,Europe,1997.1666666666667,2,2,6,24,8.333333333333332,8.333333333333332,0.0833333333333333
+Norsk Luftambulanse,Svalbard et ile Jan Mayen,Europe,1996.8461538461536,0,0,3,26,0.0,0.0,0.0
+Nortavia,Portugal,Europe,1957.2222222222224,0,0,2,9,0.0,0.0,0.0
+North Cariboo Air,Canada,North America,1981.142857142857,0,0,3,7,0.0,0.0,0.0
+North Flying,Îles Féroé,Europe,1974.0,0,0,2,8,0.0,0.0,0.0
+North-West Air Company,Russie,Europe,2001.7692307692307,2,3,5,13,15.384615384615383,23.07692307692308,0.1538461538461538
+North-Wright Airways,Canada,North America,1975.0666666666664,0,0,7,15,0.0,0.0,0.0
+Northern Air Cargo,Porto Rico,North America,1988.2,0,0,2,5,0.0,0.0,0.0
+Northern Jet Management,Porto Rico,North America,1996.4444444444443,0,0,6,9,0.0,0.0,0.0
+Northway Aviation,Canada,North America,1985.0,0,0,2,9,0.0,0.0,0.0
+Norwegian,Svalbard et ile Jan Mayen,Europe,2002.8461538461536,28,28,2,91,30.76923076923077,30.76923076923077,0.3076923076923077
+OK Aviation,République tchèque,Europe,1994.4444444444443,0,0,3,9,0.0,0.0,0.0
+OSM Aviation Academy,Svalbard et ile Jan Mayen,Europe,1961.7142857142856,0,0,2,14,0.0,0.0,0.0
+Offshore Helicopter Services,Territoire britannique de l'océan Indien,Asia,2002.555555555556,0,0,3,27,0.0,0.0,0.0
+Ohio State University Aviation,Porto Rico,North America,1955.190476190476,0,0,2,21,0.0,0.0,0.0
+Okay Airways,Taïwan,Asia,1997.8181818181815,0,0,2,22,0.0,0.0,0.0
+Oklahoma State University Aviation,Porto Rico,North America,1978.076923076923,0,0,2,26,0.0,0.0,0.0
+Omni Air Transport,Porto Rico,North America,1990.75,0,0,4,8,0.0,0.0,0.0
+Omni Taxi Aereo,Brésil,South America,1999.4415584415583,0,7,8,77,0.0,9.090909090909092,0.0
+One Air,Territoire britannique de l'océan Indien,Asia,2002.3529411764705,0,1,6,17,0.0,5.88235294117647,0.0
+Ornge Air,Canada,North America,1997.0,0,0,2,20,0.0,0.0,0.0
+PACC Air,Porto Rico,North America,1965.4,0,0,2,5,0.0,0.0,0.0
+PDG Aviation Services,Territoire britannique de l'océan Indien,Asia,1978.368421052632,0,0,4,19,0.0,0.0,0.0
+PHI,Îles Cocos,Oceania,1991.0344827586207,0,0,8,145,0.0,0.0,0.0
+PLAY,Islande,Europe,2014.2857142857144,1,7,2,7,14.285714285714285,100.0,0.1428571428571428
+Pacific Coast Jet,Porto Rico,North America,2000.5,0,0,8,10,0.0,0.0,0.0
+Pacific Coastal Airlines,Canada,North America,1980.7619047619048,0,0,3,21,0.0,0.0,0.0
+Pakistan International Airlines,Pakistan,Asia,1995.111111111111,0,0,3,9,0.0,0.0,0.0
+Panorama Aviation,Canada,North America,1989.0,0,0,2,9,0.0,0.0,0.0
+Pars Air,Iran,Asia,1989.6,0,0,2,5,0.0,0.0,0.0
+Pascan Aviation,Canada,North America,1983.0,0,0,1,9,0.0,0.0,0.0
+Patria Pilot Training,Finlande,Europe,1997.4166666666667,0,0,2,12,0.0,0.0,0.0
+Peach,Japon,Asia,2014.3,3,20,2,20,15.0,100.0,0.15
+Pegasus,Turquie,Europe,2013.7521367521367,62,108,3,117,52.991452991453,92.3076923076923,0.5299145299145299
+Pegasus Elite Aviation,Porto Rico,North America,1984.7142857142856,0,0,4,7,0.0,0.0,0.0
+Peru - Air Force,France,Europe,1968.782608695652,0,0,6,23,0.0,0.0,0.0
+Petroleum Air Services,Égypte,Africa,1999.0,0,0,3,11,0.0,0.0,0.0
+Petropavlovsk-Kamchatsky Air,Russie,Europe,1967.0,0,0,2,6,0.0,0.0,0.0
+Phoenix Air,Porto Rico,North America,1977.3636363636365,0,0,5,22,0.0,0.0,0.0
+Phoenix East Aviation,Porto Rico,North America,1957.923076923077,0,0,3,65,0.0,0.0,0.0
+Pilatus Flugzeugwerke,Suisse,Europe,1998.625668449198,0,0,4,187,0.0,0.0,0.0
+Pilot Flight Academy,Svalbard et ile Jan Mayen,Europe,1999.058823529412,0,0,2,17,0.0,0.0,0.0
+PlaneSense,Porto Rico,North America,1995.4057971014493,0,0,2,69,0.0,0.0,0.0
+Planemaster Services,Porto Rico,North America,1982.0,0,0,2,11,0.0,0.0,0.0
+Platoon Aviation,Allemagne,Europe,2007.0,0,0,1,8,0.0,0.0,0.0
+Plus Ultra,Espagne,Europe,1987.0,0,0,1,5,0.0,0.0,0.0
+Pobeda,Russie,Europe,1997.0,0,0,1,42,0.0,0.0,0.0
+Polish Medical Air Rescue,Pologne,Europe,1995.1935483870968,0,0,3,31,0.0,0.0,0.0
+Pouya Air,Iran,Asia,1988.5,0,0,3,8,0.0,0.0,0.0
+Precision Aircraft Management,Porto Rico,North America,1995.857142857143,0,0,5,7,0.0,0.0,0.0
+Presidential Aviation,Porto Rico,North America,1991.8333333333333,0,0,5,6,0.0,0.0,0.0
+Priester Aviation,Porto Rico,North America,1995.0,0,0,4,6,0.0,0.0,0.0
+Private Jet Center,Porto Rico,North America,1996.0,0,0,1,6,0.0,0.0,0.0
+Private Jets,Porto Rico,North America,2000.3333333333333,0,0,3,6,0.0,0.0,0.0
+Private Wings,Allemagne,Europe,1990.1,0,0,2,10,0.0,0.0,0.0
+Privilege Style,Espagne,Europe,1992.2,0,0,3,5,0.0,0.0,0.0
+ProAir Aviation,Allemagne,Europe,1997.6666666666667,0,0,3,6,0.0,0.0,0.0
+Proflight Zambia,Zambie,Africa,1991.0,0,0,2,9,0.0,0.0,0.0
+Propair,Canada,North America,1982.0,0,0,1,5,0.0,0.0,0.0
+Qantas,Îles Cocos,Oceania,1995.15,1,1,4,100,1.0,1.0,0.01
+QantasLink,Îles Cocos,Oceania,1999.107142857143,7,7,4,56,12.5,12.5,0.125
+Qatar Airways,Qatar,Asia,2004.5337423312883,33,67,6,163,20.245398773006134,41.104294478527606,0.2024539877300613
+Qatar Executive,Qatar,Asia,2014.4444444444443,7,7,2,9,77.77777777777779,77.77777777777779,0.7777777777777779
+Qeshm Airlines,Iran,Asia,1989.2307692307693,0,0,3,13,0.0,0.0,0.0
+QinetiQ / Empire Test Pilots School,Territoire britannique de l'océan Indien,Asia,1985.5384615384612,0,0,8,13,0.0,0.0,0.0
+Qingdao Airlines,Taïwan,Asia,2014.1666666666667,2,24,2,24,8.333333333333332,100.0,0.0833333333333333
+Quality Fly,Espagne,Europe,2009.0,0,0,1,10,0.0,0.0,0.0
+Quest Diagnostics,Porto Rico,North America,1993.5263157894735,0,0,2,19,0.0,0.0,0.0
+REACH Air Medical Services,Porto Rico,North America,1988.2592592592596,0,0,3,27,0.0,0.0,0.0
+REGA Swiss Air-Rescue,Suisse,Europe,1984.5217391304348,0,0,3,23,0.0,0.0,0.0
+Rainier Flight Service,Porto Rico,North America,1955.0,0,0,1,10,0.0,0.0,0.0
+Rano Air,Nigeria,Africa,1995.0,0,0,1,5,0.0,0.0,0.0
+Ravenair,Territoire britannique de l'océan Indien,Asia,1976.8666666666663,0,0,3,15,0.0,0.0,0.0
+Raya Airways,Malaisie,Asia,1984.4285714285716,0,0,2,7,0.0,0.0,0.0
+Rectimo Air Transports,France,Europe,1955.5454545454545,0,0,2,11,0.0,0.0,0.0
+Red Wings,Russie,Europe,2006.32,0,0,2,25,0.0,0.0,0.0
+Redding Aero Enterprises,Porto Rico,North America,1977.625,0,0,3,16,0.0,0.0,0.0
+Redstar Aviation,Turquie,Europe,1995.8,0,0,3,10,0.0,0.0,0.0
+Rimbun Air,Timor oriental,Asia,1986.6,0,0,2,5,0.0,0.0,0.0
+RiseAir,Canada,North America,1972.8823529411768,0,0,6,17,0.0,0.0,0.0
+Romania - Air Force,Guernesey,Europe,1989.0,0,0,3,11,0.0,0.0,0.0
+Rossiya,Russie,Europe,2002.685950413223,0,0,7,121,0.0,0.0,0.0
+Royal Air Freight,Porto Rico,North America,1984.2333333333331,0,0,5,30,0.0,0.0,0.0
+Royal Brunei Airlines,Brunei,Asia,2014.0,0,7,1,7,0.0,100.0,0.0
+Royal Jordanian,Jordanie,Asia,2001.6153846153843,0,4,4,13,0.0,30.76923076923077,0.0
+Ruili Airlines,Taïwan,Asia,1988.6,0,0,2,25,0.0,0.0,0.0
+RusJet,Russie,Europe,1994.6,0,0,5,15,0.0,0.0,0.0
+Russia - Air Force,Russie,Europe,1978.9714285714283,0,0,3,35,0.0,0.0,0.0
+Russia - Ministry of Emergency Situations (MChS),Russie,Europe,1988.1538461538464,0,0,5,13,0.0,0.0,0.0
+Russia - Special Flight Squadron,Russie,Europe,1997.9545454545453,0,0,6,22,0.0,0.0,0.0
+Rutaca Airlines,Venezuela,South America,1983.0,0,0,3,6,0.0,0.0,0.0
+RwandAir,Rwanda,Africa,1995.8,0,0,3,10,0.0,0.0,0.0
+Ryan Air (USA),Porto Rico,North America,1973.0,0,0,4,19,0.0,0.0,0.0
+Ryanair,Malte,Europe,2002.2923875432523,163,163,4,578,28.20069204152249,28.20069204152249,0.2820069204152249
+S7 Airlines,Russie,Europe,2005.0,8,39,7,89,8.98876404494382,43.82022471910113,0.0898876404494382
+SAAB Aircraft,Suède,Europe,1986.1666666666667,0,0,3,6,0.0,0.0,0.0
+SAF Helicopteres,France,Europe,1988.578947368421,0,0,4,38,0.0,0.0,0.0
+SANSA,Costa Rica,North America,1982.0,0,0,1,12,0.0,0.0,0.0
+SAS,Irlande,Europe,2011.0294117647056,3,83,6,102,2.941176470588235,81.37254901960785,0.0294117647058823
+SATENA,Colombie,South America,1983.636363636364,0,0,3,11,0.0,0.0,0.0
+SCAT,Kazakhstan,Asia,1994.590909090909,3,3,6,22,13.636363636363637,13.636363636363637,0.1363636363636363
+SD Aviation,France,Europe,2009.5,0,3,3,6,0.0,50.0,0.0
+SF Airlines,Taïwan,Asia,1984.0232558139533,0,0,5,86,0.0,0.0,0.0
+SKY Airline,Chili,South America,2014.388888888889,7,36,2,36,19.444444444444446,100.0,0.1944444444444444
+SKY express,Grèce,Europe,2014.3076923076924,2,13,2,13,15.384615384615383,100.0,0.1538461538461538
+STAjets,Porto Rico,North America,1991.111111111111,0,0,4,9,0.0,0.0,0.0
+Safarilink Aviation,Kenya,Africa,1982.0,0,0,1,10,0.0,0.0,0.0
+Saint Louis University Flight School,Porto Rico,North America,1991.0,0,0,1,9,0.0,0.0,0.0
+Samaritan's Purse,Porto Rico,North America,1973.0,0,0,8,8,0.0,0.0,0.0
+San Carlos Flight School,Porto Rico,North America,1957.8125,0,0,3,16,0.0,0.0,0.0
+Sapsan Airline,Kirghizistan,Asia,1970.6666666666667,0,0,2,6,0.0,0.0,0.0
+Saudi Arabia - Air Force,Guernesey,Europe,1992.1176470588236,0,0,3,34,0.0,0.0,0.0
+Saudia,Arabie saoudite,Asia,2002.871794871795,19,19,7,78,24.35897435897436,24.35897435897436,0.2435897435897435
+SaxonAir,Territoire britannique de l'océan Indien,Asia,1991.5,0,0,6,10,0.0,0.0,0.0
+Scanwings,Finlande,Europe,1991.7,0,1,5,10,0.0,10.0,0.0
+Scoot,Singapour,Asia,2015.1764705882356,10,17,2,17,58.82352941176471,100.0,0.5882352941176471
+Searca,Colombie,South America,1981.5263157894735,0,0,3,19,0.0,0.0,0.0
+Secure Air Charter,Porto Rico,North America,1983.0,0,0,1,7,0.0,0.0,0.0
+Sepehran Airlines,Iran,Asia,1986.0833333333333,0,0,2,12,0.0,0.0,0.0
+Serene Air,Pakistan,Asia,1992.0,0,0,2,6,0.0,0.0,0.0
+Sevenair,Allemagne,Europe,1989.636363636364,0,0,9,22,0.0,0.0,0.0
+Severstal Aircompany,Russie,Europe,1999.5,0,0,2,8,0.0,0.0,0.0
+Shandong Airlines,Taïwan,Asia,1998.1294964028775,13,13,3,139,9.352517985611511,9.352517985611511,0.0935251798561151
+Shanghai Airlines,Taïwan,Asia,1999.3589743589744,16,16,3,78,20.51282051282051,20.51282051282051,0.2051282051282051
+Shenzhen Airlines,Taïwan,Asia,2003.7272727272727,19,46,5,121,15.702479338842975,38.01652892561984,0.1570247933884297
+Sichuan Airlines,Taïwan,Asia,2002.3636363636365,20,62,6,143,13.986013986013988,43.35664335664335,0.1398601398601398
+Sideral Linhas Aereas,Brésil,South America,1985.5833333333333,0,0,4,12,0.0,0.0,0.0
+Sierra Charlie Aviation,Porto Rico,North America,1955.0,0,0,1,17,0.0,0.0,0.0
+Sierra West Airlines,Porto Rico,North America,1974.3,0,0,3,10,0.0,0.0,0.0
+Silk Way Airlines,Azerbaïdjan,Asia,1971.0,0,0,1,5,0.0,0.0,0.0
+Silk Way West Airlines,Azerbaïdjan,Asia,1991.25,0,1,3,8,0.0,12.5,0.0
+Silver Air,Porto Rico,North America,1992.3076923076924,0,0,9,13,0.0,0.0,0.0
+Silverhawk Aviation,Porto Rico,North America,1984.590909090909,0,0,4,22,0.0,0.0,0.0
+Singapore Airlines,Singapour,Asia,2010.880281690141,44,109,6,142,30.985915492957744,76.76056338028168,0.3098591549295774
+Sky Helicopteros,Espagne,Europe,1974.7142857142856,0,0,2,14,0.0,0.0,0.0
+Sky Quest,Porto Rico,North America,1989.0,0,0,3,13,0.0,0.0,0.0
+SkyCare,Canada,North America,1971.875,0,0,3,16,0.0,0.0,0.0
+SkyLine Express,Ukraine,Europe,1999.0,0,0,4,7,0.0,0.0,0.0
+SkyLink Express,Canada,North America,1980.8,0,0,3,15,0.0,0.0,0.0
+SkyUp Airlines,Malte,Europe,1996.7857142857144,3,3,3,14,21.428571428571427,21.428571428571427,0.2142857142857142
+SkyWest Airlines,Porto Rico,North America,1994.1162790697676,0,0,3,86,0.0,0.0,0.0
+SkyWest Charter,Porto Rico,North America,1991.0,0,0,1,8,0.0,0.0,0.0
+Skyborne Airline Academy,Porto Rico,North America,1992.5,0,0,2,6,0.0,0.0,0.0
+Skybus,Territoire britannique de l'océan Indien,Asia,1965.0,0,0,2,8,0.0,0.0,0.0
+Skymark Airlines,Japon,Asia,1997.0,0,0,1,29,0.0,0.0,0.0
+Skytrans,Îles Cocos,Oceania,1985.7142857142856,0,0,2,7,0.0,0.0,0.0
+Skyward Airlines,Kenya,Africa,1987.7142857142856,0,0,3,7,0.0,0.0,0.0
+Slate Aviation,Porto Rico,North America,1991.0,0,0,1,7,0.0,0.0,0.0
+Sloane Helicopters,Territoire britannique de l'océan Indien,Asia,1971.6666666666667,0,0,2,12,0.0,0.0,0.0
+Smart Aviation,Timor oriental,Asia,1998.0,0,0,2,5,0.0,0.0,0.0
+SmartLynx,Malte,Europe,1996.2857142857144,2,2,2,14,14.285714285714285,14.285714285714285,0.1428571428571428
+Smartavia,Russie,Europe,1995.0,0,2,3,13,0.0,15.384615384615383,0.0
+Smartwings,République tchèque,Europe,2004.2142857142856,18,18,7,42,42.85714285714285,42.85714285714285,0.4285714285714285
+Solairus Aviation,Porto Rico,North America,1995.909090909091,0,0,5,11,0.0,0.0,0.0
+Solaseed Air,Japon,Asia,1997.0,0,0,1,14,0.0,0.0,0.0
+Solenta Aviation,Afrique du Sud,Africa,1982.0,0,0,1,10,0.0,0.0,0.0
+Sounds Air,Nouvelle-Zélande,Oceania,1987.0,0,0,2,9,0.0,0.0,0.0
+Southern Airways Express,Porto Rico,North America,1982.659090909091,0,0,3,44,0.0,0.0,0.0
+Southern Illinois University School of Aviation,Porto Rico,North America,1955.0,0,0,1,25,0.0,0.0,0.0
+Southwest Airlines,Porto Rico,North America,1990.9166666666667,274,274,3,816,33.57843137254902,33.57843137254902,0.3357843137254901
+Southwind Airlines,Turquie,Europe,1999.692307692308,4,4,6,13,30.76923076923077,30.76923076923077,0.3076923076923077
+Spain - Air Force,Espagne,Europe,1978.9,0,0,5,10,0.0,0.0,0.0
+Spain - Coast Guard,Espagne,Europe,2000.875,0,0,2,16,0.0,0.0,0.0
+SpiceJet,Inde,Asia,1996.391304347826,7,7,4,23,30.434782608695656,30.434782608695656,0.3043478260869565
+Spirit Airlines,Porto Rico,North America,2011.2551724137927,32,123,3,145,22.06896551724138,84.82758620689656,0.2206896551724138
+Spring Airlines,Taïwan,Asia,2014.4137931034484,12,58,2,58,20.689655172413797,100.0,0.2068965517241379
+Spring City Aviation,Porto Rico,North America,1980.8,0,0,2,5,0.0,0.0,0.0
+Spring Japan,Japon,Asia,1997.0,0,0,1,6,0.0,0.0,0.0
+SprintAir,Pologne,Europe,1983.0,0,0,1,7,0.0,0.0,0.0
+SriLankan Airlines,Sri Lanka,Asia,2005.888888888889,4,6,3,9,44.44444444444444,66.66666666666666,0.4444444444444444
+St Barth Commuter,Polynésie française,Oceania,1979.1666666666667,0,0,2,6,0.0,0.0,0.0
+Star Air,Inde,Asia,1999.0,0,0,3,10,0.0,0.0,0.0
+Star Air Cargo,Afrique du Sud,Africa,1984.0,0,0,1,8,0.0,0.0,0.0
+Star Peru,Pérou,South America,1984.857142857143,0,0,3,7,0.0,0.0,0.0
+Star Work Sky,Italie,Europe,1974.0,0,0,1,8,0.0,0.0,0.0
+Starlux,Taïwan,Asia,2015.107142857143,18,28,3,28,64.28571428571429,100.0,0.6428571428571429
+Suburban Air Freight,Porto Rico,North America,1982.0,0,0,2,10,0.0,0.0,0.0
+Summit Air,Canada,North America,1985.5454545454545,0,0,3,11,0.0,0.0,0.0
+Summit Aviation,Porto Rico,North America,1987.8333333333333,0,0,4,18,0.0,0.0,0.0
+Sun Country Airlines,Porto Rico,North America,1997.1304347826087,0,0,2,46,0.0,0.0,0.0
+SunExpress,Turquie,Europe,2001.9259259259256,21,21,2,81,25.925925925925924,25.925925925925924,0.2592592592592592
+Sunclass Airlines,Îles Féroé,Europe,2001.5454545454545,4,4,3,11,36.36363636363637,36.36363636363637,0.3636363636363636
+Sunrise Airways,Antigua-et-Barbuda,North America,1985.0,0,0,2,6,0.0,0.0,0.0
+Sunwest Aviation,Canada,North America,1983.5833333333333,0,0,6,12,0.0,0.0,0.0
+Suparna Airlines,Taïwan,Asia,1995.5,0,0,2,12,0.0,0.0,0.0
+Surf Air,Porto Rico,North America,1991.0,0,0,1,8,0.0,0.0,0.0
+Susi Air,Timor oriental,Asia,1981.2777777777776,0,0,2,18,0.0,0.0,0.0
+Svensk Luftambulans,Suède,Europe,1999.0,0,0,1,6,0.0,0.0,0.0
+Svenskt Ambulansflyg,Suède,Europe,2007.0,0,0,1,6,0.0,0.0,0.0
+Sweden - Swedish Maritime Administration,Suède,Europe,2001.0,0,0,1,7,0.0,0.0,0.0
+Swift Copters,Suisse,Europe,1985.6666666666667,0,0,7,12,0.0,0.0,0.0
+Swiftair,Espagne,Europe,1986.7272727272727,0,0,5,11,0.0,0.0,0.0
+Swiss,Suisse,Europe,2008.7166666666667,27,38,6,60,45.0,63.33333333333333,0.45
+Swiss Helicopter,Suisse,Europe,1986.206896551724,0,0,3,29,0.0,0.0,0.0
+Syrian Air,Syrie,Asia,1979.0,0,0,2,5,0.0,0.0,0.0
+T'way Air,Corée du Sud,Asia,1997.7368421052631,4,4,4,38,10.526315789473683,10.526315789473683,0.1052631578947368
+TAAG Angola Airlines,Angola,Africa,1992.2,3,3,4,15,20.0,20.0,0.2
+TAP Air Portugal,Portugal,Europe,2011.205128205128,42,57,7,78,53.84615384615385,73.07692307692307,0.5384615384615384
+TAR Aerolineas,Mexique,North America,1995.0,0,0,1,5,0.0,0.0,0.0
+TUI fly,Allemagne,Europe,2004.6442307692307,45,45,3,104,43.26923076923077,43.26923076923077,0.4326923076923077
+Taiga Air,Russie,Europe,1962.3333333333333,0,0,2,6,0.0,0.0,0.0
+Tarco Air,Gambie,Africa,1990.0,0,0,4,8,0.0,0.0,0.0
+Tarom,Roumanie,Europe,1982.0,0,0,2,8,0.0,0.0,0.0
+Tassili Airlines,Algérie,Africa,1989.0,0,0,2,15,0.0,0.0,0.0
+Team Global Express,Nouvelle-Zélande,Oceania,1983.0,0,0,2,6,0.0,0.0,0.0
+Terra Avia,Moldavie,Europe,1987.7142857142856,0,0,3,7,0.0,0.0,0.0
+Thai Airways,Thaïlande,Asia,2007.111111111111,0,23,3,45,0.0,51.11111111111111,0.0
+Thai Lion Air,Thaïlande,Asia,1997.9310344827584,0,0,2,29,0.0,0.0,0.0
+Thrive,Porto Rico,North America,2008.1538461538464,5,5,6,13,38.46153846153847,38.46153846153847,0.3846153846153847
+Thrust Flight,Porto Rico,North America,1955.0,0,0,1,6,0.0,0.0,0.0
+Tianjin Air Cargo,Taïwan,Asia,1991.0,0,0,2,5,0.0,0.0,0.0
+Tianjin Airlines,Taïwan,Asia,2005.4,0,16,4,50,0.0,32.0,0.0
+Tibet Airlines,Taïwan,Asia,1998.8536585365853,9,9,3,41,21.951219512195124,21.951219512195124,0.2195121951219512
+Tigerair Taiwan,Taïwan,Asia,2014.0,0,7,1,7,0.0,100.0,0.0
+Titan Airways,Territoire britannique de l'océan Indien,Asia,1999.8,1,1,3,5,20.0,20.0,0.2
+Tradewind Aviation,Porto Rico,North America,1991.0,0,0,1,33,0.0,0.0,0.0
+Trans Guyana Airways,Guyana,South America,1982.0,0,0,2,13,0.0,0.0,0.0
+Trans Maldivian Airways,Maldives,Asia,1965.0,0,0,1,61,0.0,0.0,0.0
+Transavia,France,Europe,2000.7445255474447,10,29,3,137,7.2992700729927,21.16788321167883,0.072992700729927
+Transportes AÃ©reos Pegaso,Mexique,North America,2002.8823529411768,0,0,4,17,0.0,0.0,0.0
+Travira Air,Timor oriental,Asia,1992.636363636364,0,1,7,11,0.0,9.090909090909092,0.0
+Trident Aircraft,Porto Rico,North America,2006.2,0,2,4,5,0.0,40.0,0.0
+Trigana Air,Timor oriental,Asia,1984.7142857142856,0,0,2,7,0.0,0.0,0.0
+Tropic Air,Belize,North America,1982.0,0,0,1,15,0.0,0.0,0.0
+Tulpar Air,Russie,Europe,1990.0,0,0,4,7,0.0,0.0,0.0
+Tulpar Aircompany,Russie,Europe,1994.142857142857,0,0,3,7,0.0,0.0,0.0
+Tunisair,Tunisie,Africa,2003.7777777777776,0,5,3,9,0.0,55.55555555555556,0.0
+Tunisia - Air Force,Zimbabwe,Africa,1966.375,0,0,3,8,0.0,0.0,0.0
+Turkey - Air Force,Guernesey,Europe,1998.6470588235293,0,0,2,17,0.0,0.0,0.0
+Turkish Airlines,Turquie,Europe,2002.4006734006732,77,105,10,297,25.925925925925924,35.35353535353536,0.2592592592592592
+Turkmenistan Airlines,Turkménistan,Asia,1988.368421052632,0,0,7,19,0.0,0.0,0.0
+Twin Jet,France,Europe,1982.0,0,0,1,13,0.0,0.0,0.0
+UND Aerospace,Porto Rico,North America,1960.6666666666667,0,0,5,9,0.0,0.0,0.0
+UPS,Porto Rico,North America,1989.2517482517485,0,30,6,286,0.0,10.48951048951049,0.0
+US-Bangla Airlines,Timor oriental,Asia,1997.0,0,0,1,8,0.0,0.0,0.0
+USA Jet Airlines,Porto Rico,North America,1988.857142857143,0,0,3,7,0.0,0.0,0.0
+UVT Aero,Russie,Europe,1991.0,0,0,1,7,0.0,0.0,0.0
+Ukraine International Airlines,Ukraine,Europe,2000.4,0,0,2,5,0.0,0.0,0.0
+Ultimate Jet,Porto Rico,North America,1993.0,0,0,1,5,0.0,0.0,0.0
+Unicair,Allemagne,Europe,1984.8461538461536,0,0,2,13,0.0,0.0,0.0
+Union Aviation,Lettonie,Europe,1997.111111111111,0,0,4,9,0.0,0.0,0.0
+United Airlines,Porto Rico,North America,1999.590799031477,183,183,18,1239,14.769975786924938,14.769975786924938,0.1476997578692493
+United Arab Emirates - Air Force,Guernesey,Europe,1983.9285714285716,0,0,3,14,0.0,0.0,0.0
+United Aviate Academy,Porto Rico,North America,1995.0,0,0,1,50,0.0,0.0,0.0
+United Kingdom - Air Ambulance,Territoire britannique de l'océan Indien,Asia,1997.0625,0,13,5,48,0.0,27.08333333333333,0.0
+United Kingdom - Army Air Corps,Zimbabwe,Africa,1970.7377049180327,0,0,4,61,0.0,0.0,0.0
+United Kingdom - Royal Air Force,Zimbabwe,Africa,1982.5852842809363,0,0,11,299,0.0,0.0,0.0
+United Kingdom - Royal Air Force Air Transport,Zimbabwe,Africa,1997.438596491228,0,0,6,57,0.0,0.0,0.0
+United Kingdom - Royal Navy,Zimbabwe,Africa,1980.782608695652,0,0,3,92,0.0,0.0,0.0
+United Nations,Ukraine,Europe,1982.2,0,0,11,30,0.0,0.0,0.0
+United States - Air Force,Guernesey,Europe,1982.919463087248,0,0,15,149,0.0,0.0,0.0
+United States - California Department of Forestry,Porto Rico,North America,1964.382978723404,0,0,4,47,0.0,0.0,0.0
+United States - Coast Guard,Guernesey,Europe,1997.2727272727277,0,0,2,33,0.0,0.0,0.0
+United States - Department of State,Porto Rico,North America,1968.125,0,0,3,8,0.0,0.0,0.0
+United States - Florida Forest Service,Porto Rico,North America,1956.8947368421047,0,0,4,19,0.0,0.0,0.0
+United States - Maryland State Police,Porto Rico,North America,2001.0,0,0,1,10,0.0,0.0,0.0
+United States - NASA,Porto Rico,North America,1967.6521739130435,0,0,13,46,0.0,0.0,0.0
+United States - North Carolina Forest Service,Porto Rico,North America,1959.8125,0,0,6,16,0.0,0.0,0.0
+United States - US Department of Interior,Porto Rico,North America,1952.7727272727277,0,0,4,22,0.0,0.0,0.0
+United States - US Immigration and Customs Enforcement,Porto Rico,North America,1973.7911392405065,0,0,7,158,0.0,0.0,0.0
+University of Central Missouri Aviation,Porto Rico,North America,1955.0,0,0,1,17,0.0,0.0,0.0
+Ural Airlines,Russie,Europe,2001.793103448276,8,11,4,29,27.58620689655172,37.93103448275862,0.2758620689655172
+Urumqi Air,Taïwan,Asia,1997.0,0,0,1,16,0.0,0.0,0.0
+Utair,Russie,Europe,1990.619047619048,0,0,7,42,0.0,0.0,0.0
+Uzbekistan Airways,Ouzbékistan,Asia,1997.645161290323,5,15,7,31,16.129032258064516,48.38709677419355,0.1612903225806451
+VallJet,France,Europe,1989.857142857143,0,0,3,7,0.0,0.0,0.0
+Varesh Airlines,Iran,Asia,1985.875,0,0,2,8,0.0,0.0,0.0
+Ventura,Porto Rico,North America,1992.7142857142856,0,0,2,7,0.0,0.0,0.0
+Venture Aviation Group,Porto Rico,North America,1986.0,0,0,4,5,0.0,0.0,0.0
+Via Air,République centrafricaine,Africa,1978.8333333333333,0,0,4,6,0.0,0.0,0.0
+Victory Air,Porto Rico,North America,1995.0,0,0,1,10,0.0,0.0,0.0
+Vieques Air Link,Porto Rico,North America,1965.0,0,0,2,8,0.0,0.0,0.0
+VietJet Air,Vietnam,Asia,2002.0,27,27,2,69,39.130434782608695,39.130434782608695,0.391304347826087
+Vietnam Airlines,Vietnam,Asia,2003.8395061728395,23,40,5,81,28.39506172839506,49.38271604938272,0.2839506172839506
+Virgin Atlantic,Territoire britannique de l'océan Indien,Asia,2016.4,20,20,2,20,100.0,100.0,1.0
+Virgin Australia,Îles Cocos,Oceania,1995.57,9,9,4,100,9.0,9.0,0.09
+Vista America,Porto Rico,North America,1991.3333333333333,2,2,4,30,6.666666666666667,6.666666666666667,0.0666666666666666
+VistaJet,Malte,Europe,2002.2857142857144,16,21,11,98,16.3265306122449,21.428571428571427,0.163265306122449
+Viva,Mexique,North America,2010.2272727272727,22,34,3,44,50.0,77.27272727272727,0.5
+Volare Aviation,Guernesey,Europe,1986.2,1,1,5,5,20.0,20.0,0.2
+Volaris,Porto Rico,North America,2012.1057692307693,35,91,4,104,33.65384615384615,87.5,0.3365384615384615
+Volga-Dnepr Airlines,Russie,Europe,1971.0,0,0,1,5,0.0,0.0,0.0
+Volotea,Espagne,Europe,1995.0,0,0,1,18,0.0,0.0,0.0
+Vueling,Espagne,Europe,2004.5098039215688,4,27,4,51,7.84313725490196,52.94117647058824,0.0784313725490196
+Wamos Air,Espagne,Europe,1987.0,0,0,1,5,0.0,0.0,0.0
+Warbelows Air Ventures,Porto Rico,North America,1964.0,0,0,1,6,0.0,0.0,0.0
+Wasaya Airways,Canada,North America,1983.0833333333333,0,0,4,12,0.0,0.0,0.0
+Weltall Avia,Russie,Europe,1984.3333333333333,0,0,2,6,0.0,0.0,0.0
+West Air,Taïwan,Asia,2006.157894736842,5,11,5,19,26.31578947368421,57.89473684210527,0.2631578947368421
+WestJet,Canada,North America,1996.5,53,53,3,146,36.3013698630137,36.3013698630137,0.363013698630137
+Westair Aviation,Italie,Europe,2003.0,0,3,5,6,0.0,50.0,0.0
+Western Air,Bahamas,North America,1993.5,0,0,2,8,0.0,0.0,0.0
+Western Aircraft,Porto Rico,North America,1992.6,0,0,2,10,0.0,0.0,0.0
+Western Global Airlines,Porto Rico,North America,1989.7,0,0,2,20,0.0,0.0,0.0
+Western Michigan University College of Aviation,Porto Rico,North America,1993.774193548387,0,0,2,62,0.0,0.0,0.0
+Wheels Up,Porto Rico,North America,1997.5,0,0,5,64,0.0,0.0,0.0
+Wiggins Airways,Porto Rico,North America,1967.0,0,0,2,10,0.0,0.0,0.0
+Winair,Corée du Nord,Asia,1965.0,0,0,1,5,0.0,0.0,0.0
+Windrose Airlines,Ukraine,Europe,1991.7,0,0,5,10,0.0,0.0,0.0
+Wing Aviation,Porto Rico,North America,1996.25,1,1,6,8,12.5,12.5,0.125
+Wingo,Panama,North America,1997.0,0,0,1,9,0.0,0.0,0.0
+Wizz Air,Malte,Europe,2011.2753623188405,159,165,3,207,76.81159420289855,79.71014492753623,0.7681159420289855
+World Atlantic Airlines,Porto Rico,North America,1984.0,0,0,1,8,0.0,0.0,0.0
+Worldwide Jet Charter,Porto Rico,North America,1985.2,0,0,3,5,0.0,0.0,0.0
+Wright Air Service,Porto Rico,North America,1979.625,0,0,3,16,0.0,0.0,0.0
+XCEL JET,Porto Rico,North America,2001.0,0,0,2,5,0.0,0.0,0.0
+XO,Porto Rico,North America,1993.0,0,0,1,20,0.0,0.0,0.0
+Xiamen Air,Taïwan,Asia,2000.2,42,42,4,165,25.454545454545453,25.454545454545453,0.2545454545454545
+YTO Cargo Airlines,Taïwan,Asia,1982.6666666666667,0,0,2,12,0.0,0.0,0.0
+Yakutia Airlines,Russie,Europe,1993.142857142857,0,0,3,7,0.0,0.0,0.0
+Yamal Airlines,Russie,Europe,2005.0,0,0,2,17,0.0,0.0,0.0
+ZYB Lily Jet,Taïwan,Asia,1995.0,0,0,3,6,0.0,0.0,0.0
+Zagros Airlines,Iran,Asia,1983.875,0,0,3,8,0.0,0.0,0.0
+Zimex Aviation,Suisse,Europe,1965.0,0,0,1,7,0.0,0.0,0.0
+airblue,Pakistan,Asia,1999.571428571429,2,2,2,7,28.57142857142857,28.57142857142857,0.2857142857142857
+easyJet,Territoire britannique de l'océan Indien,Asia,2005.3539325842696,19,95,3,178,10.674157303370784,53.37078651685393,0.1067415730337078
+flyExclusive,Porto Rico,North America,1994.12987012987,0,0,5,77,0.0,0.0,0.0
+flyadeal,Arabie saoudite,Asia,2010.71875,0,28,3,32,0.0,87.5,0.0
+flydubai,Émirats arabes unis,Asia,2009.9545454545453,60,60,2,88,68.18181818181817,68.18181818181817,0.6818181818181818
+flynas,Arabie saoudite,Asia,2014.0983606557377,3,61,2,61,4.918032786885246,100.0,0.0491803278688524
+populAir,Suède,Europe,1985.0,0,0,1,11,0.0,0.0,0.0
+rex. Regional Express,Îles Cocos,Oceania,1983.0,0,0,1,37,0.0,0.0,0.0

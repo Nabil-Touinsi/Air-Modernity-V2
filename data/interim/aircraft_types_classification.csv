@@ -1,0 +1,563 @@
+aircraft_type,rows,model_name,manufacturer,entry_year,source,has_model_name,has_entry_year,share_rows,guess_category,suggested_action
+B738,4625,Boeing 737-800,,1997.0,wikidata:P606,True,True,0.08328231353765261,airliner,OK
+A320,3803,Airbus A320,,,,True,False,0.068480570461339,airliner,PRIORITY: fix entry_year lookup for this model_name
+A20N,2401,Airbus A320neo,,2014.0,wikidata:P606,True,True,0.04323477509273598,airliner,OK
+A21N,2032,Airbus A321neo,,2016.0,wikidata:P606,True,True,0.036590196996434614,airliner,OK
+B38M,1742,Boeing 737 MAX 8,,2016.0,wikidata:P606,True,True,0.031368170850289916,airliner,OK
+A321,1591,Airbus A321,,1993.0,wikidata:P606,True,True,0.028649115856952498,airliner,OK
+C172,1060,Cessna 172 Skyhawk,,1955.0,wikidata:P606,True,True,0.019087405913494435,general_aviation,OK
+A319,931,Airbus A319,,1995.0,wikidata:P606,True,True,0.016764504627795586,airliner,OK
+B789,826,Boeing 787-9,,,,True,False,0.014873771023156984,airliner,MED: improve scraping (try other queries / props / sources)
+B77W,769,Boeing 777-300ER,,2003.0,wikidata:P606,True,True,0.013847372780638889,airliner,OK
+P28A,756,Piper PA-28 Archer,,,,True,False,0.013613281953397918,general_aviation,MED: improve scraping (try other queries / props / sources)
+B737,717,Boeing 737,,1967.0,wikidata:P606,True,True,0.01291100947167501,airliner,OK
+C208,713,Cessna 208 Caravan,,1982.0,wikidata:P606,True,True,0.012838981524831634,general_aviation,OK
+A359,663,Airbus A350-900,,2013.0,wikidata:P606,True,True,0.011938632189289445,airliner,OK
+A333,653,Airbus A330-300,,,,True,False,0.011758562322181006,airliner,MED: improve scraping (try other queries / props / sources)
+AT76,615,ATR 72-600,,,,True,False,0.011074296827168942,airliner,MED: improve scraping (try other queries / props / sources)
+B763,610,Boeing 767-300,,1986.0,wikidata:P606,True,True,0.010984261893614723,airliner,OK
+E75L,610,Embraer 175,,2003.0,wikidata:P606,True,True,0.010984261893614723,unknown,OK
+C130,582,Lockheed C-130 Hercules,,1954.0,wikidata:P606,True,True,0.010480066265711095,military,OK
+TEX2,567,Beechcraft T-6 Texan II,,2000.0,wikidata:P606,True,True,0.010209961465048439,general_aviation,OK
+PC12,533,Pilatus PC-12,,1991.0,wikidata:P606,True,True,0.00959772391687975,unknown,OK
+T38,520,Northrop T-38 Talon,,1959.0,wikidata:P606,True,True,0.00936363308963878,military,OK
+B739,513,Boeing 737-900,,2000.0,wikidata:P606,True,True,0.009237584182662873,airliner,OK
+B752,492,Boeing 757-200,,1982.0,wikidata:P606,True,True,0.008859437461735153,airliner,OK
+DH8D,474,Bombardier Dash 8 Q400,,,,True,False,0.008535311700939964,airliner,MED: improve scraping (try other queries / props / sources)
+A332,462,Airbus A330-200,,,,True,False,0.008319227860409839,airliner,MED: improve scraping (try other queries / props / sources)
+E190,421,Embraer 190,,2004.0,wikidata:P606,True,True,0.007580941405265243,airliner_or_regional,OK
+C30J,412,Lockheed C-130J Super Hercules,,1996.0,wikidata:P606,True,True,0.007418878524867649,military,OK
+BCS3,404,Bombardier CS300,,2015.0,wikidata:P606,True,True,0.007274822631180899,airliner,OK
+K35R,404,Boeing KC-135R Stratotanker,,,,True,False,0.007274822631180899,unknown,MED: improve scraping (try other queries / props / sources)
+CRJ9,403,Bombardier CRJ-900,,2001.0,wikidata:P606,True,True,0.007256815644470054,airliner,OK
+B788,385,Boeing 787-8,,,,True,False,0.006932689883674866,airliner,MED: improve scraping (try other queries / props / sources)
+EC35,372,Eurocopter EC135,,1994.0,wikidata:P606,True,True,0.006698599056433896,helicopter,OK
+A139,366,AgustaWestland AW139,,2001.0,wikidata:P606,True,True,0.0065905571361688335,unknown,OK
+CRJ2,361,Bombardier CRJ-200,,1991.0,wikidata:P606,True,True,0.006500522202614614,airliner,OK
+E55P,352,Embraer Phenom 300,,2008.0,wikidata:P606,True,True,0.00633845932221702,unknown,OK
+C56X,350,Cessna Citation XLS,,1996.0,wikidata:P606,True,True,0.006302445348795332,general_aviation,OK
+AS50,345,Eurocopter AS350 Écureuil,,1974.0,wikidata:P606,True,True,0.006212410415241114,helicopter,OK
+C182,340,Cessna 182 Skylane,,1956.0,wikidata:P606,True,True,0.006122375481686895,general_aviation,OK
+B77L,328,Boeing 777-200LR,,,,True,False,0.0059062916411567684,airliner,MED: improve scraping (try other queries / props / sources)
+EC45,318,Eurocopter EC145,,1999.0,wikidata:P606,True,True,0.005726221774048331,helicopter,OK
+B190,313,Beechcraft 1900,,1982.0,wikidata:P606,True,True,0.0056361868404941114,general_aviation,OK
+E145,291,Embraer ERJ-145,,1995.0,wikidata:P606,True,True,0.005240033132855548,airliner,OK
+DHC6,278,de Havilland Canada DHC-6 Twin Otter,,1965.0,wikidata:P606,True,True,0.005005942305614578,unknown,OK
+BE40,277,Beechcraft Premier I,,,,True,False,0.004987935318903735,general_aviation,MED: improve scraping (try other queries / props / sources)
+CRJ7,275,Bombardier CRJ-700,,1999.0,wikidata:P606,True,True,0.004951921345482047,airliner,OK
+B39M,273,Boeing 737 MAX 9,,,,True,False,0.00491590737206036,airliner,MED: improve scraping (try other queries / props / sources)
+C68A,273,Cessna Citation Latitude,,2014.0,wikidata:P606,True,True,0.00491590737206036,general_aviation,OK
+SR20,270,Cirrus SR20,,1995.0,wikidata:P606,True,True,0.004861886411927828,general_aviation,OK
+BE20,269,Beechcraft King Air 200,,,,True,False,0.004843879425216985,general_aviation,MED: improve scraping (try other queries / props / sources)
+B772,261,Boeing 777-200,,1994.0,wikidata:P606,True,True,0.0046998235315302336,airliner,OK
+H60,260,Sikorsky UH-60 Black Hawk,,1974.0,wikidata:P606,True,True,0.00468181654481939,helicopter,OK
+B350,242,Beechcraft King Air 350,,,,True,False,0.0043576907840242015,general_aviation,MED: improve scraping (try other queries / props / sources)
+CL35,241,Bombardier Challenger 350,,,,True,False,0.004339683797313357,airliner,MED: improve scraping (try other queries / props / sources)
+C17,239,Boeing C-17 Globemaster III,,1991.0,wikidata:P606,True,True,0.00430366982389167,military_or_special,OK
+B733,238,Boeing 737-300,,1984.0,wikidata:P606,True,True,0.004285662837180826,airliner,OK
+B734,236,Boeing 737-400,,,,True,False,0.004249648863759139,airliner,MED: improve scraping (try other queries / props / sources)
+CL60,230,Bombardier Challenger 600 series,,,,True,False,0.004141606943494075,airliner,MED: improve scraping (try other queries / props / sources)
+AT75,224,ATR 72-500,,,,True,False,0.004033565023229013,airliner,MED: improve scraping (try other queries / props / sources)
+A339,208,Airbus A330-900neo,,2017.0,wikidata:P606,True,True,0.003745453235855512,airliner,OK
+DA40,205,Diamond DA40,,1997.0,wikidata:P606,True,True,0.0036914322757229806,general_aviation,OK
+B744,204,Boeing 747-400,,1988.0,wikidata:P606,True,True,0.003673425289012137,airliner,OK
+A388,200,Airbus A380-800,,,,True,False,0.0036013973421687613,airliner,MED: improve scraping (try other queries / props / sources)
+PC21,200,Pilatus PC-21,,2002.0,wikidata:P606,True,True,0.0036013973421687613,unknown,OK
+PA44,188,Piper PA-44 Seminole,,,,True,False,0.0033853135016386356,general_aviation,MED: improve scraping (try other queries / props / sources)
+GLEX,185,Bombardier Global Express,,1996.0,wikidata:P606,True,True,0.0033312925415061043,airliner,OK
+S92,180,Sikorsky S-92,,1998.0,wikidata:P606,True,True,0.0032412576079518854,unknown,OK
+DA42,172,Diamond DA42,,2002.0,wikidata:P606,True,True,0.003097201714265135,general_aviation,OK
+A306,167,Airbus A300-600,,1994.0,wikidata:P606,True,True,0.003007166780710916,airliner,OK
+E75S,166,Embraer 175,,2003.0,wikidata:P606,True,True,0.002989159794000072,unknown,OK
+SF34,160,Saab 340,,1983.0,wikidata:P606,True,True,0.002881117873735009,airliner_or_regional,OK
+AJ27,158,COMAC ARJ21-700,,,,True,False,0.0028451039003133216,airliner,MED: improve scraping (try other queries / props / sources)
+E195,156,Embraer 195,,,,True,False,0.002809089926891634,airliner_or_regional,MED: improve scraping (try other queries / props / sources)
+PC24,156,Pilatus PC-24,,,,True,False,0.002809089926891634,unknown,MED: improve scraping (try other queries / props / sources)
+SU95,156,Sukhoi Superjet 100,,2008.0,wikidata:P606,True,True,0.002809089926891634,airliner,OK
+C25B,152,Cessna Citation CJ3,,,,True,False,0.0027370619800482585,general_aviation,MED: improve scraping (try other queries / props / sources)
+GLF4,152,Gulfstream IV,,1985.0,wikidata:P606,True,True,0.0027370619800482585,general_aviation,OK
+B762,149,Boeing 767-200,,,,True,False,0.002683041019915727,airliner,MED: improve scraping (try other queries / props / sources)
+LJ35,145,Learjet 35,,1973.0,wikidata:P606,True,True,0.002611013073072352,general_aviation,OK
+E295,143,Embraer E195-E2,,,,True,False,0.0025749990996506646,airliner,MED: improve scraping (try other queries / props / sources)
+DH8C,141,De Havilland Canada Dash 8-300,,,,True,False,0.002538985126228977,airliner,MED: improve scraping (try other queries / props / sources)
+DH8A,139,De Havilland Canada Dash 8-100,,,,True,False,0.002502971152807289,airliner,MED: improve scraping (try other queries / props / sources)
+SW4,136,Swearingen Metroliner,,1969.0,wikidata:P606,True,True,0.0024489501926747577,unknown,OK
+E170,132,Embraer 170,,2002.0,wikidata:P606,True,True,0.0023769222458313827,airliner_or_regional,OK
+AS65,129,Eurocopter AS365 Dauphin,,1975.0,wikidata:P606,True,True,0.0023229012856988513,helicopter,OK
+EUFI,129,Eurofighter Typhoon,,1994.0,wikidata:P606,True,True,0.0023229012856988513,unknown,OK
+C295,128,Airbus C295,,1997.0,wikidata:P606,True,True,0.002304894298988007,general_aviation,OK
+NH90,128,NHIndustries NH90,,1995.0,wikidata:P606,True,True,0.002304894298988007,unknown,OK
+H25B,127,Hawker 800,,1983.0,wikidata:P606,True,True,0.0022868873122771634,helicopter,OK
+B748,125,Boeing 747-8,,2010.0,wikidata:P606,True,True,0.002250873338855476,airliner,OK
+B78X,125,Boeing 787-10,,2017.0,wikidata:P606,True,True,0.002250873338855476,airliner,OK
+C750,120,Cessna Citation X,,1993.0,wikidata:P606,True,True,0.002160838405301257,general_aviation,OK
+HAWK,118,BAE Hawk,,1974.0,wikidata:P606,True,True,0.0021248244318795694,unknown,OK
+CL30,117,Bombardier Challenger 300,,,,True,False,0.0021068174451687256,airliner,MED: improve scraping (try other queries / props / sources)
+GLF6,113,Gulfstream G650/G650ER,,,,True,False,0.00203478949832535,general_aviation,MED: improve scraping (try other queries / props / sources)
+A400,112,Airbus A400M Atlas,,2009.0,wikidata:P606,True,True,0.0020167825116145064,unknown,OK
+IL76,110,Ilyushin Il-76,,1971.0,wikidata:P606,True,True,0.001980768538192819,unknown,OK
+H47,107,Boeing CH-47 Chinook,,1961.0,wikidata:P606,True,True,0.0019267475780602875,helicopter,OK
+B407,106,Bell 407,,1995.0,wikidata:P606,True,True,0.0019087405913494435,helicopter,OK
+E35L,106,Embraer Legacy 600/650,,2001.0,wikidata:P606,True,True,0.0019087405913494435,military_or_special,OK
+C680,103,Cessna Citation Sovereign,,2002.0,wikidata:P606,True,True,0.0018547196312169122,general_aviation,OK
+LJ60,102,Learjet 60,,1990.0,wikidata:P606,True,True,0.0018367126445060684,general_aviation,OK
+BE99,101,Beechcraft 99 Airliner,,1966.0,wikidata:P606,True,True,0.0018187056577952246,general_aviation,OK
+GA6C,100,Gulfstream G650,,2009.0,wikidata:P606,True,True,0.0018006986710843807,general_aviation,OK
+B735,99,Boeing 737-500,,1989.0,wikidata:P606,True,True,0.0017826916843735369,airliner,OK
+GLF5,99,Gulfstream V,,1995.0,wikidata:P606,True,True,0.0017826916843735369,general_aviation,OK
+AN32,98,Antonov An-32,,1976.0,wikidata:P606,True,True,0.0017646846976626931,unknown,OK
+A35K,97,Airbus A350-1000,,2016.0,wikidata:P606,True,True,0.0017466777109518493,airliner,OK
+LJ45,97,Learjet 45,,1995.0,wikidata:P606,True,True,0.0017466777109518493,general_aviation,OK
+TEST,97,Test / Unknown,,,,True,False,0.0017466777109518493,unknown,MED: improve scraping (try other queries / props / sources)
+C402,95,Cessna 402,,1965.0,wikidata:P606,True,True,0.0017106637375301618,general_aviation,OK
+E135,91,Embraer ERJ-135,,,,True,False,0.0016386357906867865,airliner,MED: improve scraping (try other queries / props / sources)
+H64,91,Boeing AH-64 Apache,,,,True,False,0.0016386357906867865,helicopter,MED: improve scraping (try other queries / props / sources)
+A109,88,AgustaWestland AW109,,1971.0,wikidata:P606,True,True,0.001584614830554255,unknown,OK
+D228,88,Dornier 228,,1981.0,wikidata:P606,True,True,0.001584614830554255,unknown,OK
+DV20,86,Diamond DA20 Katana,,1991.0,wikidata:P606,True,True,0.0015486008571325674,general_aviation,OK
+B712,85,Boeing 717-200,,1998.0,wikidata:P606,True,True,0.0015305938704217236,airliner,OK
+C25A,85,Cessna Citation CJ2,,2000.0,wikidata:P729,True,True,0.0015305938704217236,general_aviation,OK
+C700,85,Gulfstream G700,,2020.0,wikidata:P606,True,True,0.0015305938704217236,general_aviation,OK
+C152,84,Cessna 152,,,,True,False,0.0015125868837108799,general_aviation,MED: improve scraping (try other queries / props / sources)
+AT46,82,ATR 42-600,,,,True,False,0.0014765729102891921,airliner,MED: improve scraping (try other queries / props / sources)
+GA5C,81,Gulfstream G500,,1995.0,wikidata:P606,True,True,0.0014585659235783483,general_aviation,OK
+GA7C,80,Gulfstream G700,,2020.0,wikidata:P606,True,True,0.0014405589368675046,general_aviation,OK
+EH10,79,AgustaWestland EH101 Merlin,,1987.0,wikidata:P606,True,True,0.0014225519501566608,unknown,OK
+P208,79,Tecnam P2008,,,,True,False,0.0014225519501566608,unknown,MED: improve scraping (try other queries / props / sources)
+E545,78,Embraer Legacy 450,,,,True,False,0.001404544963445817,airliner_or_regional,MED: improve scraping (try other queries / props / sources)
+F100,77,Fokker 100,,1986.0,wikidata:P606,True,True,0.0013865379767349733,military_or_special,OK
+F15,77,McDonnell Douglas F-15 Eagle,,1972.0,wikidata:P606,True,True,0.0013865379767349733,military_or_special,OK
+LYNX,77,Westland Lynx,,1971.0,wikidata:P606,True,True,0.0013865379767349733,unknown,OK
+UH1,76,Bell UH-1 Iroquois,,1956.0,wikidata:P606,True,True,0.0013685309900241293,helicopter,OK
+A169,75,AgustaWestland AW169,,2012.0,wikidata:P606,True,True,0.0013505240033132855,unknown,OK
+TOR,73,Panavia Tornado,,1974.0,wikidata:P606,True,True,0.001314510029891598,unknown,OK
+BCS1,70,Airbus A220-100 (Bombardier CS100),,,,True,False,0.0012604890697590664,airliner,MED: improve scraping (try other queries / props / sources)
+B412,69,Bell 412,,1979.0,wikidata:P606,True,True,0.0012424820830482226,helicopter,OK
+B52,69,Boeing B-52 Stratofortress,,1952.0,wikidata:P606,True,True,0.0012424820830482226,unknown,OK
+E314,69,Embraer ERJ-145,,1995.0,wikidata:P606,True,True,0.0012424820830482226,airliner,OK
+MD11,69,McDonnell Douglas MD-11,,1990.0,wikidata:P606,True,True,0.0012424820830482226,unknown,OK
+F16,68,General Dynamics F-16 Fighting Falcon,,1974.0,wikidata:P606,True,True,0.0012244750963373789,military_or_special,OK
+E120,66,Embraer EMB 120 Brasilia,,1983.0,wikidata:P606,True,True,0.0011884611229156913,airliner,OK
+PA31,66,Piper PA-31 Navajo,,1964.0,wikidata:P606,True,True,0.0011884611229156913,general_aviation,OK
+C560,65,Cessna Citation V,,1987.0,wikidata:P606,True,True,0.0011704541362048476,general_aviation,OK
+F2TH,65,Dassault Falcon 2000,,,,True,False,0.0011704541362048476,unknown,MED: improve scraping (try other queries / props / sources)
+FA20,65,Dassault Falcon 20,,2001.0,wikidata:P606,True,True,0.0011704541362048476,unknown,OK
+GL5T,65,Gulfstream G500,,1995.0,wikidata:P606,True,True,0.0011704541362048476,general_aviation,OK
+E550,64,Embraer Legacy 500,,2013.0,wikidata:P606,True,True,0.0011524471494940036,airliner_or_regional,OK
+BE9L,63,Beechcraft King Air 90,,1963.0,wikidata:P606,True,True,0.0011344401627831598,general_aviation,OK
+DC10,62,McDonnell Douglas DC-10,,1970.0,wikidata:P606,True,True,0.001116433176072316,unknown,OK
+S76,62,Sikorsky S-76,,1977.0,wikidata:P606,True,True,0.001116433176072316,unknown,OK
+AT45,61,ATR 42-500,,,,True,False,0.0010984261893614723,airliner,MED: improve scraping (try other queries / props / sources)
+C27J,59,Alenia C-27J Spartan,,1999.0,wikidata:P606,True,True,0.0010624122159397847,unknown,OK
+C525,58,Cessna Citation CJ4,,,,True,False,0.001044405229228941,general_aviation,MED: improve scraping (try other queries / props / sources)
+E45X,58,Embraer Legacy 450,,,,True,False,0.001044405229228941,unknown,MED: improve scraping (try other queries / props / sources)
+MD83,58,McDonnell Douglas MD-83,,1984.0,wikidata:P606,True,True,0.001044405229228941,unknown,OK
+A343,57,Airbus A340-300,,1991.0,wikidata:P606,True,True,0.001026398242518097,airliner,OK
+BN2P,57,Britten-Norman BN-2 Islander,,1965.0,wikidata:P606,True,True,0.001026398242518097,unknown,OK
+P3,57,Lockheed P-3 Orion,,1959.0,wikidata:P606,True,True,0.001026398242518097,military,OK
+B212,56,Bell 212,,1965.0,wikidata:P606,True,True,0.0010083912558072532,helicopter,OK
+SR22,56,Cirrus SR22,,2000.0,wikidata:P606,True,True,0.0010083912558072532,general_aviation,OK
+A748,54,Antonov An-74,,1983.0,wikidata:P606,True,True,0.0009723772823855656,unknown,OK
+C510,54,Cessna Citation Mustang,,2005.0,wikidata:P606,True,True,0.0009723772823855656,general_aviation,OK
+AT43,53,Aerospatiale/Alenia ATR 42-300,,,,True,False,0.0009543702956747218,airliner,MED: improve scraping (try other queries / props / sources)
+B429,53,Bell 429,,2007.0,wikidata:P606,True,True,0.0009543702956747218,helicopter,OK
+FA7X,53,Dassault Falcon 7X,,2005.0,wikidata:P606,True,True,0.0009543702956747218,unknown,OK
+GLID,53,Glider (generic),,,,True,False,0.0009543702956747218,unknown,MED: improve scraping (try other queries / props / sources)
+P180,53,Piaggio P.180 Avanti,,,,True,False,0.0009543702956747218,unknown,MED: improve scraping (try other queries / props / sources)
+BE58,52,Beechcraft Baron,,1960.0,wikidata:P606,True,True,0.000936363308963878,general_aviation,OK
+EC25,52,,,,,False,False,0.000936363308963878,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+C5M,51,Lockheed C-5M Super Galaxy,,2002.0,wikidata:P606,True,True,0.0009183563222530342,military,OK
+A10,49,Fairchild Republic A-10 Thunderbolt II,,1972.0,wikidata:P606,True,True,0.0008823423488313466,unknown,OK
+DH8B,49,De Havilland Canada Dash 8-200,,,,True,False,0.0008823423488313466,airliner,MED: improve scraping (try other queries / props / sources)
+G12T,49,Gulfstream G120,,,,True,False,0.0008823423488313466,general_aviation,MED: improve scraping (try other queries / props / sources)
+GA8C,49,GippsAero GA8 Airvan,,,,True,False,0.0008823423488313466,unknown,MED: improve scraping (try other queries / props / sources)
+SH36,49,Shorts SD.360,,,,True,False,0.0008823423488313466,unknown,MED: improve scraping (try other queries / props / sources)
+B753,48,Boeing 757-300,,1998.0,wikidata:P606,True,True,0.0008643353621205028,airliner,OK
+E110,48,Embraer EMB 110 Bandeirante,,1968.0,wikidata:P606,True,True,0.0008643353621205028,airliner,OK
+E50P,48,Embraer Phenom 100,,2007.0,wikidata:P606,True,True,0.0008643353621205028,unknown,OK
+P28R,48,Piper PA-28R Arrow,,,,True,False,0.0008643353621205028,general_aviation,MED: improve scraping (try other queries / props / sources)
+A19N,47,Airbus A319neo,,2017.0,wikidata:P606,True,True,0.0008463283754096589,airliner,OK
+AT72,47,Aerospatiale/Alenia ATR 72,,,,True,False,0.0008463283754096589,airliner,MED: improve scraping (try other queries / props / sources)
+AT8T,47,ATR 42-600,,,,True,False,0.0008463283754096589,airliner,MED: improve scraping (try other queries / props / sources)
+B505,47,Bell 505 Jet Ranger X,,2014.0,wikidata:P606,True,True,0.0008463283754096589,helicopter,OK
+SIRA,47,Unknown / SIRA,,,,True,False,0.0008463283754096589,unknown,MED: improve scraping (try other queries / props / sources)
+T206,47,Cessna T206 Stationair,,,,True,False,0.0008463283754096589,general_aviation,MED: improve scraping (try other queries / props / sources)
+TUCA,47,Emb-312 Tucano,,1980.0,wikidata:P606,True,True,0.0008463283754096589,unknown,OK
+E3TF,46,Boeing E-3 Sentry,,1972.0,wikidata:P606,True,True,0.0008283213886988151,military_or_special,OK
+EC75,46,Eurocopter EC175,,2009.0,wikidata:P606,True,True,0.0008283213886988151,helicopter,OK
+D328,45,Fairchild Dornier Do.328,,,,True,False,0.0008103144019879714,unknown,MED: improve scraping (try other queries / props / sources)
+F900,45,Dassault Falcon 900,,1984.0,wikidata:P606,True,True,0.0008103144019879714,military_or_special,OK
+V22,45,,,,,False,False,0.0008103144019879714,unknown,MED: need model_name to scrape entry_year
+GALX,43,Gulfstream G200,,1997.0,wikidata:P606,True,True,0.0007743004285662837,general_aviation,OK
+TB20,43,,,,,False,False,0.0007743004285662837,unknown,MED: need model_name to scrape entry_year
+P68,42,Partenavia P.68,,1970.0,wikidata:P606,True,True,0.0007562934418554399,unknown,OK
+CN35,41,,,,,False,False,0.0007382864551445961,unknown,MED: need model_name to scrape entry_year
+C25C,40,Cessna Citation CJ4,,,,True,False,0.0007202794684337523,general_aviation,MED: improve scraping (try other queries / props / sources)
+GL7T,40,Gulfstream G700,,2020.0,wikidata:P606,True,True,0.0007202794684337523,general_aviation,OK
+LJ75,39,,,,,False,False,0.0007022724817229085,unknown,MED: need model_name to scrape entry_year
+MD82,39,McDonnell Douglas MD-82,,1981.0,wikidata:P606,True,True,0.0007022724817229085,unknown,OK
+P06T,39,,,,,False,False,0.0007022724817229085,unknown,MED: need model_name to scrape entry_year
+L410,38,Let L-410 Turbolet,,1969.0,wikidata:P606,True,True,0.0006842654950120646,unknown,OK
+P212,38,Partenavia P.212,,,,True,False,0.0006842654950120646,unknown,MED: improve scraping (try other queries / props / sources)
+PC7,38,Pilatus PC-7,,1966.0,wikidata:P606,True,True,0.0006842654950120646,unknown,OK
+B764,37,Boeing 767-400,,1999.0,wikidata:P606,True,True,0.0006662585083012209,airliner,OK
+C408,37,,,,,False,False,0.0006662585083012209,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C550,37,Cessna Citation II,,1977.0,wikidata:P606,True,True,0.0006662585083012209,general_aviation,OK
+SB05,37,,,,,False,False,0.0006662585083012209,unknown,MED: need model_name to scrape entry_year
+B06,36,,,,,False,False,0.0006482515215903771,unknown,MED: need model_name to scrape entry_year
+B773,36,Boeing 777-300,,,,True,False,0.0006482515215903771,airliner,MED: improve scraping (try other queries / props / sources)
+BE10,36,,,,,False,False,0.0006482515215903771,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+EC30,36,,,,,False,False,0.0006482515215903771,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+HDJT,36,,,,,False,False,0.0006482515215903771,unknown,MED: need model_name to scrape entry_year
+C25M,35,Cessna Citation CJ3,,,,True,False,0.0006302445348795332,general_aviation,MED: improve scraping (try other queries / props / sources)
+U2,35,,,,,False,False,0.0006302445348795332,unknown,MED: need model_name to scrape entry_year
+B732,34,Boeing 737-200,,,,True,False,0.0006122375481686894,airliner,MED: improve scraping (try other queries / props / sources)
+CL2T,34,Bombardier 415,,1993.0,wikidata:P606,True,True,0.0006122375481686894,airliner,OK
+CRJX,34,Canadair Regional Jet 1000,,,,True,False,0.0006122375481686894,unknown,MED: improve scraping (try other queries / props / sources)
+F50,34,Fokker 50,,1985.0,wikidata:P606,True,True,0.0006122375481686894,military_or_special,OK
+JS32,34,British Aerospace Jetstream 32,,,,True,False,0.0006122375481686894,unknown,MED: improve scraping (try other queries / props / sources)
+A189,33,AgustaWestland AW189,,2011.0,wikidata:P606,True,True,0.0005942305614578457,unknown,OK
+MI8,32,Mil Mi-8,,1961.0,wikidata:P606,True,True,0.0005762235747470018,helicopter,OK
+AS32,31,Eurocopter AS332 Super Puma,,1978.0,wikidata:P606,True,True,0.000558216588036158,helicopter,OK
+T204,31,Tupolev Tu-204,,1989.0,wikidata:P606,True,True,0.000558216588036158,unknown,OK
+EC20,30,Eurocopter EC120 Colibri,,1995.0,wikidata:P606,True,True,0.0005402096013253142,helicopter,OK
+PA18,30,Piper PA-18 Super Cub,,1949.0,wikidata:P606,True,True,0.0005402096013253142,general_aviation,OK
+PA34,30,Piper PA-34 Seneca,,1967.0,wikidata:P606,True,True,0.0005402096013253142,general_aviation,OK
+AC90,29,Aero Commander 900,,,,True,False,0.0005222026146144705,unknown,MED: improve scraping (try other queries / props / sources)
+RJ1H,29,Avro RJ100,,1988.0,wikidata:P729,True,True,0.0005222026146144705,unknown,OK
+AC50,28,Aero Commander 500,,,,True,False,0.0005041956279036266,unknown,MED: improve scraping (try other queries / props / sources)
+AN12,28,Antonov An-12,,1957.0,wikidata:P606,True,True,0.0005041956279036266,unknown,OK
+C206,28,Cessna 206 Stationair,,1998.0,wikidata:P729,True,True,0.0005041956279036266,general_aviation,OK
+M339,28,Aermacchi MB-339,,1976.0,wikidata:P606,True,True,0.0005041956279036266,unknown,OK
+E290,27,Embraer E190-E2,,,,True,False,0.0004861886411927828,airliner,MED: improve scraping (try other queries / props / sources)
+R44,27,Robinson R44,,1990.0,wikidata:P606,True,True,0.0004861886411927828,helicopter,OK
+AT73,26,ATR 72-200,,,,True,False,0.000468181654481939,airliner,MED: improve scraping (try other queries / props / sources)
+C55B,26,Cessna Citation Bravo,,1977.0,wikidata:P606,True,True,0.000468181654481939,general_aviation,OK
+C82S,26,Cessna 182S Skylane,,,,True,False,0.000468181654481939,general_aviation,MED: improve scraping (try other queries / props / sources)
+M346,26,Alenia Aermacchi M-346,,2004.0,wikidata:P606,True,True,0.000468181654481939,unknown,OK
+R135,26,Boeing RC-135,,1965.0,wikidata:P606,True,True,0.000468181654481939,unknown,OK
+A148,25,Antonov An-148,,2004.0,wikidata:P606,True,True,0.00045017466777109516,unknown,OK
+A346,25,Airbus A340-600,,2001.0,wikidata:P606,True,True,0.00045017466777109516,airliner,OK
+B722,25,Boeing 727-200,,1967.0,wikidata:P606,True,True,0.00045017466777109516,airliner,OK
+C150,25,Cessna 150,,1957.0,wikidata:P606,True,True,0.00045017466777109516,general_aviation,OK
+EC55,25,Eurocopter EC155,,1997.0,wikidata:P606,True,True,0.00045017466777109516,helicopter,OK
+G115,25,Grob G115,,1988.0,wikidata:P729,True,True,0.00045017466777109516,unknown,OK
+LJ40,25,Learjet 40,,2002.0,wikidata:P606,True,True,0.00045017466777109516,general_aviation,OK
+TOBA,25,Unknown / TOBA,,,,True,False,0.00045017466777109516,unknown,MED: improve scraping (try other queries / props / sources)
+BN2T,24,Britten-Norman BN-2 Islander,,1965.0,wikidata:P606,True,True,0.0004321676810602514,unknown,OK
+DA62,24,Diamond DA62,,,,True,False,0.0004321676810602514,general_aviation,MED: improve scraping (try other queries / props / sources)
+JS41,24,British Aerospace Jetstream 41,,1991.0,wikidata:P606,True,True,0.0004321676810602514,unknown,OK
+K35E,24,,,,,False,False,0.0004321676810602514,unknown,MED: need model_name to scrape entry_year
+B1,23,Rockwell B-1B Lancer,,,,True,False,0.00041416069434940757,unknown,MED: improve scraping (try other queries / props / sources)
+L188,23,Lockheed L-188 Electra,,1957.0,wikidata:P606,True,True,0.00041416069434940757,military,OK
+RJ85,23,Avro RJ85,,1982.0,wikidata:P606,True,True,0.00041416069434940757,unknown,OK
+S2T,23,,,,,False,False,0.00041416069434940757,unknown,MED: need model_name to scrape entry_year
+SF50,23,Cirrus Vision SF50,,,,True,False,0.00041416069434940757,general_aviation,MED: improve scraping (try other queries / props / sources)
+BE4W,22,Beechcraft Beechjet 400A,,,,True,False,0.00039615370763856374,general_aviation,MED: improve scraping (try other queries / props / sources)
+C207,22,Cessna 207,,1968.0,wikidata:P606,True,True,0.00039615370763856374,general_aviation,OK
+F70,22,Fokker 70,,1993.0,wikidata:P606,True,True,0.00039615370763856374,military_or_special,OK
+Z42,22,Zenair / Z42 (ultralight),,,,True,False,0.00039615370763856374,unknown,MED: improve scraping (try other queries / props / sources)
+GLF3,21,Gulfstream III,,1979.0,wikidata:P606,True,True,0.00037814672092771997,general_aviation,OK
+PRM1,21,Raytheon Sentinel,,2004.0,wikidata:P606,True,True,0.00037814672092771997,unknown,OK
+C919,20,COMAC C-919,,,,True,False,0.00036013973421687614,airliner,MED: improve scraping (try other queries / props / sources)
+DRON,20,Drone / Unmanned,,,,True,False,0.00036013973421687614,unknown,MED: improve scraping (try other queries / props / sources)
+FA8X,20,Dassault Falcon 8X,,2015.0,wikidata:P606,True,True,0.00036013973421687614,unknown,OK
+G280,20,Gulfstream G280,,2009.0,wikidata:P606,True,True,0.00036013973421687614,general_aviation,OK
+GA8,20,GippsAero GA8 Airvan,,,,True,False,0.00036013973421687614,unknown,MED: improve scraping (try other queries / props / sources)
+J328,20,Fairchild Dornier 328JET,,1998.0,wikidata:P606,True,True,0.00036013973421687614,unknown,OK
+PUMA,20,,,,,False,False,0.00036013973421687614,unknown,MED: need model_name to scrape entry_year
+T154,20,Tupolev Tu-154,,1968.0,wikidata:P606,True,True,0.00036013973421687614,unknown,OK
+A124,19,Antonov AN-124 Ruslan,,1982.0,wikidata:P606,True,True,0.0003421327475060323,unknown,OK
+A310,19,Airbus A310,,1982.0,wikidata:P606,True,True,0.0003421327475060323,airliner,OK
+C650,19,Cessna Citation III,,1979.0,wikidata:P606,True,True,0.0003421327475060323,general_aviation,OK
+CRJ1,19,Canadair Regional Jet 100,,1991.0,wikidata:P606,True,True,0.0003421327475060323,airliner_or_regional,OK
+IL96,19,Ilyushin IL96,,,,True,False,0.0003421327475060323,unknown,MED: improve scraping (try other queries / props / sources)
+M28,19,,,,,False,False,0.0003421327475060323,unknown,MED: need model_name to scrape entry_year
+PZ3T,19,,,,,False,False,0.0003421327475060323,unknown,MED: need model_name to scrape entry_year
+YK42,19,Yakovlev Yak-42,,1975.0,wikidata:P606,True,True,0.0003421327475060323,unknown,OK
+A119,18,,,,,False,False,0.00032412576079518854,unknown,MED: need model_name to scrape entry_year
+B703,18,Boeing 707,,1957.0,wikidata:P606,True,True,0.00032412576079518854,airliner,OK
+DC3,18,Douglas DC-3,,1935.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+EXPL,18,Experimental / Unknown,,,,True,False,0.00032412576079518854,unknown,MED: improve scraping (try other queries / props / sources)
+FA50,18,Dassault Falcon 50,,1976.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+K100,18,,,,,False,False,0.00032412576079518854,unknown,MED: need model_name to scrape entry_year
+MD88,18,McDonnell Douglas MD-88,,1987.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+P8,18,Boeing P-8 Poseidon,,2009.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+PC9,18,Pilatus PC-9,,1984.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+SNGY,18,Experimental / SNGY,,,,True,False,0.00032412576079518854,unknown,MED: improve scraping (try other queries / props / sources)
+V10,18,Vickers VC10,,1962.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+YK40,18,Yakovlev Yak-40,,1966.0,wikidata:P606,True,True,0.00032412576079518854,unknown,OK
+AN26,17,Antonov An-26,,1969.0,wikidata:P606,True,True,0.0003061187740843447,unknown,OK
+CL2P,17,Bombardier CL-415,,1993.0,wikidata:P606,True,True,0.0003061187740843447,airliner,OK
+AS55,16,Eurocopter AS355 Écureuil 2,,1979.0,wikidata:P606,True,True,0.0002881117873735009,helicopter,OK
+BTB2,16,Beriev Be-200,,1998.0,wikidata:P606,True,True,0.0002881117873735009,unknown,OK
+CRUZ,16,Unknown / CRUZ,,,,True,False,0.0002881117873735009,unknown,MED: improve scraping (try other queries / props / sources)
+B462,15,BAe 146-200,,1982.0,wikidata:P606,True,True,0.0002701048006626571,unknown,OK
+C310,15,Cessna 310,,,,True,False,0.0002701048006626571,general_aviation,MED: improve scraping (try other queries / props / sources)
+DHC2,15,de Havilland Canada DHC-2 Beaver,,1947.0,wikidata:P606,True,True,0.0002701048006626571,unknown,OK
+G2CA,15,Gulfstream G200,,1997.0,wikidata:P606,True,True,0.0002701048006626571,general_aviation,OK
+Q4,15,Bombardier Dash 8 Q400,,,,True,False,0.0002701048006626571,airliner,MED: improve scraping (try other queries / props / sources)
+B463,14,BAe 146-300,,1988.0,wikidata:P729,True,True,0.0002520978139518133,unknown,OK
+SW3,14,,,,,False,False,0.0002520978139518133,unknown,MED: need model_name to scrape entry_year
+W3,14,,,,,False,False,0.0002520978139518133,unknown,MED: need model_name to scrape entry_year
+C185,13,,,,,False,False,0.0002340908272409695,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C212,13,,,,,False,False,0.0002340908272409695,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+DC93,13,Douglas DC-9-30,,1966.0,wikidata:P606,True,True,0.0002340908272409695,unknown,OK
+E390,13,Embraer C-390 Millennium,,2015.0,wikidata:P606,True,True,0.0002340908272409695,airliner_or_regional,OK
+G150,13,Gulfstream G150,,,,True,False,0.0002340908272409695,general_aviation,MED: improve scraping (try other queries / props / sources)
+IL18,13,Ilyushin IL18,,,,True,False,0.0002340908272409695,unknown,MED: improve scraping (try other queries / props / sources)
+Q9,13,,,,,False,False,0.0002340908272409695,unknown,MED: need model_name to scrape entry_year
+S61,13,Sikorsky S-61,,1959.0,wikidata:P606,True,True,0.0002340908272409695,unknown,OK
+AMX,12,Aermacchi AMX,,,,True,False,0.0002160838405301257,unknown,MED: improve scraping (try other queries / props / sources)
+B742,12,Boeing 747-200,,,,True,False,0.0002160838405301257,airliner,MED: improve scraping (try other queries / props / sources)
+BE19,12,,,,,False,False,0.0002160838405301257,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+CH7A,12,Zenair CH 701,,,,True,False,0.0002160838405301257,unknown,MED: improve scraping (try other queries / props / sources)
+DH3T,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+F406,12,,,,,False,False,0.0002160838405301257,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+LJ55,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+MU2,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+T134,12,Tupolev Tu-134,,1963.0,wikidata:P606,True,True,0.0002160838405301257,unknown,OK
+BE36,11,Beechcraft Bonanza,,1945.0,wikidata:P606,True,True,0.00019807685381928187,general_aviation,OK
+BE65,11,Beechcraft Queen Air,,1958.0,wikidata:P606,True,True,0.00019807685381928187,general_aviation,OK
+BE80,11,Beechcraft 1900,,1982.0,wikidata:P606,True,True,0.00019807685381928187,general_aviation,OK
+CVLT,11,,,,,False,False,0.00019807685381928187,unknown,MED: need model_name to scrape entry_year
+DC4,11,Douglas DC-4,,1942.0,wikidata:P606,True,True,0.00019807685381928187,unknown,OK
+HA4T,11,,,,,False,False,0.00019807685381928187,unknown,MED: need model_name to scrape entry_year
+IL62,11,Ilyushin IL62,,,,True,False,0.00019807685381928187,unknown,MED: improve scraping (try other queries / props / sources)
+PA27,11,,,,,False,False,0.00019807685381928187,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PA38,11,Piper PA-38 Tomahawk,,1977.0,wikidata:P729,True,True,0.00019807685381928187,general_aviation,OK
+SB20,11,Saab 2000,,1992.0,wikidata:P606,True,True,0.00019807685381928187,unknown,OK
+B105,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+BE76,10,Beechcraft Duchess,,1974.0,wikidata:P606,True,True,0.00018006986710843807,general_aviation,OK
+BK17,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+BL8,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+DC91,10,Douglas DC-9-10,,1965.0,wikidata:P606,True,True,0.00018006986710843807,unknown,OK
+FA10,10,Dassault Falcon 10,,1970.0,wikidata:P606,True,True,0.00018006986710843807,unknown,OK
+A338,9,Airbus A330-800neo,,,,True,False,0.00016206288039759427,airliner,MED: improve scraping (try other queries / props / sources)
+AN72,9,Antonov AN-72,,1977.0,wikidata:P606,True,True,0.00016206288039759427,unknown,OK
+C404,9,,,,,False,False,0.00016206288039759427,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+L39,9,Aero L-39 Albatros,,1968.0,wikidata:P606,True,True,0.00016206288039759427,unknown,OK
+MIR2,9,,,,,False,False,0.00016206288039759427,unknown,MED: need model_name to scrape entry_year
+PA32,9,,,,,False,False,0.00016206288039759427,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PIVI,9,Piaggio P.180 Avanti,,,,True,False,0.00016206288039759427,unknown,MED: improve scraping (try other queries / props / sources)
+0,8,,,,,False,False,0.00014405589368675045,unknown,MED: need model_name to scrape entry_year
+A318,8,Airbus A318,,2002.0,wikidata:P606,True,True,0.00014405589368675045,airliner,OK
+C501,8,,,,,False,False,0.00014405589368675045,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+EN48,8,Embraer EMB-120 Brasilia,,1983.0,wikidata:P606,True,True,0.00014405589368675045,airliner,OK
+F18H,8,Boeing F/A-18 Super Hornet,,1995.0,wikidata:P606,True,True,0.00014405589368675045,military_or_special,OK
+F35,8,Lockheed Martin F-35 Lightning II,,2006.0,wikidata:P606,True,True,0.00014405589368675045,military,OK
+JS31,8,British Aerospace Jetstream 31,,1980.0,wikidata:P606,True,True,0.00014405589368675045,unknown,OK
+LJ31,8,,,,,False,False,0.00014405589368675045,unknown,MED: need model_name to scrape entry_year
+TRIS,8,Pilatus Britten-Norman BN-2A Mk III Trislander,,,,True,False,0.00014405589368675045,unknown,MED: improve scraping (try other queries / props / sources)
+A337,7,Airbus A330-700 Beluga XL,,,,True,False,0.00012604890697590665,airliner,MED: improve scraping (try other queries / props / sources)
+ASTR,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+BE23,7,,,,,False,False,0.00012604890697590665,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE55,7,Beechcraft Baron / 55 Baron,,,,True,False,0.00012604890697590665,general_aviation,MED: improve scraping (try other queries / props / sources)
+BER2,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+C135,7,Boeing C-135 Stratolifter,,1956.0,wikidata:P606,True,True,0.00012604890697590665,general_aviation,OK
+C340,7,,,,,False,False,0.00012604890697590665,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+DC6,7,Douglas DC-6,,1946.0,wikidata:P606,True,True,0.00012604890697590665,unknown,OK
+H53,7,,,,,False,False,0.00012604890697590665,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+LAMA,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+LJ70,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+S22T,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+A30B,6,Airbus A300,,1972.0,wikidata:P606,True,True,0.00010804192026506285,airliner,OK
+AC6L,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+BE30,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE33,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C162,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C180,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C210,6,Cessna 210 Centurion,,,,True,False,0.00010804192026506285,general_aviation,MED: improve scraping (try other queries / props / sources)
+C82R,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+D140,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+DC87,6,Douglas DC-8-72,,,,True,False,0.00010804192026506285,unknown,MED: improve scraping (try other queries / props / sources)
+EA50,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+H25C,6,British Aerospace 125-1000 series / Hawker/Raytheon 1000,,,,True,False,0.00010804192026506285,helicopter,MED: improve scraping (try other queries / props / sources)
+H500,6,,,,,False,False,0.00010804192026506285,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+R66,6,Robinson R66,,2007.0,wikidata:P606,True,True,0.00010804192026506285,helicopter,OK
+SLG2,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+TBM7,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+TWEN,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+WW24,6,Ikarus C42,,1996.0,wikidata:P606,True,True,0.00010804192026506285,unknown,OK
+A210,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+A3ST,5,Airbus A300-600ST Super Transporter / Beluga,,,,True,False,9.003493355421904e-05,airliner,MED: improve scraping (try other queries / props / sources)
+AEST,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+AS21,5,,,,,False,False,9.003493355421904e-05,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+B736,5,Boeing 737-600,,1998.0,wikidata:P606,True,True,9.003493355421904e-05,airliner,OK
+B779,5,Boeing 777-9,,2020.0,wikidata:P606,True,True,9.003493355421904e-05,airliner,OK
+C46,5,Curtiss C-46 Commando,,1940.0,wikidata:P606,True,True,9.003493355421904e-05,unknown,OK
+CL41,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+CP10,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+CVLP,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+E300,5,Embraer EMB 120 Brasilia,,1983.0,wikidata:P606,True,True,9.003493355421904e-05,airliner,OK
+H160,5,,,,,False,False,9.003493355421904e-05,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+L159,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+M600,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+R22,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+SB39,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+XL2,5,,,,,False,False,9.003493355421904e-05,unknown,MED: need model_name to scrape entry_year
+A140,4,Antonov AN-140,,1997.0,wikidata:P606,True,True,7.202794684337522e-05,unknown,OK
+A158,4,Antonov An-158,,,,True,False,7.202794684337522e-05,unknown,MED: improve scraping (try other queries / props / sources)
+A342,4,Airbus A340-200,,1992.0,wikidata:P606,True,True,7.202794684337522e-05,airliner,OK
+AJET,4,Dassault-Dornier Alpha Jet,,1973.0,wikidata:P606,True,True,7.202794684337522e-05,unknown,OK
+AN24,4,Antonov AN-24,,1959.0,wikidata:P606,True,True,7.202794684337522e-05,unknown,OK
+AT44,4,,,,,False,False,7.202794684337522e-05,airliner_or_regional,MED: need model_name to scrape entry_year
+B430,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+BLCF,4,Boeing 747 LCF Dreamlifter,,2006.0,wikidata:P606,True,True,7.202794684337522e-05,airliner,OK
+BT7,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+C425,4,,,,,False,False,7.202794684337522e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C441,4,,,,,False,False,7.202794684337522e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+DHC7,4,De Havilland Canada DHC-7 Dash 7,,1975.0,wikidata:P606,True,True,7.202794684337522e-05,unknown,OK
+E3CF,4,Boeing E-3 Sentry,,1972.0,wikidata:P606,True,True,7.202794684337522e-05,military_or_special,OK
+F18,4,Boeing F/A-18 Hornet,,,,True,False,7.202794684337522e-05,military_or_special,MED: improve scraping (try other queries / props / sources)
+F28,4,Fokker F28 Fellowship,,1967.0,wikidata:P606,True,True,7.202794684337522e-05,military_or_special,OK
+GAZL,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+H269,4,,,,,False,False,7.202794684337522e-05,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+M345,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+MA60,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+MG29,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+P28S,4,,,,,False,False,7.202794684337522e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+P28T,4,Piper PA-28 Turbo,,,,True,False,7.202794684337522e-05,general_aviation,MED: improve scraping (try other queries / props / sources)
+P32R,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+PA30,4,,,,,False,False,7.202794684337522e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+S2P,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+SC7,4,Shorts SC-7 Skyvan,,1963.0,wikidata:P606,True,True,7.202794684337522e-05,unknown,OK
+T214,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+TBM9,4,,,,,False,False,7.202794684337522e-05,unknown,MED: need model_name to scrape entry_year
+A345,3,Airbus A340-500,,2002.0,wikidata:P606,True,True,5.4020960132531424e-05,airliner,OK
+AC95,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+ALO3,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+B222,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+B26,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+B3XM,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+B58T,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+BE18,3,,,,,False,False,5.4020960132531424e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE9T,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+BR23,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+C141,3,Lockheed C-141 Starlifter,,1963.0,wikidata:P606,True,True,5.4020960132531424e-05,military,OK
+C72R,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+COUR,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+DH2T,3,De Havilland Canada DHC-2 Turbo-Beaver,,,,True,False,5.4020960132531424e-05,unknown,MED: improve scraping (try other queries / props / sources)
+ECHO,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+F60,3,,,,,False,False,5.4020960132531424e-05,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+FBA2,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+GA7,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+M7,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+MD81,3,McDonnell Douglas MD-81,,1979.0,wikidata:P606,True,True,5.4020960132531424e-05,unknown,OK
+MD87,3,McDonnell Douglas MD-87,,1986.0,wikidata:P606,True,True,5.4020960132531424e-05,unknown,OK
+MD90,3,McDonnell Douglas MD-90,,1993.0,wikidata:P606,True,True,5.4020960132531424e-05,unknown,OK
+P28U,3,,,,,False,False,5.4020960132531424e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+P46T,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+PC6T,3,Pilatus PC-6 Turbo Porter,,,,True,False,5.4020960132531424e-05,unknown,MED: improve scraping (try other queries / props / sources)
+T34T,3,Beechcraft T-34 Mentor,,1948.0,wikidata:P606,True,True,5.4020960132531424e-05,general_aviation,OK
+W135,3,,,,,False,False,5.4020960132531424e-05,unknown,MED: need model_name to scrape entry_year
+AA5,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+AN28,2,Antonov AN-28,,1969.0,wikidata:P606,True,True,3.601397342168761e-05,unknown,OK
+AN30,2,Antonov AN-30,,1974.0,wikidata:P606,True,True,3.601397342168761e-05,unknown,OK
+AT3T,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+B37M,2,Boeing 737 MAX 7,,,,True,False,3.601397342168761e-05,airliner,MED: improve scraping (try other queries / props / sources)
+B461,2,BAe 146-100,,1981.0,wikidata:P606,True,True,3.601397342168761e-05,unknown,OK
+BALL,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+C414,2,,,,,False,False,3.601397342168761e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C421,2,,,,,False,False,3.601397342168761e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C77R,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+DC3T,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+DG1T,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+F27,2,Fokker F27 Friendship,,1955.0,wikidata:P606,True,True,3.601397342168761e-05,military_or_special,OK
+LCA,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+MD60,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+MI26,2,Mil Mi-26,,1977.0,wikidata:P606,True,True,3.601397342168761e-05,helicopter,OK
+P3C,2,Lockheed P-3C Orion,,,,True,False,3.601397342168761e-05,military,MED: improve scraping (try other queries / props / sources)
+PA46,2,Piper PA-46 Malibu,,1979.0,wikidata:P606,True,True,3.601397342168761e-05,general_aviation,OK
+PAT4,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+PAY1,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+PAY2,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+R722,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+SBR1,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+T33,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+T34P,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+TBM8,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+WB57,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+Z43,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+ZZZZ,2,,,,,False,False,3.601397342168761e-05,unknown,MED: need model_name to scrape entry_year
+A178,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+A313,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+AC68,1,Gulfstream/Rockwell (Aero) Commander,,,,True,False,1.8006986710843806e-05,general_aviation,MED: improve scraping (try other queries / props / sources)
+AN2,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+AN22,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+ARVA,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+AS3B,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+B06T,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+B743,1,Boeing 747-300,,1982.0,wikidata:P606,True,True,1.8006986710843806e-05,airliner,OK
+BDOG,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+BE24,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE60,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE95,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C177,1,Cessna 177 Cardinal,,1966.0,wikidata:P606,True,True,1.8006986710843806e-05,general_aviation,OK
+C337,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C5,1,,,,,False,False,1.8006986710843806e-05,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+C500,1,Cessna Citation I,,1969.0,wikidata:P606,True,True,1.8006986710843806e-05,general_aviation,OK
+C551,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C82T,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+CH53,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+CH7B,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+COL3,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+COL4,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+DHC3,1,De Havilland Canada DHC-3 Otter,,1951.0,wikidata:P606,True,True,1.8006986710843806e-05,unknown,OK
+DIMO,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+E275,1,,,,,False,False,1.8006986710843806e-05,airliner_or_regional,MED: need model_name to scrape entry_year
+E737,1,,,,,False,False,1.8006986710843806e-05,airliner_or_regional,MED: need model_name to scrape entry_year
+ER4,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+F104,1,,,,,False,False,1.8006986710843806e-05,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+F260,1,,,,,False,False,1.8006986710843806e-05,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+F5,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+FA6X,1,Dassault Falcon 6X,,,,True,False,1.8006986710843806e-05,unknown,MED: improve scraping (try other queries / props / sources)
+G21,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+GA4C,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+GB1,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+GRND,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+H46,1,,,,,False,False,1.8006986710843806e-05,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+HR20,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+HUSK,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+J3,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+K900,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+KA27,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+L8,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+LA4,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+LJ28,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+M20P,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+M20T,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+M5,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+M700,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+MH90,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+P28B,1,Piper PA-28 (above 200 hp),,1960.0,wikidata:P606,True,True,1.8006986710843806e-05,general_aviation,OK
+P32T,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+PA22,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PA23,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PA24,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PA25,1,,,,,False,False,1.8006986710843806e-05,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+PISI,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+PIVE,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+PTS2,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+Q25,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+R200,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+RFAL,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+RJ70,1,Avro RJ70,,1981.0,wikidata:P606,True,True,1.8006986710843806e-05,unknown,OK
+RV7,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+S330,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+SGUP,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+SH33,1,Shorts SD.330,,,,True,False,1.8006986710843806e-05,unknown,MED: improve scraping (try other queries / props / sources)
+SHIP,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+SKAR,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+SS2T,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+SVNH,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+T210,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+T6,1,Beechcraft T-6 Texan II,,2000.0,wikidata:P606,True,True,1.8006986710843806e-05,general_aviation,OK
+TAMP,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+TB21,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+TIGR,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+UH12,1,,,,,False,False,1.8006986710843806e-05,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+VR7,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+WACF,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+WACO,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year
+Z50,1,,,,,False,False,1.8006986710843806e-05,unknown,MED: need model_name to scrape entry_year

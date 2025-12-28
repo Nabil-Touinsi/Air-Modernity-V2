@@ -1,0 +1,25 @@
+airline_name,region,country,aircraft_count,avg_entry_year,pct_modern_2015,pct_modern_2010,modernity_score
+Australia - Royal Australian Air Force,Africa,Botswana,26,2005.0,0.0,0.0,0.0
+Australia - Royal Australian Air Force,Asia,Bhoutan,49,2000.0,0.0,0.0,0.0
+Cape Air,North America,Porto Rico,69,2000.0,0.0,0.0,0.0
+Civil Air Patrol,North America,Porto Rico,79,1908.962,0.0,0.0,0.0
+Colombia - Air Force,Europe,France,24,1997.0,0.0,0.0,0.0
+ENAC Ecole Aviation Civile,Europe,France,22,1954.0,0.0,0.0,0.0
+FlyBy,Europe,Espagne,10,1921.0,0.0,0.0,0.0
+Gouvernement du Quebec,North America,Canada,10,2020.0,100.0,100.0,150.0
+Italy - Air Force,Europe,Île de Man,38,2011.3421,55.26,55.26,82.89
+Jordan - Air Force,Asia,Jordanie,12,2000.0,0.0,0.0,0.0
+Norway - Air Force,Europe,Norvege,20,2002.75,0.0,0.0,0.0
+Pilatus Flugzeugwerke,Europe,Suisse,17,2000.0,0.0,0.0,0.0
+Saudi Arabia - Air Force,Europe,Guernesey,33,2001.6667,0.0,0.0,0.0
+Saudi Arabia - Air Force,Asia,Arabie saoudite,34,2001.4412,0.0,0.0,0.0
+Singapore - Air Force,Asia,Singapour,19,2000.0,0.0,0.0,0.0
+Spain - Air Force,Europe,Espagne,28,2002.8571,14.29,14.29,21.44
+United Arab Emirates - Air Force,Asia,Emirats arabes unis,28,1998.7857,3.57,3.57,5.36
+United Kingdom - Royal Air Force,Europe,Royaume-Uni,40,2005.0,0.0,0.0,0.0
+United Kingdom - Royal Air Force,Africa,Zimbabwe,24,1997.3333,0.0,0.0,0.0
+United Kingdom - Royal Air Force,Oceania,Nouvelle-Zélande,28,2005.0,0.0,0.0,0.0
+United Kingdom - Royal Air Force,Europe,Albanie,32,1997.0,0.0,0.0,0.0
+United Kingdom - Royal Navy,Africa,Zimbabwe,57,2001.3509,0.0,3.51,1.76
+United States - Air Force,North America,Etats-Unis,367,1978.1853,0.0,0.0,0.0
+United States - California Department of Forestry,North America,Porto Rico,12,1997.0,0.0,0.0,0.0

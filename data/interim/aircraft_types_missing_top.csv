@@ -1,0 +1,61 @@
+aircraft_type,rows,model_name,manufacturer,entry_year,source,has_model_name,has_entry_year,share_rows,guess_category,suggested_action
+EC25,52,,,,,False,False,0.000936363308963878,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+V22,45,,,,,False,False,0.0008103144019879714,unknown,MED: need model_name to scrape entry_year
+TB20,43,,,,,False,False,0.0007743004285662837,unknown,MED: need model_name to scrape entry_year
+CN35,41,,,,,False,False,0.0007382864551445961,unknown,MED: need model_name to scrape entry_year
+LJ75,39,,,,,False,False,0.0007022724817229085,unknown,MED: need model_name to scrape entry_year
+P06T,39,,,,,False,False,0.0007022724817229085,unknown,MED: need model_name to scrape entry_year
+C408,37,,,,,False,False,0.0006662585083012209,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+SB05,37,,,,,False,False,0.0006662585083012209,unknown,MED: need model_name to scrape entry_year
+B06,36,,,,,False,False,0.0006482515215903771,unknown,MED: need model_name to scrape entry_year
+BE10,36,,,,,False,False,0.0006482515215903771,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+EC30,36,,,,,False,False,0.0006482515215903771,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+HDJT,36,,,,,False,False,0.0006482515215903771,unknown,MED: need model_name to scrape entry_year
+U2,35,,,,,False,False,0.0006302445348795332,unknown,MED: need model_name to scrape entry_year
+K35E,24,,,,,False,False,0.0004321676810602514,unknown,MED: need model_name to scrape entry_year
+S2T,23,,,,,False,False,0.00041416069434940757,unknown,MED: need model_name to scrape entry_year
+PUMA,20,,,,,False,False,0.00036013973421687614,unknown,MED: need model_name to scrape entry_year
+M28,19,,,,,False,False,0.0003421327475060323,unknown,MED: need model_name to scrape entry_year
+PZ3T,19,,,,,False,False,0.0003421327475060323,unknown,MED: need model_name to scrape entry_year
+A119,18,,,,,False,False,0.00032412576079518854,unknown,MED: need model_name to scrape entry_year
+K100,18,,,,,False,False,0.00032412576079518854,unknown,MED: need model_name to scrape entry_year
+SW3,14,,,,,False,False,0.0002520978139518133,unknown,MED: need model_name to scrape entry_year
+W3,14,,,,,False,False,0.0002520978139518133,unknown,MED: need model_name to scrape entry_year
+C185,13,,,,,False,False,0.0002340908272409695,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C212,13,,,,,False,False,0.0002340908272409695,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+Q9,13,,,,,False,False,0.0002340908272409695,unknown,MED: need model_name to scrape entry_year
+BE19,12,,,,,False,False,0.0002160838405301257,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+DH3T,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+F406,12,,,,,False,False,0.0002160838405301257,military_or_special,LOW/MED: optional (non-core) — can ignore or map later
+LJ55,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+MU2,12,,,,,False,False,0.0002160838405301257,unknown,MED: need model_name to scrape entry_year
+CVLT,11,,,,,False,False,0.00019807685381928187,unknown,MED: need model_name to scrape entry_year
+HA4T,11,,,,,False,False,0.00019807685381928187,unknown,MED: need model_name to scrape entry_year
+PA27,11,,,,,False,False,0.00019807685381928187,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+B105,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+BK17,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+BL8,10,,,,,False,False,0.00018006986710843807,unknown,MED: need model_name to scrape entry_year
+C404,9,,,,,False,False,0.00016206288039759427,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+MIR2,9,,,,,False,False,0.00016206288039759427,unknown,MED: need model_name to scrape entry_year
+PA32,9,,,,,False,False,0.00016206288039759427,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+0,8,,,,,False,False,0.00014405589368675045,unknown,MED: need model_name to scrape entry_year
+C501,8,,,,,False,False,0.00014405589368675045,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+LJ31,8,,,,,False,False,0.00014405589368675045,unknown,MED: need model_name to scrape entry_year
+ASTR,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+BE23,7,,,,,False,False,0.00012604890697590665,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BER2,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+C340,7,,,,,False,False,0.00012604890697590665,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+H53,7,,,,,False,False,0.00012604890697590665,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+LAMA,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+LJ70,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+S22T,7,,,,,False,False,0.00012604890697590665,unknown,MED: need model_name to scrape entry_year
+AC6L,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+BE30,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+BE33,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C162,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C180,6,,,,,False,False,0.00010804192026506285,general_aviation,LOW/MED: optional (non-core) — can ignore or map later
+C82R,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+D140,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+EA50,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year
+H500,6,,,,,False,False,0.00010804192026506285,helicopter,LOW/MED: optional (non-core) — can ignore or map later
+SLG2,6,,,,,False,False,0.00010804192026506285,unknown,MED: need model_name to scrape entry_year

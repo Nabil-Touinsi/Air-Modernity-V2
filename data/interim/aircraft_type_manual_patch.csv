@@ -1,0 +1,333 @@
+aircraft_type,model_name_manual
+A109,AgustaWestland AW109
+A10,Fairchild Republic A-10 Thunderbolt II
+A139,AgustaWestland AW139
+A148,Antonov An-148
+A169,AgustaWestland AW169
+A189,AgustaWestland AW189
+A19N,Airbus A319neo
+A20N,Airbus A320neo
+A21N,Airbus A321neo
+A306,Airbus A300-600
+A319,Airbus A319
+A320,Airbus A320
+A321,Airbus A321
+A332,Airbus A330-200
+A333,Airbus A330-300
+A339,Airbus A330-900neo
+A343,Airbus A340-300
+A35K,Airbus A350-1000
+A359,Airbus A350-900
+A388,Airbus A380-800
+A400,Airbus A400M Atlas
+A748,Antonov An-74
+AC50,Aero Commander 500
+AC90,Aero Commander 900
+AJ27,COMAC ARJ21-700
+AJET,Dassault-Dornier Alpha Jet
+AMX,Aermacchi AMX
+AN12,Antonov An-12
+AN26,Antonov An-26
+AN32,Antonov An-32
+AS32,Eurocopter AS332 Super Puma
+AS50,Eurocopter AS350 Écureuil
+AS55,Eurocopter AS355 Écureuil 2
+AS65,Eurocopter AS365 Dauphin
+AT45,ATR 42-500
+AT46,ATR 42-600
+AT73,ATR 72-200
+AT75,ATR 72-500
+AT76,ATR 72-600
+AT8T,ATR 42-600
+B1,Rockwell B-1B Lancer
+B1B,Boeing B-1B Lancer
+B190,Beechcraft 1900
+B212,Bell 212
+B350,Beechcraft King Air 350
+B38M,Boeing 737 MAX 8
+B39M,Boeing 737 MAX 9
+B407,Bell 407
+B412,Bell 412
+B429,Bell 429
+B462,BAe 146-200
+B463,BAe 146-300
+B505,Bell 505 Jet Ranger X
+B52,Boeing B-52 Stratofortress
+B703,Boeing 707
+B712,Boeing 717-200
+B722,Boeing 727-200
+B733,Boeing 737-300
+B734,Boeing 737-400
+B735,Boeing 737-500
+B737,Boeing 737
+B738,Boeing 737-800
+B739,Boeing 737-900
+B744,Boeing 747-400
+B748,Boeing 747-8
+B752,Boeing 757-200
+B753,Boeing 757-300
+B762,Boeing 767-200
+B763,Boeing 767-300
+B772,Boeing 777-200
+B773,Boeing 777-300
+B77L,Boeing 777-200LR
+B77W,Boeing 777-300ER
+B788,Boeing 787-8
+B789,Boeing 787-9
+B78X,Boeing 787-10
+BCS1,Airbus A220-100 (Bombardier CS100)
+BCS3,Bombardier CS300
+BE20,Beechcraft King Air 200
+BE36,Beechcraft Bonanza
+BE40,Beechcraft Premier I
+BE4W,Beechcraft Beechjet 400A
+BE65,Beechcraft Queen Air
+BE76,Beechcraft Duchess
+BE80,Beechcraft 1900
+BE99,Beechcraft 99 Airliner
+BE9L,Beechcraft King Air 90
+BLCF,Boeing 747 LCF Dreamlifter
+BN2P,Britten-Norman BN-2 Islander
+BN2T,Britten-Norman BN-2 Islander
+BTB2,Beriev Be-200
+C130,Lockheed C-130 Hercules
+C135,Boeing C-135 Stratolifter
+C141,Lockheed C-141 Starlifter
+C150,Cessna 150
+C152,Cessna 152
+C17,Boeing C-17 Globemaster III
+C172,Cessna 172 Skyhawk
+C177,Cessna 177 Cardinal
+C182,Cessna 182 Skylane
+C206,Cessna 206 Stationair
+C207,Cessna 207
+C208,Cessna 208 Caravan
+C25A,Cessna Citation CJ2
+C25B,Cessna Citation CJ3
+C25M,Cessna Citation CJ3
+C27J,Alenia C-27J Spartan
+C295,Airbus C295
+C30J,Lockheed C-130J Super Hercules
+C310,Cessna 310
+C402,Cessna 402
+C46,Curtiss C-46 Commando
+C510,Cessna Citation Mustang
+C525,Cessna Citation CJ4
+C55B,Cessna Citation Bravo
+C560,Cessna Citation V
+C56X,Cessna Citation XLS
+C650,Cessna Citation III
+C680,Cessna Citation Sovereign
+C68A,Cessna Citation Latitude
+C5M,Lockheed C-5M Super Galaxy
+C700,Gulfstream G700
+C750,Cessna Citation X
+C82S,Cessna 182S Skylane
+CH7A,Zenair CH 701
+CL2P,Bombardier CL-415
+CL30,Bombardier Challenger 300
+CL35,Bombardier Challenger 350
+CL60,Bombardier Challenger 600 series
+CRJ2,Bombardier CRJ-200
+CRJ7,Bombardier CRJ-700
+CRJ9,Bombardier CRJ-900
+CRUZ,Unknown / CRUZ
+DA40,Diamond DA40
+DA42,Diamond DA42
+DA62,Diamond DA62
+DC10,McDonnell Douglas DC-10
+DC3,Douglas DC-3
+DC4,Douglas DC-4
+DHC2,de Havilland Canada DHC-2 Beaver
+DHC6,de Havilland Canada DHC-6 Twin Otter
+DH8A,De Havilland Canada Dash 8-100
+DH8B,De Havilland Canada Dash 8-200
+DH8C,De Havilland Canada Dash 8-300
+DH8D,Bombardier Dash 8 Q400
+D228,Dornier 228
+DRON,Drone / Unmanned
+DV20,Diamond DA20 Katana
+E110,Embraer EMB 110 Bandeirante
+E120,Embraer EMB 120 Brasilia
+E135,Embraer ERJ-135
+E145,Embraer ERJ-145
+E170,Embraer 170
+E190,Embraer 190
+E195,Embraer 195
+E290,Embraer E190-E2
+E295,Embraer E195-E2
+E300,Embraer EMB 120 Brasilia
+E314,Embraer ERJ-145
+E35L,Embraer Legacy 600/650
+E390,Embraer C-390 Millennium
+E3CF,Boeing E-3 Sentry
+E3TF,Boeing E-3 Sentry
+E45X,Embraer Legacy 450
+E50P,Embraer Phenom 100
+E545,Embraer Legacy 450
+E550,Embraer Legacy 500
+E55P,Embraer Phenom 300
+E75L,Embraer 175
+E75S,Embraer 175
+EC20,Eurocopter EC120 Colibri
+EC35,Eurocopter EC135
+EC45,Eurocopter EC145
+EC55,Eurocopter EC155
+EC75,Eurocopter EC175
+EH10,AgustaWestland EH101 Merlin
+EN48,Embraer EMB-120 Brasilia
+EUFI,Eurofighter Typhoon
+EXPL,Experimental / Unknown
+F100,Fokker 100
+F15,McDonnell Douglas F-15 Eagle
+F16,General Dynamics F-16 Fighting Falcon
+F18,Boeing F/A-18 Hornet
+F18H,Boeing F/A-18 Super Hornet
+F2TH,Dassault Falcon 2000
+F35,Lockheed Martin F-35 Lightning II
+F50,Fokker 50
+F70,Fokker 70
+FA10,Dassault Falcon 10
+FA20,Dassault Falcon 20
+FA6X,Dassault Falcon 6X
+FA7X,Dassault Falcon 7X
+FA8X,Dassault Falcon 8X
+G115,Grob G115
+G12T,Gulfstream G120
+G150,Gulfstream G150
+G2CA,Gulfstream G200
+GA5C,Gulfstream G500
+GA6C,Gulfstream G650
+GA7C,Gulfstream G700
+GA8,GippsAero GA8 Airvan
+GA8C,GippsAero GA8 Airvan
+GALX,Gulfstream G200
+GL5T,Gulfstream G500
+GL7T,Gulfstream G700
+GLF3,Gulfstream III
+GLF4,Gulfstream IV
+GLF5,Gulfstream V
+GLF6,Gulfstream G650/G650ER
+GLID,Glider (generic)
+GLEX,Bombardier Global Express
+H25B,Hawker 800
+H47,Boeing CH-47 Chinook
+H60,Sikorsky UH-60 Black Hawk
+H64,Boeing AH-64 Apache
+HAWK,BAE Hawk
+IL76,Ilyushin Il-76
+JS32,British Aerospace Jetstream 32
+JS41,British Aerospace Jetstream 41
+K35R,Boeing KC-135R Stratotanker
+L188,Lockheed L-188 Electra
+L39,Aero L-39 Albatros
+L410,Let L-410 Turbolet
+LJ35,Learjet 35
+LJ40,Learjet 40
+LJ45,Learjet 45
+LJ60,Learjet 60
+LYNX,Westland Lynx
+M339,Aermacchi MB-339
+M346,Alenia Aermacchi M-346
+MD11,McDonnell Douglas MD-11
+MD82,McDonnell Douglas MD-82
+MD83,McDonnell Douglas MD-83
+MI26,Mil Mi-26
+MI8,Mil Mi-8
+NH90,NHIndustries NH90
+P180,Piaggio P.180 Avanti
+P208,Tecnam P2008
+P212,Partenavia P.212
+P28A,Piper PA-28 Archer
+P28R,Piper PA-28R Arrow
+P28T,Piper PA-28 Turbo
+P3,Lockheed P-3 Orion
+P3C,Lockheed P-3C Orion
+P8,Boeing P-8 Poseidon
+PA18,Piper PA-18 Super Cub
+PA28,Piper PA-28 Cherokee
+PA31,Piper PA-31 Navajo
+PA34,Piper PA-34 Seneca
+PA38,Piper PA-38 Tomahawk
+PA44,Piper PA-44 Seminole
+PA46,Piper PA-46 Malibu
+PC12,Pilatus PC-12
+PC21,Pilatus PC-21
+PC24,Pilatus PC-24
+PC7,Pilatus PC-7
+PC9,Pilatus PC-9
+PC9M,Pilatus PC-9M
+PIVI,Piaggio P.180 Avanti
+PRM1,Raytheon Sentinel
+Q4,Bombardier Dash 8 Q400
+R135,Boeing RC-135
+R44,Robinson R44
+R66,Robinson R66
+RJ1H,Avro RJ100
+RJ85,Avro RJ85
+S76,Sikorsky S-76
+S92,Sikorsky S-92
+SF34,Saab 340
+SF50,Cirrus Vision SF50
+SH36,Shorts SD.360
+SIRA,Unknown / SIRA
+SNGY,Experimental / SNGY
+SR20,Cirrus SR20
+SR22,Cirrus SR22
+SU95,Sukhoi Superjet 100
+SW4,Swearingen Metroliner
+T206,Cessna T206 Stationair
+T34T,Beechcraft T-34 Mentor
+T38,Northrop T-38 Talon
+T6,Beechcraft T-6 Texan II
+TEST,Test / Unknown
+TEX2,Beechcraft T-6 Texan II
+TOBA,Unknown / TOBA
+TOR,Panavia Tornado
+TUCA,Emb-312 Tucano
+UH1,Bell UH-1 Iroquois
+V10,Vickers VC10
+WW24,Ikarus C42
+YK40,Yakovlev Yak-40
+YK42,Yakovlev Yak-42
+Z42,Zenair / Z42 (ultralight)
+aircraft_type,model_name_manual
+AT43,ATR 42-300
+EC25,Eurocopter EC225 Super Puma
+BE58,Beechcraft Baron 58
+AT72,ATR 72-500
+D328,Dornier 328
+F50,Fokker 50
+B190,Beechcraft 1900
+JS41,BAe Jetstream 41
+SF34,Saab 340
+EMB1,Embraer EMB-110 Bandeirante
+BE20,Beechcraft King Air 200
+DH8D,Bombardier Dash 8 Q400
+AT45,ATR 42-500
+BE36,Beechcraft Bonanza 36
+C208,Cessna 208 Caravan
+PC12,Pilatus PC-12
+EMB2,Embraer EMB-120 Brasilia
+C560,Cessna Citation V
+LJ45,Learjet 45
+SW4,Swearingen Metroliner
+AN24,Antonov An-24
+AN26,Antonov An-26
+IL18,Ilyushin Il-18
+IL76,Ilyushin Il-76
+TU95,Tupolev Tu-95
+AN12,Antonov An-12
+AN32,Antonov An-32
+MI8,Mil Mi-8
+MI17,Mil Mi-17
+KA32,Kamov Ka-32
+UH60,Sikorsky UH-60 Black Hawk
+AS50,Eurocopter AS350 Écureuil
+BELL,Bell 206 JetRanger
+R44,Robinson R44
+R22,Robinson R22
+H25B,AgustaWestland AW109
+C130,Lockheed C-130 Hercules
+Y12,Harbin Y-12
+PZ3T,PZL TS-11 Iskra
