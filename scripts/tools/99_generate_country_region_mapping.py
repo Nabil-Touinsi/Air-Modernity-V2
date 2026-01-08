@@ -207,7 +207,7 @@ Curacao,South America
 """
 
 def generate_fixed_mapping():
-    print("🌍 Génération du fichier de mapping corrigé...")
+    print(" Génération du fichier de mapping corrigé...")
     
     # Détection du chemin racine
     base_dir = Path(__file__).resolve().parent.parent if "scripts" in str(Path(__file__).parent) else Path(__file__).resolve().parent

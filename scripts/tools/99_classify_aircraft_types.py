@@ -235,7 +235,7 @@ def main() -> None:
 
     # 7) Console summary
     log("------------------------------------------------------------")
-    log("📊 SUMMARY")
+    log(" SUMMARY")
     log(f"- Types total            : {len(df)}")
     log(f"- With model_name         : {int(df['has_model_name'].sum())} ({pct(df['has_model_name'].mean())})")
     log(f"- With entry_year         : {int(df['has_entry_year'].sum())} ({pct(df['has_entry_year'].mean())})")

@@ -23,7 +23,7 @@ import streamlit as st
 # - exécute d'abord : python main.py
 # ============================================================
 
-st.set_page_config(page_title="Air-Modernity AI", layout="wide", page_icon="✈️")
+st.set_page_config(page_title="Air-Modernity AI", layout="wide", page_icon="")
 
 
 # --- CHARGEMENT ---
@@ -55,7 +55,7 @@ if df is None:
     st.stop()
 
 # --- SIDEBAR ---
-st.sidebar.header("🎛️ Filtres")
+st.sidebar.header(" Filtres")
 regions = st.sidebar.multiselect(
     "Régions",
     df["region"].dropna().unique(),
@@ -68,9 +68,9 @@ df_filt = df[(df["region"].isin(regions)) & (df["fleet_size"] >= min_fleet)]
 
 
 # --- TITRE ---
-st.title("✈️ Air-Modernity : Data Mining Project")
+st.title(" Air-Modernity : Data Mining Project")
 
-tab1, tab2 = st.tabs(["📊 Dashboard Business", "🧠 Laboratoire IA (K-Means/KNN)"])
+tab1, tab2 = st.tabs([" Dashboard Business", " Laboratoire IA (K-Means/KNN)"])
 
 # ==========================================
 # ONGLET 1 : BUSINESS
@@ -83,13 +83,13 @@ with tab1:
 
     if not df_filt.empty:
         top = df_filt.loc[df_filt["modernity_index"].idxmax()]
-        c4.metric("🏆 Top Modernité", top["airline_name"], f"{top['modernity_index']:.1%}")
+        c4.metric(" Top Modernité", top["airline_name"], f"{top['modernity_index']:.1%}")
 
     st.divider()
 
     col_g1, col_g2 = st.columns([2, 1])
     with col_g1:
-        st.subheader("🌍 Cartographie des Clusters (PCA)")
+        st.subheader(" Cartographie des Clusters (PCA)")
         fig_pca = px.scatter(
             df_filt[df_filt["cluster"] >= 0],
             x="pca_1",
@@ -103,7 +103,7 @@ with tab1:
         st.plotly_chart(fig_pca, use_container_width=True)
 
     with col_g2:
-        st.subheader("📊 Performance par Région")
+        st.subheader(" Performance par Région")
         reg_score = (
             df_filt.groupby("region")["modernity_index"]
             .mean()
@@ -121,7 +121,7 @@ with tab1:
         st.plotly_chart(fig_bar, use_container_width=True)
 
     st.divider()
-    st.subheader("📋 Liste Détaillée des Compagnies")
+    st.subheader(" Liste Détaillée des Compagnies")
 
     cols_to_show = ["airline_name", "region", "fleet_size", "modernity_index", "new_gen_share", "cluster"]
     existing_cols = [c for c in cols_to_show if c in df_filt.columns]
@@ -144,13 +144,13 @@ with tab1:
 # ONGLET 2 : IA
 # ==========================================
 with tab2:
-    st.header("🔬 Analyse Algorithmique")
+    st.header(" Analyse Algorithmique")
 
     col_km, col_knn = st.columns(2)
 
     # --- K-MEANS + INTERPRÉTATION ---
     with col_km:
-        st.subheader("1️⃣ K-Means (Méthode du Coude)")
+        st.subheader(" K-Means (Méthode du Coude)")
         fig_elbow = go.Figure()
         fig_elbow.add_trace(
             go.Scatter(
@@ -179,7 +179,7 @@ with tab2:
 
     # --- KNN + INTERPRÉTATION ---
     with col_knn:
-        st.subheader(f"2️⃣ KNN (Précision : {knn_metrics['accuracy']:.1%})")
+        st.subheader(f" KNN (Précision : {knn_metrics['accuracy']:.1%})")
         cm = np.array(knn_metrics["confusion_matrix"])
         fig_cm = px.imshow(cm, text_auto=True, color_continuous_scale="Blues", title="Matrice de Confusion")
         st.plotly_chart(fig_cm, use_container_width=True)
@@ -197,8 +197,8 @@ with tab2:
     st.divider()
 
     # --- PROFILS TYPES (Filtrés sans le -1) ---
-    st.subheader("📋 Cibles pour le Simulateur")
-    st.markdown("Voici les moyennes des **VRAIS clusters** (les compagnies exclues sont masquées).")
+    st.subheader(" Cibles pour le Simulateur")
+    st.markdown("Les moyennes des **clusters**.")
 
     clean_clusters = df[df["cluster"] >= 0]
     cols_profile = [c for c in ["fleet_size", "diversity_score", "modernity_index", "new_gen_share"] if c in clean_clusters.columns]
@@ -219,7 +219,7 @@ with tab2:
     )
 
     st.divider()
-    st.subheader("🤖 Simulateur de Prédiction")
+    st.subheader("Simulateur de Prédiction")
 
     col_sim1, col_sim2, col_sim3, col_sim4 = st.columns(4)
 
@@ -228,10 +228,10 @@ with tab2:
     val_mod = col_sim3.slider("Modernité", 0.0, 1.0, 0.4)
     val_ng = col_sim4.slider("Part New Gen", 0.0, 1.0, 0.3)
 
-    if st.button("🔮 Prédire le Cluster"):
+    if st.button("Prédire le Cluster"):
         user_data = np.array([[val_fleet, val_div, val_mod, val_ng]])
         user_data_scaled = scaler.transform(user_data)
         prediction = knn_model.predict(user_data_scaled)[0]
 
-        st.success(f"✅ Résultat de l'analyse IA : CLUSTER {prediction}")
-        st.info(f"Cette compagnie imaginaire appartient au Cluster {prediction}.")
+        st.success(f"Résultat de l'analyse IA : CLUSTER {prediction}")
+        st.info(f"Cette compagnie appartient au Cluster {prediction}.")

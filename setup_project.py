@@ -152,7 +152,7 @@ if __name__ == "__main__":
 files["app.py"] = """import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Air-Modernity V2", layout="wide", page_icon="✈️")
+st.set_page_config(page_title="Air-Modernity V2", layout="wide", page_icon="")
 
 @st.cache_data
 def load_clusters():
@@ -166,7 +166,7 @@ if df.empty:
     st.error("Aucune donnée trouvée. Lance d'abord : python main.py")
     st.stop()
 
-st.title("✈️ Air-Modernity V2 — Dashboard")
+st.title(" Air-Modernity V2 — Dashboard")
 st.write("Données : data/processed/airlines_clusters.csv")
 st.dataframe(df.head(50))
 """
